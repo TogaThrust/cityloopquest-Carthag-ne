@@ -1,0 +1,1550 @@
+{
+  "generatedAt": "2026-06-27T11:07:24.178Z",
+  "model": "gpt-4o-mini-tts",
+  "voice": "alloy",
+  "files": {
+    "audio/Palacio_Consistorial_de_Carthagene_fr.mp3": {
+      "hash": "c6d22ecf53c976f784fd1e54a58ddf0085d5e5bc",
+      "lang": "fr",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:07:55.070Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_nl.mp3": {
+      "hash": "a5c96db5067d5208129f784c43514adcc7f5f4f4",
+      "lang": "nl",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:08:19.257Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_en.mp3": {
+      "hash": "c5b0349dc27cd5d570b0c559ca9d41a0b882bcbd",
+      "lang": "en",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:08:48.887Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_de.mp3": {
+      "hash": "4b600049163ab11fbe224305491752f40c07c7e9",
+      "lang": "de",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:09:17.718Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_it.mp3": {
+      "hash": "ce71c156fcb0183feaf61805914f70d8d0d02cce",
+      "lang": "it",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:10:04.162Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_es.mp3": {
+      "hash": "3984f8fa16362a69f9f812986e15d9f2f925ec16",
+      "lang": "es",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:10:26.572Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_pl.mp3": {
+      "hash": "d14dc59c258eed8356b8370b4c098318919c124c",
+      "lang": "pl",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:10:32.892Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_ar.mp3": {
+      "hash": "74410440d99b96b04653dd57d6efc38f0fc1288c",
+      "lang": "ar",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:10:37.993Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_cn.mp3": {
+      "hash": "bc606a928e29124f80c3071d1f4ece6a890ccc49",
+      "lang": "cn",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:10:42.911Z"
+    },
+    "audio/Palacio_Consistorial_de_Carthagene_ja.mp3": {
+      "hash": "c30cc4514bda2658e7bd8fdeb5e2de8cea1c188e",
+      "lang": "ja",
+      "label": "POI parcours: Palacio Consistorial de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:10:48.860Z"
+    },
+    "audio/Theatre_Romain_fr.mp3": {
+      "hash": "46b54ea26522755cf6a1a190b97ed1f4fc944fac",
+      "lang": "fr",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:11:18.416Z"
+    },
+    "audio/Theatre_Romain_nl.mp3": {
+      "hash": "870e3e731d71525c2737c4fd41ffc02da4613620",
+      "lang": "nl",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:11:44.287Z"
+    },
+    "audio/Theatre_Romain_en.mp3": {
+      "hash": "07fc9bacb1f61dc17a81be02ecea537678641f58",
+      "lang": "en",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:12:08.548Z"
+    },
+    "audio/Theatre_Romain_de.mp3": {
+      "hash": "8ba47f4364310fcb7fd9eb5c54eb8e4ea0dd24f2",
+      "lang": "de",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:12:34.611Z"
+    },
+    "audio/Theatre_Romain_it.mp3": {
+      "hash": "1587c44b67734a1d55133cc0810e5e4583831462",
+      "lang": "it",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:13:10.273Z"
+    },
+    "audio/Theatre_Romain_es.mp3": {
+      "hash": "b914cf7f39a2d00c70607186844d5156b2097580",
+      "lang": "es",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:13:31.742Z"
+    },
+    "audio/Theatre_Romain_pl.mp3": {
+      "hash": "2d6b6ab411636674c9a4d409c878ac09c87e0262",
+      "lang": "pl",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:13:36.521Z"
+    },
+    "audio/Theatre_Romain_ar.mp3": {
+      "hash": "6faaeca7e4acdcb1e95a953e9221eedba0061712",
+      "lang": "ar",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:13:41.498Z"
+    },
+    "audio/Theatre_Romain_cn.mp3": {
+      "hash": "74ae1c1639700d9d084bc5f885db96a9d443654a",
+      "lang": "cn",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:13:46.413Z"
+    },
+    "audio/Theatre_Romain_ja.mp3": {
+      "hash": "388888c81e8b82e62dcc0b15f644e431afc5f510",
+      "lang": "ja",
+      "label": "POI parcours: Théâtre Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:13:52.603Z"
+    },
+    "audio/Castillo_de_la_Concepcion_fr.mp3": {
+      "hash": "784faaf32c330979f0c8229793fa01fa005e2ee7",
+      "lang": "fr",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:14:18.422Z"
+    },
+    "audio/Castillo_de_la_Concepcion_nl.mp3": {
+      "hash": "0ce9966f8ccc2eef55c04618eb90a4b36e9e8a04",
+      "lang": "nl",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:14:43.132Z"
+    },
+    "audio/Castillo_de_la_Concepcion_en.mp3": {
+      "hash": "aa6d5c5d8bbb345816244e1bb22626fbe2b5bd4b",
+      "lang": "en",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:15:05.508Z"
+    },
+    "audio/Castillo_de_la_Concepcion_de.mp3": {
+      "hash": "f2cb530b4ab59330395e7663706662295885cc00",
+      "lang": "de",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:15:29.162Z"
+    },
+    "audio/Castillo_de_la_Concepcion_it.mp3": {
+      "hash": "f3e08bee8b28c4bca2241a20d8d80fd69ad3157c",
+      "lang": "it",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:16:01.996Z"
+    },
+    "audio/Castillo_de_la_Concepcion_es.mp3": {
+      "hash": "8101582e484644b4acbff9cf1a6ab2b75b34d787",
+      "lang": "es",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:16:21.250Z"
+    },
+    "audio/Castillo_de_la_Concepcion_pl.mp3": {
+      "hash": "8638d058a7969b5d01a17aff9efa6aa3f74de1ec",
+      "lang": "pl",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:16:25.521Z"
+    },
+    "audio/Castillo_de_la_Concepcion_ar.mp3": {
+      "hash": "20c6fcbff6aae65aa003fe9c9018ac7d9e76b233",
+      "lang": "ar",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:16:30.266Z"
+    },
+    "audio/Castillo_de_la_Concepcion_cn.mp3": {
+      "hash": "af2c86ff96af7e59354784a5b30eb7db41629115",
+      "lang": "cn",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:16:34.763Z"
+    },
+    "audio/Castillo_de_la_Concepcion_ja.mp3": {
+      "hash": "46024e7c5a2470df38ed785a8a19fa1fd9ef5ffb",
+      "lang": "ja",
+      "label": "POI parcours: Castillo de la Concepción",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:16:40.191Z"
+    },
+    "audio/Quartier_du_Forum_Romain_fr.mp3": {
+      "hash": "cf0ca5eab44a72858bd5e42928f2bd96aea27270",
+      "lang": "fr",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:17:06.540Z"
+    },
+    "audio/Quartier_du_Forum_Romain_nl.mp3": {
+      "hash": "485fd13d67dad5ae40b663259a607aa98cbf060a",
+      "lang": "nl",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:17:29.624Z"
+    },
+    "audio/Quartier_du_Forum_Romain_en.mp3": {
+      "hash": "91f55ca0653fc168bd1510f3d10aae57d70c733d",
+      "lang": "en",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:17:53.627Z"
+    },
+    "audio/Quartier_du_Forum_Romain_de.mp3": {
+      "hash": "dacd07ac14be3f29dd1306ca57aaecf263f82d72",
+      "lang": "de",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:18:17.131Z"
+    },
+    "audio/Quartier_du_Forum_Romain_it.mp3": {
+      "hash": "7cc6f06adec4f07a5357313ece0f03d74e4d18a8",
+      "lang": "it",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:18:49.630Z"
+    },
+    "audio/Quartier_du_Forum_Romain_es.mp3": {
+      "hash": "307b086a45ee7514b7e0cd84c5c52955acdd5c5f",
+      "lang": "es",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:19:09.317Z"
+    },
+    "audio/Quartier_du_Forum_Romain_pl.mp3": {
+      "hash": "dadd727189f2f8a4527c741cd7b8adac3b8689c0",
+      "lang": "pl",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:19:13.590Z"
+    },
+    "audio/Quartier_du_Forum_Romain_ar.mp3": {
+      "hash": "4b24e7cc14cfdf83bdc4c015889a64f6d682d988",
+      "lang": "ar",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:19:18.042Z"
+    },
+    "audio/Quartier_du_Forum_Romain_cn.mp3": {
+      "hash": "472d2cf709f3034165a38fe92ca668d9b94da90b",
+      "lang": "cn",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:19:22.850Z"
+    },
+    "audio/Quartier_du_Forum_Romain_ja.mp3": {
+      "hash": "4552cf180a281b2043bbfc25868e5cad15d41ea9",
+      "lang": "ja",
+      "label": "POI parcours: Quartier du Forum Romain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:19:28.187Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_fr.mp3": {
+      "hash": "8c62fa21b263b47c9ceb3dccf57fa68b18d1e587",
+      "lang": "fr",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:19:54.015Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_nl.mp3": {
+      "hash": "a0faf906323a18fa1567cab058a77e7a165b0954",
+      "lang": "nl",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:20:16.463Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_en.mp3": {
+      "hash": "13dfd4d290ebb0f01d945ecf494311f4dbdd81d8",
+      "lang": "en",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:20:38.467Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_de.mp3": {
+      "hash": "e38fb269f244feef774ed3f2a5d16b8df5b2db0e",
+      "lang": "de",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:21:03.245Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_it.mp3": {
+      "hash": "2eaf4fc19b7f4a8e634160b660a54c7165222322",
+      "lang": "it",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:21:36.463Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_es.mp3": {
+      "hash": "aedaca08a6fbf042c008efb037134fc366d98a91",
+      "lang": "es",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:21:56.613Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_pl.mp3": {
+      "hash": "5d1001238d204de88320ac9cd46dfa389cc4fd81",
+      "lang": "pl",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:22:00.783Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_ar.mp3": {
+      "hash": "a7d507c3b94a773ca818c0ec417944e9c3a68893",
+      "lang": "ar",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:22:05.226Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_cn.mp3": {
+      "hash": "fddc6826c89bf00d9b4d1756ec01b1d2989b5ae8",
+      "lang": "cn",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:22:09.652Z"
+    },
+    "audio/La_Casa_de_la_Fortuna_ja.mp3": {
+      "hash": "1d8cc519a8276cf3c35188b32a45cae1383f6e39",
+      "lang": "ja",
+      "label": "POI parcours: La Casa de la Fortuna",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:22:14.932Z"
+    },
+    "audio/Muraille_Punique_fr.mp3": {
+      "hash": "4889cc258e1d62a731a6ae504806c51c5557fa2e",
+      "lang": "fr",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:22:40.624Z"
+    },
+    "audio/Muraille_Punique_nl.mp3": {
+      "hash": "dd4b685f77f205c1274eff8093d0aaaa67b9c2e0",
+      "lang": "nl",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:23:05.145Z"
+    },
+    "audio/Muraille_Punique_en.mp3": {
+      "hash": "943802def93fa6fed1a9d6c4de3e48d9349be611",
+      "lang": "en",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:23:26.614Z"
+    },
+    "audio/Muraille_Punique_de.mp3": {
+      "hash": "5deed8eb1dce32c5e2222f5fa92c850decef8abe",
+      "lang": "de",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:23:50.164Z"
+    },
+    "audio/Muraille_Punique_it.mp3": {
+      "hash": "0c02cc127bc1c8956c66917840b727cdfa565497",
+      "lang": "it",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:24:22.676Z"
+    },
+    "audio/Muraille_Punique_es.mp3": {
+      "hash": "d3c9ceb1fce43e014058dfff6eedaea7f2ea490d",
+      "lang": "es",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:24:41.896Z"
+    },
+    "audio/Muraille_Punique_pl.mp3": {
+      "hash": "82d068a6eb5d66b24aa8efe5d636241550684c66",
+      "lang": "pl",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:24:46.223Z"
+    },
+    "audio/Muraille_Punique_ar.mp3": {
+      "hash": "c5bca89bc33a330614050404a724da5c0838d734",
+      "lang": "ar",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:24:50.591Z"
+    },
+    "audio/Muraille_Punique_cn.mp3": {
+      "hash": "7b86c2a52cdf2ac6ce1c1537ae5d69cd1c360512",
+      "lang": "cn",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:24:54.992Z"
+    },
+    "audio/Muraille_Punique_ja.mp3": {
+      "hash": "2f4c652189f05364ce4fcfc1b8789f038ffd383f",
+      "lang": "ja",
+      "label": "POI parcours: Muraille Punique",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:25:00.377Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_fr.mp3": {
+      "hash": "fc97302ddd8ee23222fa0d668816907bbd39ebe1",
+      "lang": "fr",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:25:26.430Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_nl.mp3": {
+      "hash": "0be963946eba294448a19b94e0b5ddfeadecbdc2",
+      "lang": "nl",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:25:49.813Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_en.mp3": {
+      "hash": "9841dc84b7cdab0a103732ad3184fdc96b2908d3",
+      "lang": "en",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:26:12.139Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_de.mp3": {
+      "hash": "65852fa40f64422e2743027096e6110df3bf1342",
+      "lang": "de",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:26:35.700Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_it.mp3": {
+      "hash": "cb0c1c6da47f51b1eec7f336988a311f2542bb6a",
+      "lang": "it",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:27:07.460Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_es.mp3": {
+      "hash": "826d3e4f1a6c4e1131de91253ac2ab4ea49cda66",
+      "lang": "es",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:27:25.967Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_pl.mp3": {
+      "hash": "aa3e4253c0bab819d9d987754615e4d94cf89b26",
+      "lang": "pl",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:27:30.296Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_ar.mp3": {
+      "hash": "d38592afcefea85cee7987a09c37a2665933cbec",
+      "lang": "ar",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:27:34.561Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_cn.mp3": {
+      "hash": "545efe2f8d2e5866b2b47e30074878b818399b94",
+      "lang": "cn",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:27:39.016Z"
+    },
+    "audio/Museo_Nacional_de_Arqueologia_Subacuatica_ARQUA_ja.mp3": {
+      "hash": "c0c5342f1f3923457d3352a9ebb5e6e7648bf3a6",
+      "lang": "ja",
+      "label": "POI parcours: Museo Nacional de Arqueología Subacuática (ARQUA)",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:27:44.561Z"
+    },
+    "audio/Le_Port_de_Carthagene_fr.mp3": {
+      "hash": "a55f5c3adc208206b937b40155f01b40fba60a28",
+      "lang": "fr",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:28:08.830Z"
+    },
+    "audio/Le_Port_de_Carthagene_nl.mp3": {
+      "hash": "03461055431664685568d4ef26ca2e914e7fca37",
+      "lang": "nl",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:28:31.835Z"
+    },
+    "audio/Le_Port_de_Carthagene_en.mp3": {
+      "hash": "15af39a0ef614a63bcf66e0ef4966293050dd43e",
+      "lang": "en",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:28:54.969Z"
+    },
+    "audio/Le_Port_de_Carthagene_de.mp3": {
+      "hash": "7f3412211f6cab8831b770c1bb233d87ded2ae72",
+      "lang": "de",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:29:16.312Z"
+    },
+    "audio/Le_Port_de_Carthagene_it.mp3": {
+      "hash": "db30d3411c1311e10353639210d768d3587fcc2b",
+      "lang": "it",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:29:45.746Z"
+    },
+    "audio/Le_Port_de_Carthagene_es.mp3": {
+      "hash": "3fcf3a83808ed0b8aa880773e395b5bef75e09b2",
+      "lang": "es",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:30:03.141Z"
+    },
+    "audio/Le_Port_de_Carthagene_pl.mp3": {
+      "hash": "c498270c7dc33e667b165ef4e44b269464d035dc",
+      "lang": "pl",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:30:07.188Z"
+    },
+    "audio/Le_Port_de_Carthagene_ar.mp3": {
+      "hash": "38c3f91fed77fe60bf1e16622db182361eac379e",
+      "lang": "ar",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:30:11.236Z"
+    },
+    "audio/Le_Port_de_Carthagene_cn.mp3": {
+      "hash": "0ce0cf81ed5975d3435cb95c1199676456c4397b",
+      "lang": "cn",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:30:15.237Z"
+    },
+    "audio/Le_Port_de_Carthagene_ja.mp3": {
+      "hash": "77a9687d1d5b9aac670f93d7d6c4da7f910b1467",
+      "lang": "ja",
+      "label": "POI parcours: Le Port de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:30:20.120Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_fr.mp3": {
+      "hash": "040c733c8f2da2aa8334a728fe3c55f9a38d300b",
+      "lang": "fr",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:30:45.214Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_nl.mp3": {
+      "hash": "f7a45645a7c641b50c1a1660df179de354a9f315",
+      "lang": "nl",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:31:10.502Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_en.mp3": {
+      "hash": "bf1c8732535ac48c0e64c4ac63ef2e818acb1e2a",
+      "lang": "en",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:31:33.167Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_de.mp3": {
+      "hash": "ad5a7c2358a2c1bbc27e95692c8dcf4359d980dc",
+      "lang": "de",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:31:56.689Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_it.mp3": {
+      "hash": "55bc02f045edf69dac1ff87aa8a6d829be504248",
+      "lang": "it",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:32:27.971Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_es.mp3": {
+      "hash": "f323fc27cb78c85c4eb2f959d39e4970108ef7fa",
+      "lang": "es",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:32:46.186Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_pl.mp3": {
+      "hash": "3ed1f1a53713a243ea54817354b8b20a57c1e5c4",
+      "lang": "pl",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:32:50.788Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_ar.mp3": {
+      "hash": "e8f7853eb17df1e8aef4fb8695d2f13a4b439545",
+      "lang": "ar",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:32:55.906Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_cn.mp3": {
+      "hash": "30f1358d6fe9374e8af4ea03a11db7576795a3b5",
+      "lang": "cn",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:33:00.402Z"
+    },
+    "audio/Calle_Mayor_et_Gran_Hotel_ja.mp3": {
+      "hash": "3ccbce7e25ca6ad89eeba8274464b2db57ce93f8",
+      "lang": "ja",
+      "label": "POI parcours: Calle Mayor et Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:33:05.548Z"
+    },
+    "audio/Gran_Hotel_fr.mp3": {
+      "hash": "71cfedab58322dd1b80ff366217372beac8830d5",
+      "lang": "fr",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:33:29.801Z"
+    },
+    "audio/Gran_Hotel_nl.mp3": {
+      "hash": "58428b079d69a6a7f280be65d10a62ab4453e917",
+      "lang": "nl",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:33:52.878Z"
+    },
+    "audio/Gran_Hotel_en.mp3": {
+      "hash": "47e9f0cb701c700d7a11e8acd334ccaf37508b8a",
+      "lang": "en",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:34:13.681Z"
+    },
+    "audio/Gran_Hotel_de.mp3": {
+      "hash": "b1d3c1104e29c1f70881c838ffc62acc84f98b2c",
+      "lang": "de",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:34:35.440Z"
+    },
+    "audio/Gran_Hotel_it.mp3": {
+      "hash": "844f88a1bb4413b6152dcf0b3314438fef196835",
+      "lang": "it",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:35:04.026Z"
+    },
+    "audio/Gran_Hotel_es.mp3": {
+      "hash": "b2954a16d2144876f281d58ac18b87d84d033c28",
+      "lang": "es",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:35:21.892Z"
+    },
+    "audio/Gran_Hotel_pl.mp3": {
+      "hash": "9f0c9d5b64812c16f960490badc50317285a7161",
+      "lang": "pl",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:35:25.894Z"
+    },
+    "audio/Gran_Hotel_ar.mp3": {
+      "hash": "6a41331b80b3303cd61c1886de8e098cad632c52",
+      "lang": "ar",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:35:30.059Z"
+    },
+    "audio/Gran_Hotel_cn.mp3": {
+      "hash": "00404ff9d807f34497b81545a75066242605df0f",
+      "lang": "cn",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:35:34.195Z"
+    },
+    "audio/Gran_Hotel_ja.mp3": {
+      "hash": "50c244bd40bcecdb0ec2a28cdd5597a9de979645",
+      "lang": "ja",
+      "label": "POI parcours: Gran Hotel",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:35:39.269Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_fr.mp3": {
+      "hash": "6cdcccdf280b975437fca32a5c7a3c3946fd10b1",
+      "lang": "fr",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:36:04.189Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_nl.mp3": {
+      "hash": "b577a6eaa06e8ae1cc3d2def3ff49cadf6f348e3",
+      "lang": "nl",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:36:26.712Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_en.mp3": {
+      "hash": "76f5c07d219c1647e1ce08ea672a8933ed4462f6",
+      "lang": "en",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:36:48.686Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_de.mp3": {
+      "hash": "8c71e3e9e19931e7eb90cd222081d3351da56b7e",
+      "lang": "de",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:37:11.770Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_it.mp3": {
+      "hash": "5397ea07734c44fa898d16fa320dd5dd72741aff",
+      "lang": "it",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:37:42.390Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_es.mp3": {
+      "hash": "13bc317fc3aee677cc1bf20ff89523098dc4b3c6",
+      "lang": "es",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:38:00.643Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_pl.mp3": {
+      "hash": "e887361ae10ffeeea5a59b1b7b6626c72a834a37",
+      "lang": "pl",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:38:04.759Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_ar.mp3": {
+      "hash": "fdd435b8cc4835e9f33ab7655b466766d2eac8c7",
+      "lang": "ar",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:38:09.103Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_cn.mp3": {
+      "hash": "3f837839666fbdbcceb3c0a76f9c7936d8a0ba6f",
+      "lang": "cn",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:38:13.411Z"
+    },
+    "audio/Plaza_de_San_Francisco_et_Casa_Maestre_ja.mp3": {
+      "hash": "32cd93a52b58524272855a3bd740e944f2bf2b27",
+      "lang": "ja",
+      "label": "POI parcours: Plaza de San Francisco et Casa Maestre",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:38:18.264Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_fr.mp3": {
+      "hash": "ab50fbb605fdf22f002b7e301f49e4acb84c0535",
+      "lang": "fr",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:38:43.101Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_nl.mp3": {
+      "hash": "58868bb5c869106347d9ee01d16b2f74bfe5f515",
+      "lang": "nl",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:39:05.343Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_en.mp3": {
+      "hash": "0032591b4834fe98d6737985d147c4287aafb371",
+      "lang": "en",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:39:27.545Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_de.mp3": {
+      "hash": "6f341f143f39113bb773b59d5dbbda2232a549ae",
+      "lang": "de",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:39:49.232Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_it.mp3": {
+      "hash": "6c267a88c9e724b99be5ab8345c742875a0ab924",
+      "lang": "it",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:40:19.428Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_es.mp3": {
+      "hash": "be11f68255e65d1ef602f9a751fa28193da45d50",
+      "lang": "es",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:40:37.765Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_pl.mp3": {
+      "hash": "494819f3ab6cbf50a79a92ef5036ede79f371403",
+      "lang": "pl",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:40:41.743Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_ar.mp3": {
+      "hash": "1f4e88fd863ec6f62216f5b02764df16e951ddb3",
+      "lang": "ar",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:40:45.839Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_cn.mp3": {
+      "hash": "e5ef1ec72ff09648486aef35db2d26c3d30c63e3",
+      "lang": "cn",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:40:49.962Z"
+    },
+    "audio/Museo_Historico_Militar_de_Cartagena_ja.mp3": {
+      "hash": "a87f137d82e904efba93f838c248304409c3af83",
+      "lang": "ja",
+      "label": "POI parcours: Museo Histórico Militar de Cartagena",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:40:54.958Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_fr.mp3": {
+      "hash": "d4ef4a2a324c41ce1fdad30f94ea11055bf1b539",
+      "lang": "fr",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:41:20.418Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_nl.mp3": {
+      "hash": "4ba845d762237774a8e6e05d864111a772083f90",
+      "lang": "nl",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:41:42.067Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_en.mp3": {
+      "hash": "b2705b9cf3fee5e9aa854a22bdceacb571ff2bf7",
+      "lang": "en",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:42:03.209Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_de.mp3": {
+      "hash": "7aa5dbca87cb5bcae36bf55936d773f130deafc8",
+      "lang": "de",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:42:25.586Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_it.mp3": {
+      "hash": "81d290794883ef18e208d1a5f6313f7dcd523b6d",
+      "lang": "it",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:42:56.381Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_es.mp3": {
+      "hash": "cac578c5f18f0f9b5f7cb7608b49a6ebb81e9c77",
+      "lang": "es",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:43:14.100Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_pl.mp3": {
+      "hash": "9e53d2f1fc05764f50ddb9ef1a3f3d383d6b01b6",
+      "lang": "pl",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:43:18.437Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_ar.mp3": {
+      "hash": "80c8d358a9dd3b26db352ac79a0abeb8e4ed65d5",
+      "lang": "ar",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:43:22.737Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_cn.mp3": {
+      "hash": "2378ea977fc125d1fb129586fd9bedb348b61180",
+      "lang": "cn",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:43:27.543Z"
+    },
+    "audio/Sous_marin_Isaac_Peral_ja.mp3": {
+      "hash": "49772d02432a6a8851d214bf8bf298049590e699",
+      "lang": "ja",
+      "label": "POI parcours: Sous-marin Isaac Peral",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:43:33.342Z"
+    },
+    "audio/Ascensor_Panoramico_fr.mp3": {
+      "hash": "8648caca029085f306efed0af0ab6983abfc6da0",
+      "lang": "fr",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:43:55.904Z"
+    },
+    "audio/Ascensor_Panoramico_nl.mp3": {
+      "hash": "452bc264e539401c618fad472e64bbbcfe326200",
+      "lang": "nl",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:44:16.731Z"
+    },
+    "audio/Ascensor_Panoramico_en.mp3": {
+      "hash": "af0759a206a94323f5255576f6d0c15d51ebcf1b",
+      "lang": "en",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:44:36.338Z"
+    },
+    "audio/Ascensor_Panoramico_de.mp3": {
+      "hash": "67f745235de8a22295cf4093839c4fd3f6295881",
+      "lang": "de",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:44:55.665Z"
+    },
+    "audio/Ascensor_Panoramico_it.mp3": {
+      "hash": "fb25cc4a2ac020fe0a33b41ae41899d14bea23c4",
+      "lang": "it",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:45:24.063Z"
+    },
+    "audio/Ascensor_Panoramico_es.mp3": {
+      "hash": "5f54627dc0314c9f2001c9651afbe853fb67833b",
+      "lang": "es",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:45:40.490Z"
+    },
+    "audio/Ascensor_Panoramico_pl.mp3": {
+      "hash": "5b7a94d74d6bdf2c2e13b7b343d90a4d3c659369",
+      "lang": "pl",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:45:44.439Z"
+    },
+    "audio/Ascensor_Panoramico_ar.mp3": {
+      "hash": "8c7d2e2bd422fcdf7fea5b5af6f14731d9812a41",
+      "lang": "ar",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:45:48.406Z"
+    },
+    "audio/Ascensor_Panoramico_cn.mp3": {
+      "hash": "f090f41afb870afb4f319d0978c329c4791a3bd2",
+      "lang": "cn",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:45:52.297Z"
+    },
+    "audio/Ascensor_Panoramico_ja.mp3": {
+      "hash": "ad3117cf14743797edbe86a61faa5b5fe5728e9b",
+      "lang": "ja",
+      "label": "POI parcours: Ascensor Panorámico",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:45:55.707Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_fr.mp3": {
+      "hash": "a229815cc8becee4f3daf5b1e0cfb1faccba2cd6",
+      "lang": "fr",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:46:18.788Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_nl.mp3": {
+      "hash": "cdbe659cfb17591117161dffbe334452244f37e6",
+      "lang": "nl",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:46:42.119Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_en.mp3": {
+      "hash": "03e0a9336982a2698f3eddf8091f4e3ba2b747cf",
+      "lang": "en",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:47:01.987Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_de.mp3": {
+      "hash": "0279e24171d57838b1381e866dcd1ff4943263aa",
+      "lang": "de",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:47:22.250Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_it.mp3": {
+      "hash": "ddba3a22047444bff0b217c1f6b3fcbfd7aced75",
+      "lang": "it",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:47:51.127Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_es.mp3": {
+      "hash": "9635d18a22853f822105555109225052b3401095",
+      "lang": "es",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:48:07.915Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_pl.mp3": {
+      "hash": "ce6671cb3861c78c849d2238c587f71afc342efc",
+      "lang": "pl",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:48:11.631Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_ar.mp3": {
+      "hash": "9c31e212d619eb3b1361abacb48db1aa63dfd653",
+      "lang": "ar",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:48:15.704Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_cn.mp3": {
+      "hash": "3055e288714e1fba280679d323e9665746d5ef4e",
+      "lang": "cn",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:48:19.623Z"
+    },
+    "audio/Museo_Refugio_de_la_Guerre_Civile_ja.mp3": {
+      "hash": "1b9110a8f19c9e27b56ac362723ca0c2ffd17d7c",
+      "lang": "ja",
+      "label": "POI parcours: Museo-Refugio de la Guerre Civile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:48:24.305Z"
+    },
+    "audio/Anfiteatro_Romano_fr.mp3": {
+      "hash": "c232e631227d573e118197349e29f8619b1a7daf",
+      "lang": "fr",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:48:48.889Z"
+    },
+    "audio/Anfiteatro_Romano_nl.mp3": {
+      "hash": "e282379f0b94e549a2fcf75354451ffd8b91cfd1",
+      "lang": "nl",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:49:10.729Z"
+    },
+    "audio/Anfiteatro_Romano_en.mp3": {
+      "hash": "20e51183bd0c2418c56390fcf2bd8d2453570d53",
+      "lang": "en",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:49:31.909Z"
+    },
+    "audio/Anfiteatro_Romano_de.mp3": {
+      "hash": "e930679bdf2b5f3ad3e4e7ca79bd52f3f7f8e9f9",
+      "lang": "de",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:49:53.833Z"
+    },
+    "audio/Anfiteatro_Romano_it.mp3": {
+      "hash": "41e57f36175e5d6ed409dd9c2df07ec143f2b0fc",
+      "lang": "it",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:50:24.252Z"
+    },
+    "audio/Anfiteatro_Romano_es.mp3": {
+      "hash": "96182a78591307dd028d4e44ff7aae5eb8bb0ea6",
+      "lang": "es",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:50:42.117Z"
+    },
+    "audio/Anfiteatro_Romano_pl.mp3": {
+      "hash": "73cba61d141217c76c9399400e52592d39926caf",
+      "lang": "pl",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:50:46.427Z"
+    },
+    "audio/Anfiteatro_Romano_ar.mp3": {
+      "hash": "50b6bba39987b5bfeedd5d61d207aae10c14528b",
+      "lang": "ar",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:50:50.725Z"
+    },
+    "audio/Anfiteatro_Romano_cn.mp3": {
+      "hash": "0f1190e8b2cffc1f14403b1845b6140a5e745d67",
+      "lang": "cn",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:50:54.876Z"
+    },
+    "audio/Anfiteatro_Romano_ja.mp3": {
+      "hash": "8f0484419afaf00473351f3e21fa7bfe366f3b69",
+      "lang": "ja",
+      "label": "POI parcours: Anfiteatro Romano",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:51:00.051Z"
+    },
+    "audio/Arsenal_de_Carthagene_fr.mp3": {
+      "hash": "2a77192a00801c9d24e127da6083106ecf946f6e",
+      "lang": "fr",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Ambre",
+      "generatedAt": "2026-06-27T11:51:24.253Z"
+    },
+    "audio/Arsenal_de_Carthagene_nl.mp3": {
+      "hash": "33d6a07a940f7ef8bab5541ec65fb6110112cc18",
+      "lang": "nl",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-06-27T11:51:46.553Z"
+    },
+    "audio/Arsenal_de_Carthagene_en.mp3": {
+      "hash": "f25737d1e02d93bb22460b335e101818507aa850",
+      "lang": "en",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-06-27T11:52:07.621Z"
+    },
+    "audio/Arsenal_de_Carthagene_de.mp3": {
+      "hash": "05005ff2a6a6f07f30ab68c30856cfe2b1b71f46",
+      "lang": "de",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-06-27T11:52:28.671Z"
+    },
+    "audio/Arsenal_de_Carthagene_it.mp3": {
+      "hash": "3d11964e5394afdd5c8a0d17797d921c526ba895",
+      "lang": "it",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-06-27T11:52:58.990Z"
+    },
+    "audio/Arsenal_de_Carthagene_es.mp3": {
+      "hash": "2abfa0d06dd4a4f6836535f45e7a6e6f52607228",
+      "lang": "es",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-06-27T11:53:16.065Z"
+    },
+    "audio/Arsenal_de_Carthagene_pl.mp3": {
+      "hash": "3f204058d0a36e451461d3b4ae1f2f8c7749c57f",
+      "lang": "pl",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-06-27T11:53:19.822Z"
+    },
+    "audio/Arsenal_de_Carthagene_ar.mp3": {
+      "hash": "08bf44823b4b6b8e31dcf449a8e0db6a1310f458",
+      "lang": "ar",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-06-27T11:53:23.915Z"
+    },
+    "audio/Arsenal_de_Carthagene_cn.mp3": {
+      "hash": "9823eff7c33cf8895abf108252f65bb9feef6d84",
+      "lang": "cn",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-06-27T11:53:27.839Z"
+    },
+    "audio/Arsenal_de_Carthagene_ja.mp3": {
+      "hash": "ca3aad0b58639c7b3919d7c53d4fd36d7b6f652d",
+      "lang": "ja",
+      "label": "POI parcours: Arsenal de Carthagène",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-06-27T11:53:32.745Z"
+    }
+  },
+  "langRegenRequired": {},
+  "langAudioSyncedAt": {
+    "fr": "2026-06-27T11:53:32.757Z",
+    "nl": "2026-06-27T11:53:32.757Z",
+    "en": "2026-06-27T11:53:32.757Z",
+    "de": "2026-06-27T11:53:32.757Z",
+    "it": "2026-06-27T11:53:32.757Z",
+    "es": "2026-06-27T11:53:32.757Z",
+    "pl": "2026-06-27T11:53:32.757Z",
+    "ar": "2026-06-27T11:53:32.757Z",
+    "cn": "2026-06-27T11:53:32.757Z",
+    "ja": "2026-06-27T11:53:32.757Z"
+  }
+}

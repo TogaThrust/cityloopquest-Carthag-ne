@@ -1,0 +1,98 @@
+CityLoop Quest Carthagène - Release notes
+Version 26.07.04
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest Carthagène - Release notes
+Version 26.07.03
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest Carthagène - Release notes
+Version 26.07.02
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+- Updated main tour app logic.
+- Updated tour routes and stop coordinates.
+- Updated instructions and help page.
+- Updated main tour page.
+- Updated tour selection page.
+
+CityLoop Quest Carthagène - Release notes
+Version 26.07.01
+----------------------------------------
+- Factory regeneration for Carthagène.
+- Refreshed tour routes, culture pages, translations, quiz data and generated assets.
+- Initial release for Carthagène.
+- Includes 38 tour stop(s) across 3 route(s).
+- Includes 8 Explorer POI(s).
+- Includes 8 museum(s).
+- Includes quizzes for 17 tour stop(s).
+
+CityLoop Quest Carthagène - Release notes
+Version 26.06.26
+----------------------------------------
+
+précision clic et centrage page parcours
+
+CityLoop Quest Carthagène - Release notes
+Version 26.06.01
+----------------------------------------
+
+précision clic et centrage page parcours
+
+CityLoop Quest Carthagène - Release notes
+Version 26.02.03
+----------------------------------------
+
+new popup and removal of debug window
+
+CityLoop Quest Carthagène - Release notes
+Version 26.01.02
+----------------------------------------
+
+Fix Stripe webhook: idempotency + correct status codes
+Update mailer configuration
+Fix webhook idempotence + root GET
+Webhook: idempotence on session_id
+Invoice label: add city name
+Polish invoice PDF layout (A4 one-page)
+
+CityLoop Quest Carthagène - Release notes
+Version 25.12.05
+----------------------------------------
+
+implémentation email
+implémentation boutons Train/Tram/Bus et Uber
+Correction de bugs mineurs
+
+CityLoop Quest Carthagène - Release notes
+Version 25.11.04
+----------------------------------------
+
+
+Mise en place de la version Android avec carte fixe
+Bugs dûs à Android en carte mobile en mode web non natif
+
+CityLoop Quest Carthagène - Release notes
+Version 25.11.03
+----------------------------------------
+
+Modification description Gare de Carthagène
+
+CityLoop Quest Carthagène - Release notes
+Version 25.11.02
+----------------------------------------
+
+Mise en place de la Version
+Alerte de géolocalisation, contrôle des paramètres navigateur et appareil
+Modification page d'aide
+Modification page install/web
+
+CityLoop Quest Carthagène - Release notes
+Version 25.11.1
+----------------------------------------
+
+- Version initiale publiée
+
+

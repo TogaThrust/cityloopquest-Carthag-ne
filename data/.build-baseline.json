@@ -1,0 +1,105 @@
+{
+  "version": "26.07.04",
+  "savedAt": "2026-07-09T11:06:40.848Z",
+  "citySummary": {
+    "cityName": "Carthagène",
+    "appTitle": "CityLoop Quest Carthagène",
+    "routeCount": 3,
+    "enabledCircuits": [
+      "grand",
+      "moyen",
+      "petit"
+    ],
+    "routePois": {
+      "petit": [
+        "Calle Mayor et Gran Hotel",
+        "Castillo de la Concepción",
+        "La Casa de la Fortuna",
+        "Le Port de Carthagène",
+        "Muraille Punique",
+        "Museo Nacional de Arqueología Subacuática (ARQUA)",
+        "Palacio Consistorial de Carthagène",
+        "Quartier du Forum Romain",
+        "Théâtre Romain"
+      ],
+      "moyen": [
+        "Calle Mayor et Gran Hotel",
+        "Castillo de la Concepción",
+        "Gran Hotel",
+        "La Casa de la Fortuna",
+        "Le Port de Carthagène",
+        "Muraille Punique",
+        "Museo Histórico Militar de Cartagena",
+        "Museo Nacional de Arqueología Subacuática (ARQUA)",
+        "Palacio Consistorial de Carthagène",
+        "Plaza de San Francisco et Casa Maestre",
+        "Quartier du Forum Romain",
+        "Théâtre Romain"
+      ],
+      "grand": [
+        "Anfiteatro Romano",
+        "Arsenal de Carthagène",
+        "Ascensor Panorámico",
+        "Calle Mayor et Gran Hotel",
+        "Castillo de la Concepción",
+        "Gran Hotel",
+        "La Casa de la Fortuna",
+        "Le Port de Carthagène",
+        "Muraille Punique",
+        "Museo Histórico Militar de Cartagena",
+        "Museo Nacional de Arqueología Subacuática (ARQUA)",
+        "Museo-Refugio de la Guerre Civile",
+        "Palacio Consistorial de Carthagène",
+        "Plaza de San Francisco et Casa Maestre",
+        "Quartier du Forum Romain",
+        "Sous-marin Isaac Peral",
+        "Théâtre Romain"
+      ]
+    },
+    "explorationNames": [
+      "Bahía de Portmán",
+      "Batería de Castillitos",
+      "Cabo Tiñoso",
+      "Cala Cortina",
+      "Faro Cabo de Palos",
+      "La Manga del Mar Menor",
+      "Les plages de Calblanque",
+      "Sierra Minera de Cartagena-La Unión"
+    ],
+    "museumNames": [
+      "Casa de la Fortuna",
+      "Centro de Interpretación de la Muralla Púnica",
+      "Museo del Teatro Romano de Cartagena",
+      "Museo Foro Romano Molinete",
+      "Museo Histórico Militar de Cartagena",
+      "Museo Nacional de Arqueología Subacuática ARQUA",
+      "Museo Naval de Cartagena",
+      "Museo-Refugio de la Guerra Civil"
+    ],
+    "culturePageTitles": [
+      "Anecdotes fiables et intéressantes",
+      "Architecture locale",
+      "Conseils famille et accessibilité",
+      "Grandes périodes historiques",
+      "Lieux et habitudes gourmandes",
+      "Meilleurs moments de visite",
+      "Origines et développement",
+      "Personnages marquants",
+      "Quartiers et ambiances",
+      "Se déplacer",
+      "Spécialités locales",
+      "Traditions et événements"
+    ],
+    "quizPoiCount": 17,
+    "sourceLanguage": "fr"
+  },
+  "files": {
+    "app.js": "2c7bd01e927e57cd517334c10935b083aea77bc2cbbb9112b58622d5cbd02050",
+    "main.html": "52fe0121c648e850f1cf6f62a790540925cb9550bdd51e04f704e0d691e9fe59",
+    "parcours.html": "0ba777e90a50002869b0926a8090b3016998cb076152e24e815e33a89e5335df",
+    "circuit.html": "4952cf531e187f9746842987a57e81b9a74522da1d5d023e7d3a3aae5106e348",
+    "circuit-data.js": "c6330b5f9880c7b06168fad70d95fba32a3a3351f59065b01b168944589b7b7f",
+    "service-worker.js": "98fd60624ed6b183b739dc6ef7d2703b8c061155ec4b738102fab7c3b2157b43",
+    "instructions.html": "305b6cbfb25e6559d69c1f68b31274eb4b396b858acec18c4bd1dae472177d44"
+  }
+}

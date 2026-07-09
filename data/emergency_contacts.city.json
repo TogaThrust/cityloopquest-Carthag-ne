@@ -1,0 +1,676 @@
+{
+  "meta": {
+    "updatedAt": "2026-07-09",
+    "distanceNote": "Distances approximatives a vol d'oiseau ; temps de marche indicatif.",
+    "geocodeSource": "google-geocoding-api"
+  },
+  "emergencyByCountry": {
+    "belgique": {
+      "general": "112",
+      "police": "101",
+      "firefighters": "112",
+      "medical": "-"
+    },
+    "france": {
+      "general": "112",
+      "police": "17",
+      "firefighters": "18",
+      "medical": "15"
+    },
+    "espagne": {
+      "general": "112",
+      "police": "-",
+      "firefighters": "080 / 085",
+      "medical": "061"
+    }
+  },
+  "guardInfoByCountry": {
+    "france": {
+      "pharmacyNumber": "3237",
+      "pharmacyNote": "Service officiel pharmacie de garde.",
+      "veterinaryNumber": "3115",
+      "veterinaryNote": "Urgences veterinaires nationales."
+    }
+  },
+  "cityAliases": {
+    "carthagene": "carthagene"
+  },
+  "cities": {
+    "carthagene": {
+      "country": "Espagne",
+      "onDuty": {},
+      "facilities": [
+        {
+          "category": "hospital",
+          "name": "Hospital General Universitario Santa Lucía",
+          "address": "Calle Mezquita s/n, Paraje Los Arcos, 30202 Cartagena",
+          "phone": "+34 968 128 600",
+          "sourceUrl": "https://www.murciasalud.es/pagina.php?id=205645&idsec=4614",
+          "lat": 37.6015008,
+          "lng": -0.9611333999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "hospital",
+          "name": "Hospital Universitario Santa María del Rosell",
+          "address": "Paseo Alfonso XIII 61, 30203 Cartagena",
+          "phone": "+34 968 504 800",
+          "sourceUrl": "https://www.murciasalud.es/",
+          "lat": 37.6088838,
+          "lng": -0.976658,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "ALBADALEJO ORTIZ, DANIEL",
+          "address": "Cl.Juan Fernández, 42,  Cartagena",
+          "phone": "+34 968 513 350",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6123143,
+          "lng": -0.9884857,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "ALVAREZ-GÓMEZ GARCÍA, Mª BEGOÑA",
+          "address": "Cl.Jorge Juan, 3,  Cartagena",
+          "phone": "+34 968 535 377",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6147035,
+          "lng": -0.9942838999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "ANUNCI GELABERT, JOSE LUÍS",
+          "address": "Cl.Cabrera, 15,  Cartagena",
+          "phone": "+34 968 505 535",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6140984,
+          "lng": -0.9789530999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "ARRIBAS ROS, ADELIA",
+          "address": "Cl.Ribera de San Javier, s/n,  Cartagena",
+          "phone": "+34 968 122 866",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6122534,
+          "lng": -0.9840363,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "AVILÉS INGLÉS, ESTHER Y SÁEZ ALMAGRO, ANTONIO",
+          "address": "Cl.Gema, 18,  Cartagena",
+          "phone": "+34 968 513 339",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6205365,
+          "lng": -1.0005059,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "BARAZA LALIGA, JUAN CARLOS",
+          "address": "Cl.Juan Crisostomo Arriaga.esq. Prolongación Alfonso XIII,  Cartagena",
+          "phone": "+34 968 515 251",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6454035,
+          "lng": -1.0044236,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "BARCELÓ MERCADER, ASCENSIÓN",
+          "address": "Príncipe de Asturias, 21,  Cartagena",
+          "phone": "+34 968 505 476",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6101016,
+          "lng": -0.9897461000000001,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "BERNAL PÉREZ, GINÉS",
+          "address": "Alfonso XIII, 61. Los Dolores,  Cartagena",
+          "phone": "+34 968 512 539",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.641068,
+          "lng": -1.0036464,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "BUENDÍA MAYORDOMO, DIEGO",
+          "address": "Cl.Covadonga, 8,  Cartagena",
+          "phone": "+34 968 510 197",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6238997,
+          "lng": -0.9846134,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CALERO GONZÁLEZ, COVADONGA",
+          "address": "Cl.Santiago, 13,  Cartagena",
+          "phone": "+34 968 507 734",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.598179,
+          "lng": -0.9721962000000001,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CANO CERÓN, LUIS",
+          "address": "Juan de la Cosa, 7,  Cartagena",
+          "phone": "+34 968 123 715",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6066069,
+          "lng": -0.981656,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CANO CERÓN, MIGUEL SALVADOR",
+          "address": "Ps.Alfonso XIII, 39,  Cartagena",
+          "phone": "+34 968 504 009",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6070479,
+          "lng": -0.9834613000000001,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CANOVAS KASTENMULLER, CRISTINA",
+          "address": "AV.Colon, 132,  Cartagena",
+          "phone": "+34 968 511 242",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6206793,
+          "lng": -0.9976355,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CELDRÁN POYATO, MARÍA CARMEN",
+          "address": "Cl.Puentedeume, 2,  Cartagena",
+          "phone": "+34 968 508 238",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6105178,
+          "lng": -0.9738753,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CELDRÁN VIDAL, ENRIQUE",
+          "address": "Cl.Angel Bruna, 5,  Cartagena",
+          "phone": "+34 968 564 229",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6076562,
+          "lng": -0.9851633,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CERVANTES LANGLE, PABLO JOSÉ",
+          "address": "Al.de Colón, 33,  Cartagena",
+          "phone": "+34 968 314 191",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6164779,
+          "lng": -0.9959141,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CLEMENTE ARASCUÑAGA, MERCEDES",
+          "address": "Avda. Alfonso XIII, 62,  Cartagena",
+          "phone": "+34 968 508 590",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6412653,
+          "lng": -1.0033093,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CONESA ZAMORA, PABLO Y RODRIGUEZ ARCAS Mª JESÚS",
+          "address": "Cr.de La Palma,55.Los Barreros,  Cartagena",
+          "phone": "+34 968 511 568",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.62844339999999,
+          "lng": -0.9979729,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "CRESPO GÁLVEZ, M.DOLORES",
+          "address": "Alameda San Antón, 16,  Cartagena",
+          "phone": "+34 968 501 936",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6096678,
+          "lng": -0.9926719999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "DE LOS SANTOS CLEMENTE, Mª INÉS",
+          "address": "Ramón y Cajal, 27,  Cartagena",
+          "phone": "+34 968 512 667",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6113098,
+          "lng": -0.9920255999999998,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "DESMONT GUTIERREZ, JUAN",
+          "address": "San Diego, 40,  Cartagena",
+          "phone": "+34 968 502 183",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.603256,
+          "lng": -0.9795843999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "DÍAZ GARCÍA, Mª JESÚS",
+          "address": "Plaza España, 4,  Cartagena",
+          "phone": "+34 968 502 778",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6055623,
+          "lng": -0.9919355999999998,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "DÍEZ GARCÍA, MARIANO RAMÓN",
+          "address": "Cl.Recoletos, 59,  Cartagena",
+          "phone": "+34 968 511 827",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6184739,
+          "lng": -0.9995737,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "FERNÁNDEZ-PACHECO PÉREZ, PABLO",
+          "address": "Cl.Submarino, 75,  Cartagena",
+          "phone": "+34 968 516 611",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6268969,
+          "lng": -0.9886548,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "GARCÍA DÍAZ, AMBROSIO",
+          "address": "Salitre, 4,  Cartagena",
+          "phone": "+34 968 506 761",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6051399,
+          "lng": -0.9891553999999998,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "GONZÁLEZ CONESA, FAUSTINA Y ALVAREZ-GÓMEZ GONZÁLEZ, ADELA",
+          "address": "San Fernardo, 68,  Cartagena",
+          "phone": "+34 968 503 123",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6253022,
+          "lng": -0.9972219,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "GUTIERREZ PÉREZ, JUAN JOSÉ Y GUTIERREZ PÉREZ, RAFAEL",
+          "address": "Juan Fernández, 12,  Cartagena",
+          "phone": "+34 968 503 829",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6253022,
+          "lng": -0.9972219,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "HERNÁNDEZ MIJARES, MARIANO",
+          "address": "Puertas de Murcia,  44,  Cartagena",
+          "phone": "+34 968 501 128",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6029588,
+          "lng": -0.9878817,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "IBAÑEZ PASCUAL, CARMEN",
+          "address": "Cr.de Media Sala, 34. Los Barreros,  Cartagena",
+          "phone": "+34 968 511 107",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6288107,
+          "lng": -0.9961282,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "IGUAZ CLEMENTE, INÉS",
+          "address": "Cl.Picos de Urbión, s/n,  Cartagena",
+          "phone": "+34 968 316 242",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.620255,
+          "lng": -1.0069638,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "JIMÉNEZ SERRANO, JOSÉ LUIS",
+          "address": "Serreta, 11,  Cartagena",
+          "phone": "+34 968 508 010",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6036318,
+          "lng": -0.9838334,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MARTINEZ LIARTE Y SAQUERO MARTINEZ",
+          "address": "Av.San Juan Bosco,15,  Cartagena",
+          "phone": "+34 968 510 878",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6363569,
+          "lng": -1.009329,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MARTINEZ MORENO, PEDRO",
+          "address": "Carlos III, 2 (junto mercado Sta. Florentina),  Cartagena",
+          "phone": "+34 968 504 384",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.603667,
+          "lng": -0.9875886,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MARTÍNEZ GÓMEZ, ALFONSO",
+          "address": "Pz.Padre Marín, 12,  Cartagena",
+          "phone": "",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6190392,
+          "lng": -0.9886970999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MARTÍNEZ MARTÍNEZ, CECILIO",
+          "address": "Capitanes Ripoll, 6,  Cartagena",
+          "phone": "+34 968 501 291",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.605217,
+          "lng": -0.9774274,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MECA MADRID, MARÍA JOSE",
+          "address": "Cl.Ramón y Cajal, 120,  Cartagena",
+          "phone": "+34 968 510 661",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6163363,
+          "lng": -0.9935919,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MONTOYA SORIA, MARÍA JESÚS",
+          "address": "Cl.Ramón y Cajal, 162,  Cartagena",
+          "phone": "+34 968 513 227",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6206137,
+          "lng": -0.9952692,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MORA GÓNGORA, MARIA LUZ",
+          "address": "Pintor Balaca, 20,  Cartagena",
+          "phone": "+34 968 503 735",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.60861999999999,
+          "lng": -0.98874,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MORALES GALINDO, MARÍA",
+          "address": "Av.Reina Victoria, 46,  Cartagena",
+          "phone": "+34 968 505 926",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6093242,
+          "lng": -0.9829340999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MORALES RAMÍREZ, MARÍA DEL MAR Y MARÍA DOLORES",
+          "address": "Cl.Submarino, 67,  Cartagena",
+          "phone": "+34 968 516 611",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6262778,
+          "lng": -0.9888939,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MORENO ARRIBAS, ANTONIO JOSÉ",
+          "address": "Cl.Hermanos Pinzón, 25,  Cartagena",
+          "phone": "+34 968 512 962",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6183778,
+          "lng": -0.9975194,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "MORENO BEJAR, MARÍA CECILIA",
+          "address": "Cl.Carmen Conde, s/n,  Cartagena",
+          "phone": "+34 968 510 805",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6197283,
+          "lng": -0.9926008,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "ORTEGA ORTEGA, LUIS ALBERTO",
+          "address": "Cl.Mompeán, 18-20,  Cartagena",
+          "phone": "+34 968 504 449",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6036123,
+          "lng": -0.9741655,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "PAREDES CEREZUELA, ADELA",
+          "address": "Peroniño, 61 Bº Concepción,  Cartagena",
+          "phone": "+34 968 503 703",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6062336,
+          "lng": -0.9981954,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "PINTADO ARMERO, LEONOR",
+          "address": "Ramón y Cajal, 6,  Cartagena",
+          "phone": "+34 968 500 762",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6080556,
+          "lng": -0.9903793999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "PÉREZ COUTIÑO, MILLÁN",
+          "address": "Alfonso XIII, 13,  Cartagena",
+          "phone": "+34 968 512 547",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6069712,
+          "lng": -0.9869855000000001,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "PÉREZ GARCÍA, MARÍA ENGRACIA",
+          "address": "Cl.Samaniego, 2,  Cartagena",
+          "phone": "+34 968 504 790",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6091657,
+          "lng": -0.9801918000000001,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "PÉREZ MARTINEZ, PEDRO ÁNGEL",
+          "address": "Cr.de Barrio Peral, 39,  Cartagena",
+          "phone": "+34 968 314 334",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6216181,
+          "lng": -0.9889112999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "ROS BIELSA, Mª DOLORES",
+          "address": "Mayor, 28,  Cartagena",
+          "phone": "+34 968 501 557",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6385668,
+          "lng": -1.006941,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "RUIZ MARTÍNEZ, Mª ROSA",
+          "address": "Almirante Baldasano, 19,  Cartagena",
+          "phone": "+34 968 510 401",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.614439,
+          "lng": -0.9896878,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SAMPER ALBALADEJO, SEBASTIÁN",
+          "address": "Cala Flores, 10,  Cartagena",
+          "phone": "+34 968 563 472",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6253022,
+          "lng": -0.9972219,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SANCHEZ PEÑUELA, JUAN BAUTISTA Y LEJARRAGA AZCARRETA, MARGARITA",
+          "address": "Plaza San Francisco, 4,  Cartagena",
+          "phone": "+34 968 501 226",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.602023,
+          "lng": -0.9845953999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SANTOS OLIVA, GERARDO",
+          "address": "Duque, 1,  Cartagena",
+          "phone": "+34 968 501 442",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6253022,
+          "lng": -0.9972219,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SUAREZ HURLE, NORMA",
+          "address": "Mayor, 2   Bº Concepción,  Cartagena",
+          "phone": "+34 968 502 243",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.603995,
+          "lng": -0.9980148000000001,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SÁEZ MORENO, CASTORA",
+          "address": "Alameda San Antón, 33,  Cartagena",
+          "phone": "+34 968 314 191",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6114515,
+          "lng": -0.9943682,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SÁNCHEZ CARRASCOSA, FRANCISCO JAVIER",
+          "address": "Real, 84,  Cartagena",
+          "phone": "+34 968 507 731",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6275914,
+          "lng": -0.9973413,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SÁNCHEZ CARRASCOSA, JUAN B.",
+          "address": "Aire, 34,  Cartagena",
+          "phone": "+34 968 503 746",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6033473,
+          "lng": -0.9837410999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "SÁNCHEZ CARRASCOSA, SALVADOR",
+          "address": "Serreta, 1,  Cartagena",
+          "phone": "+34 968 503 715",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6253022,
+          "lng": -0.9972219,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "TORNELL SÁNCHEZ, MARÍA CRUZ",
+          "address": "Sirios, 3,  Cartagena",
+          "phone": "+34 968 564 422",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6253022,
+          "lng": -0.9972219,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "pharmacy",
+          "name": "YELO CLEMENTE, AMPARO",
+          "address": "Cl.Vereda de San Félix,59,  Cartagena",
+          "phone": "+34 968 516 226",
+          "sourceUrl": "https://datosabiertos.regiondemurcia.es/carm/catalogo/sanidad/farmacias",
+          "lat": 37.6297766,
+          "lng": -0.9892276999999999,
+          "geocodeSource": "google"
+        },
+        {
+          "category": "veterinary",
+          "name": "Centro Veterinario Cartagena",
+          "address": "Av. Juan Carlos I 59, 30310 Cartagena",
+          "phone": "+34 968 530 688 / +34 617 506 312",
+          "sourceUrl": "https://centroveterinariocartagena.es/",
+          "lat": 37.6259136,
+          "lng": -1.0015936,
+          "geocodeSource": "google"
+        }
+      ]
+    }
+  }
+}

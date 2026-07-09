@@ -1,0 +1,4952 @@
+{
+  "fr": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "En quelle année le Palacio Consistorial actuel est-il achevé ?",
+        "options": [
+          "En 1765, comme dépendance directe de l’arsenal bourbonien",
+          "En 1907, dans l’élan moderniste de la ville",
+          "En 1939, pour commémorer la fin de la guerre civile"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel élément intérieur est particulièrement associé au prestige du bâtiment ?",
+        "options": [
+          "Un cloître médiéval conservé sous la salle des fêtes",
+          "Un escalier impérial en marbre de Macael",
+          "Une citerne punique visible depuis la façade"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que permet de comprendre la place devant l’hôtel de ville ?",
+        "options": [
+          "La limite exacte de l’ancien amphithéâtre romain",
+          "Le lien entre pouvoir municipal, promenade bourgeoise et front portuaire",
+          "L’emplacement des anciennes mines d’argent sous la rade"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "À quelle période le théâtre romain est-il généralement daté ?",
+        "options": [
+          "Au milieu du IIIe siècle après J.-C., sous les raids barbares",
+          "Au XIIe siècle, comme arène médiévale fortifiée",
+          "À la fin du Ier siècle avant notre ère"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi sa redécouverte a-t-elle marqué Carthagène ?",
+        "options": [
+          "Elle a prouvé que la ville n’avait jamais eu de port antique",
+          "Elle a révélé un grand monument longtemps caché sous le quartier",
+          "Elle a remplacé définitivement le château par un bâtiment moderne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel détail faut-il observer pour comprendre son implantation ?",
+        "options": [
+          "La courbe des gradins appuyés sur la pente naturelle",
+          "Les créneaux médiévaux qui entourent entièrement la scène",
+          "Les rails industriels conservés au centre de l’orchestra"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "Quelle est la première qualité stratégique du Castillo de la Concepción ?",
+        "options": [
+          "Son rôle de marché couvert pour les pêcheurs du port",
+          "Sa position de belvédère sur la rade et les accès de la ville",
+          "Son sous-sol entièrement occupé par des thermes romains"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quelle lecture le panorama permet-il d’assembler ?",
+        "options": [
+          "Le port, le théâtre romain et les quartiers modernes",
+          "La Manga, Calblanque et Cabo de Palos en un seul alignement urbain",
+          "Les salines du Mar Menor depuis les salles du musée"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle idée résume le mieux l’architecture du château ?",
+        "options": [
+          "Une façade moderniste comparable au Gran Hotel",
+          "Un sanctuaire baroque construit pour les processions maritimes",
+          "Une architecture de position plus que d’ornement"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "Que montre le Quartier du Forum Romain mieux qu’un monument isolé ?",
+        "options": [
+          "La première usine navale électrique de la marine espagnole",
+          "Le tracé complet des remparts construits par Charles III",
+          "Un morceau de ville antique avec rues, thermes et bâtiments publics"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi le Molinete est-il important dans la visite ?",
+        "options": [
+          "Il révèle la vie urbaine quotidienne de Carthago Nova",
+          "Il conserve la maison natale de Víctor Beltrí",
+          "Il marque le début exact de La Manga del Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel type de détail faut-il regarder sur le site ?",
+        "options": [
+          "Cordages de navire suspendus aux façades",
+          "Dallages, seuils et alignements de murs",
+          "Carreaux modernistes datés de 1907"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "Pourquoi la Casa de la Fortuna change-t-elle l’échelle de la visite antique ?",
+        "options": [
+          "Elle présente la salle des machines du sous-marin Peral",
+          "Elle fait entrer dans l’espace domestique d’une maison romaine",
+          "Elle montre les appartements privés du gouverneur bourbonien"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "À quoi renvoie le nom du site ?",
+        "options": [
+          "À une inscription de bon augure liée à la Fortune",
+          "À une loterie municipale créée au XIXe siècle",
+          "À une auberge de marins connue pour ses jeux de cartes"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément aide à imaginer le quotidien des habitants ?",
+        "options": [
+          "Les cloches de l’horloge de l’Arsenal",
+          "Les canons côtiers dirigés vers la rade",
+          "Les sols, les seuils et les peintures murales"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "À quelle ville ancienne la Muraille Punique renvoie-t-elle ?",
+        "options": [
+          "Qart Hadasht, fondée dans l’orbite carthaginoise",
+          "Lucentum, capitale romaine du nord de la côte",
+          "Madinat Mursiya, centre islamique de l’intérieur"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel événement de 209 av. J.-C. marque l’histoire du site ?",
+        "options": [
+          "La prise de la ville par Scipion l’Africain",
+          "La construction du Gran Hotel par Víctor Beltrí",
+          "L’inauguration du musée ARQUA près du port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle caractéristique constructive faut-il observer ?",
+        "options": [
+          "Deux murs parallèles en grands blocs de grès",
+          "Une coupole de verre posée sur une structure métallique",
+          "Une mosaïque domestique consacrée à la Fortune"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "Quel type de patrimoine l’ARQUA conserve-t-il principalement ?",
+        "options": [
+          "Les costumes des fêtes modernistes de la Calle Mayor",
+          "Le patrimoine archéologique trouvé sous l’eau",
+          "Les plans cadastraux de la Muraille de Charles III"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi le contexte d’une épave est-il essentiel ?",
+        "options": [
+          "Parce qu’un objet isolé raconte moins qu’une cargaison documentée",
+          "Parce que les amphores changent de matériau dès qu’elles touchent l’air",
+          "Parce que chaque découverte appartient automatiquement au port commercial"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle relation le bâtiment entretient-il avec son emplacement ?",
+        "options": [
+          "Il ferme l’accès médiéval du Castillo de la Concepción",
+          "Il marque l’entrée nord de la Sierra Minera",
+          "Il relie le musée au front portuaire et à la rade"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "Pourquoi le port explique-t-il l’existence de Carthagène ?",
+        "options": [
+          "La ville s’est développée uniquement autour d’un marché agricole intérieur",
+          "La rade protégée a attiré pouvoirs militaires, commerce et navigation",
+          "Le port a été creusé au XXe siècle pour créer un décor touristique"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel contraste contemporain observe-t-on sur les quais ?",
+        "options": [
+          "La promenade touristique cohabite avec la mémoire navale et commerciale",
+          "Les gradins du théâtre romain s’avancent directement dans l’eau",
+          "Les thermes puniques servent encore de hall de croisière"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément naturel structure la perception du port ?",
+        "options": [
+          "Une forêt continue qui descend jusqu’aux jetées",
+          "Une lagune fermée sans accès à la Méditerranée",
+          "Les reliefs qui cadrent et protègent partiellement la baie"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "Que représente la Calle Mayor dans la visite ?",
+        "options": [
+          "Le quartier principal des thermes puniques du IIIe siècle av. J.-C.",
+          "Le chemin militaire fermé reliant directement les batteries côtières",
+          "La Carthagène moderniste et bourgeoise du tournant du XXe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel détail faut-il regarder en levant les yeux ?",
+        "options": [
+          "Mâts de navire intégrés aux toitures",
+          "Balcons, ferronneries et ornements de façade",
+          "Vestiges de gradins romains sur chaque étage"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "À quoi le modernisme local est-il lié dans le texte ?",
+        "options": [
+          "Aux fortunes minières, commerciales et à l’ambition urbaine",
+          "À la construction exclusive de refuges antiaériens",
+          "À l’arrivée des plages de Calblanque dans le centre-ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "Quel architecte est associé au Gran Hotel dans le commentaire ?",
+        "options": [
+          "Hasdrubal le Beau",
+          "Isaac Peral",
+          "Víctor Beltrí"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi l’angle du bâtiment est-il important ?",
+        "options": [
+          "Il indique l’emplacement d’une porte punique disparue",
+          "Il servait à orienter les sous-marins dans la rade",
+          "Il transforme la parcelle en signal visuel dans la rue"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Que symbolise le Gran Hotel pour la ville de 1900 ?",
+        "options": [
+          "Une forteresse avancée de la deuxième guerre punique",
+          "Un refuge creusé contre les bombardements aériens",
+          "Une Carthagène mondaine, ouverte et décorative"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "Quelle ambiance la Plaza de San Francisco met-elle en valeur ?",
+        "options": [
+          "Un champ de tir fermé réservé aux batteries côtières",
+          "Un bassin portuaire uniquement consacré aux chantiers navals",
+          "Une place vivante où patrimoine et quotidien se mêlent"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle influence est évoquée pour la Casa Maestre ?",
+        "options": [
+          "Un air de famille avec les courants catalans et l’esthétique de Gaudí",
+          "Une imitation directe des temples égyptiens d’Alexandrie",
+          "Un modèle strictement militaire venu de l’arsenal"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément donne au lieu son charme urbain ?",
+        "options": [
+          "Les rails d’un tram minier conservés dans une crypte",
+          "Les murailles puniques traversant toute la place en surface",
+          "Les façades, les arbres, les terrasses et les mouvements de passants"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "Quelle dimension de Carthagène le Museo Histórico Militar met-il en avant ?",
+        "options": [
+          "La profondeur militaire, navale et défensive de la ville",
+          "La naissance du café asiático dans les salons bourgeois",
+          "La formation naturelle des plages du Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel type d’objets rend visible le travail technique de l’armée ?",
+        "options": [
+          "Mosaïques domestiques et peintures murales de maisons romaines",
+          "Amphores sorties d’une épave punique",
+          "Télémètres, pièces d’artillerie, maquettes et instruments"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Comment caractériser l’architecture militaire décrite ?",
+        "options": [
+          "Robuste, fonctionnelle et organisée pour les usages lourds",
+          "Légère, florale et entièrement couverte de vitraux",
+          "Souterraine, conçue uniquement pour des bains publics"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "Qui conçoit le sous-marin électrique présenté dans le commentaire ?",
+        "options": [
+          "Tomás Rico Valarino, architecte de l’hôtel de ville",
+          "Isaac Peral, né à Carthagène en 1851",
+          "Scipion l’Africain, général romain du IIIe siècle av. J.-C."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quelle année est associée au prototype du sous-marin Peral ?",
+        "options": [
+          "1609",
+          "1888",
+          "2008"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi le sous-marin est-il devenu presque légendaire localement ?",
+        "options": [
+          "Il a servi de clocher provisoire au Palacio Consistorial",
+          "Il associe réussite technique et reconnaissance institutionnelle incomplète",
+          "Il a transporté les premières mosaïques de la Casa de la Fortuna"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "Quel rôle pratique joue l’Ascensor Panorámico ?",
+        "options": [
+          "Relier la Calle Gisbert aux hauteurs du Parque Torres",
+          "Transporter les visiteurs sous la rade jusqu’à l’ARQUA",
+          "Faire circuler les wagons de minerai vers La Unión"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que révèle son parcours vertical ?",
+        "options": [
+          "Le relief réel de Carthagène et l’importance des collines",
+          "La profondeur exacte du port de commerce",
+          "La largeur originale de la Muraille Punique"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Pourquoi son architecture est-elle volontairement contemporaine ?",
+        "options": [
+          "Elle reconstitue une tour carthaginoise du IIIe siècle av. J.-C.",
+          "Elle copie les balcons modernistes de la Calle Mayor",
+          "Elle met en scène la montée sans imiter les monuments anciens"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "À quel épisode le Museo-Refugio de la Guerre Civile est-il lié ?",
+        "options": [
+          "À la prise de la ville par Scipion en 209 av. J.-C.",
+          "À l’inauguration du Gran Hotel au début du XXe siècle",
+          "Aux bombardements de la guerre civile espagnole"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle était la fonction principale des abris ?",
+        "options": [
+          "Stocker les amphores récupérées au fond de la mer",
+          "Protéger la population civile contre les attaques aériennes",
+          "Servir de salles de réception pour l’hôtel de ville"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel changement de regard le refuge provoque-t-il ?",
+        "options": [
+          "Il transforme la colline en lieu de survie plutôt qu’en simple belvédère",
+          "Il prouve que Carthagène n’avait pas de rôle naval",
+          "Il efface la mémoire des bombardements au profit du tourisme balnéaire"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "Quelle différence principale distingue l’amphithéâtre du théâtre romain ?",
+        "options": [
+          "Il servait uniquement de marché aux poissons",
+          "Il renvoie aux jeux et à une arène centrale",
+          "Il était la salle des machines du sous-marin Peral"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel bâtiment postérieur a longtemps compliqué sa lecture ?",
+        "options": [
+          "L’ancienne plaza de toros",
+          "Le Palacio Consistorial moderniste",
+          "La gare maritime de croisière"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que faut-il chercher pour imaginer le monument ?",
+        "options": [
+          "Les ferronneries florales de chaque balcon",
+          "Les courbes, les niveaux et l’ellipse de l’arène",
+          "Les cloisons peintes d’une maison privée"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "À quelle période le développement de l’Arsenal est-il fortement lié ?",
+        "options": [
+          "À la fondation punique de 227 av. J.-C.",
+          "Au XVIIIe siècle et à la politique navale des Bourbons",
+          "À la création de La Manga del Mar Menor"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que marque la porte de l’Arsenal ?",
+        "options": [
+          "L’entrée principale du théâtre romain antique",
+          "La limite naturelle du parc de Calblanque",
+          "La frontière entre ville civile et espace militaire organisé"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel trio résume la continuité maritime évoquée ?",
+        "options": [
+          "La Casa de la Fortuna, la Plaza San Francisco et Calblanque",
+          "La Muraille Punique, la Casa Maestre et le café asiático",
+          "Le port, le sous-marin Peral et l’Arsenal"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "nl": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "In welk jaar werd het huidige Palacio Consistorial voltooid?",
+        "options": [
+          "In 1765, als rechtstreekse afhankelijkheid van het Bourbonse arsenaal",
+          "In 1907, in de modernistische bloeiperiode van de stad",
+          "In 1939, als herdenkingsgebouw na de Burgeroorlog"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk interieurdetail wordt sterk met het prestige van het gebouw verbonden?",
+        "options": [
+          "Een middeleeuwse kloostergang onder de feestzaal",
+          "Een keizerlijke trap in Macael-marmer",
+          "Een Punische waterput die vanaf de gevel zichtbaar is"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat helpt het plein voor het stadhuis te begrijpen?",
+        "options": [
+          "De exacte grens van het oude Romeinse amfitheater",
+          "De band tussen gemeentelijke macht, burgerlijke promenade en havenfront",
+          "De plaats van zilvermijnen onder de rede"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "Uit welke periode dateert het Romeinse theater doorgaans?",
+        "options": [
+          "Uit het midden van de derde eeuw na Christus, tijdens invallen",
+          "Uit de twaalfde eeuw, als versterkte middeleeuwse arena",
+          "Uit het einde van de eerste eeuw vóór onze jaartelling"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waarom was de herontdekking zo belangrijk voor Cartagena?",
+        "options": [
+          "Ze bewees dat de stad nooit een antieke haven had gehad",
+          "Ze bracht een groot monument aan het licht dat lang onder de wijk verborgen was",
+          "Ze verving het kasteel definitief door een modern gebouw"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk detail toont hoe het theater in het terrein is ingeplant?",
+        "options": [
+          "De kromming van de zitrijen die tegen de natuurlijke helling steunen",
+          "De middeleeuwse kantelen die de scène volledig omringen",
+          "De industriële rails die in het midden van de orchestra liggen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "Waarom is de heuvel van de Concepción strategisch?",
+        "options": [
+          "Hij bevat de warmwaterbronnen van het Romeinse forum",
+          "Hij geeft controle over rede, stad, heuvels en toegangswegen",
+          "Hij werd uitsluitend gebruikt als moderne winkelstraat"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Hoe moet men het kasteel vooral begrijpen?",
+        "options": [
+          "Als een uitkijk- en verdedigingspunt met meerdere historische lagen",
+          "Als een intact Punisch paleis zonder latere veranderingen",
+          "Als de oorspronkelijke werkplaats van Isaac Peral"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat wordt vanaf het uitzichtpunt bijzonder duidelijk?",
+        "options": [
+          "De ligging van La Manga direct naast het stadhuisplein",
+          "De ondergrondse loop van alle Romeinse aquaducten",
+          "De samenhang tussen haven, theater, arsenaal, heuvels en straten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "Wat toont het Romeins Forumkwartier vooral?",
+        "options": [
+          "Een negentiende-eeuws hotelcomplex met feestzalen",
+          "Een moderne marinebasis voor onderzeeërs",
+          "Een stuk dagelijks stedelijk leven met straten, baden en publieke ruimtes"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk technisch detail helpt archeologen de site te lezen?",
+        "options": [
+          "Vloerniveaus, afvoeren, drempels en muurschilderingen",
+          "Elektrische batterijen en periscopen uit 1888",
+          "De gietijzeren balkons van de Calle Mayor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke correctie geeft de site aan ons beeld van de Oudheid?",
+        "options": [
+          "Alle Romeinse gebouwen waren volledig wit en zonder decor",
+          "Romeinse steden waren kleurrijk, druk en zintuiglijk rijker dan vaak gedacht",
+          "Het forum was uitsluitend een parkeerplaats voor militaire wagens"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "Wat maakt de Casa de la Fortuna bijzonder?",
+        "options": [
+          "Ze bewaart de commandotoren van het Arsenaal",
+          "Ze toont een Romeinse woning op menselijke schaal",
+          "Ze is de officiële vuurtoren van Cabo de Palos"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarnaar verwijst de naam Fortuna?",
+        "options": [
+          "Naar een inscriptie en het idee van geluk of voorspoed",
+          "Naar een negentiende-eeuwse stoommachine",
+          "Naar de familienaam van een moderne hotelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Waar moet je ter plaatse vooral op letten?",
+        "options": [
+          "Op de ankers van ARQUA in het atrium",
+          "Op de kanonnen die door de eetkamer lopen",
+          "Op vloeren, drempels, muurschilderingen en de indeling van de kamers"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "Met welke oude stad is de Punische muur verbonden?",
+        "options": [
+          "Met Qart Hadasht, de Carthaagse stichting",
+          "Met een Byzantijnse badplaats uit de tiende eeuw",
+          "Met een twintigste-eeuwse wijk voor cruiseschepen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke periode roept de muur vooral op?",
+        "options": [
+          "De derde eeuw v.Chr. en de rivaliteit tussen Carthago en Rome",
+          "De modernistische bouwgolf van 1907",
+          "De ontwikkeling van La Manga na 1960"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Waarom is deze site zeldzaam?",
+        "options": [
+          "Punische resten zijn minder talrijk en zichtbaar dan Romeinse ruïnes",
+          "Omdat het de enige houten vuurtoren van Murcia is",
+          "Omdat het de ingang van een ondergronds winkelcentrum vormt"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "Waarmee houdt ARQUA zich vooral bezig?",
+        "options": [
+          "Met middeleeuwse schilderkunst uit kloosters",
+          "Met onderwaterarcheologie en maritiem erfgoed",
+          "Met de geschiedenis van stierenrennen in de stad"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarom kan een vondst uit zee niet meteen worden tentoongesteld?",
+        "options": [
+          "Ze moet worden gedocumenteerd, ontzilt en gestabiliseerd",
+          "Ze moet eerst in de Calle Mayor worden verkocht",
+          "Ze wordt verplicht tot kanon omgesmolten"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke objecten kunnen in ARQUA veel vertellen?",
+        "options": [
+          "Alleen marmeren trappen uit het stadhuis",
+          "Uitsluitend moderne hotelmeubels",
+          "Amforen, ankers, ladingen en wrakresten"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "Waarom is de haven fundamenteel voor Cartagena?",
+        "options": [
+          "Ze werd pas aangelegd na de opening van La Manga",
+          "De beschutte rede verklaart handel, marine, verdediging en stedelijke groei",
+          "Ze diende uitsluitend als decor voor modernistische cafés"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke elementen horen bij een haven als technisch systeem?",
+        "options": [
+          "Diepte, kades, opslag, reparatie, toegang en verdediging",
+          "Alleen terrassen en souvenirwinkels",
+          "Slechts Romeinse theaterzitjes langs het water"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke haltes zijn sterk met de haven verbonden?",
+        "options": [
+          "Calblanque, Casa Fortuna en Plaza de Toros de La Manga",
+          "Alleen de bergen achter Murcia-stad",
+          "ARQUA, het Arsenaal, het stadhuisfront en de onderzeeër Peral"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "Wat toont de Calle Mayor vooral?",
+        "options": [
+          "Een Punische verdedigingsgracht onder open hemel",
+          "Een Romeinse vismarkt zonder latere gebouwen",
+          "De burgerlijke en modernistische ambitie van Cartagena rond 1900"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waarop moet je bij de gevels letten?",
+        "options": [
+          "Onderwaterankers en scheepswrakken in de straatstenen",
+          "Smeedijzer, balkons, ornamenten, erkers en verticale ritmes",
+          "Duinen en zoutpannen tussen de winkels"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke economische achtergrond voedde deze architectuur?",
+        "options": [
+          "Mijnbouwkapitaal, handel en burgerlijke representatie",
+          "De teelt van rijst op het stadhuisplein",
+          "De bouw van een middeleeuws pretpark"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "Wat symboliseerde het Gran Hotel rond 1900?",
+        "options": [
+          "Een Punisch wachthuis bij de stadspoort",
+          "Een militaire munitieopslag in de baai",
+          "Stedelijke status, moderniteit en kosmopolitische ambitie"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Hoe kun je het gebouw het best bekijken?",
+        "options": [
+          "Door uitsluitend naar de kelder zonder gevel te kijken",
+          "Door het te vergelijken met duinen van Calblanque in dezelfde straat",
+          "Door afstand te nemen en de hoek, hoogte en ornamenten te lezen"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Bij welke architecturale laag van Cartagena hoort het hotel?",
+        "options": [
+          "Bij de eerste Carthaagse muur",
+          "Bij de schuilkelders van de Burgeroorlog",
+          "Bij het modernisme en de burgerlijke stad"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "Welke sfeer biedt de Plaza de San Francisco?",
+        "options": [
+          "Een onderwaterlaboratorium voor amforen",
+          "Een geïsoleerde kaap met vuurtoren",
+          "Een stedelijke ademruimte waar modernisme en dagelijks leven samenkomen"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waarmee wordt de Casa Maestre vaak verbonden?",
+        "options": [
+          "Met burgerlijke rijkdom, mijnbouwkapitaal en modernistische smaak",
+          "Met de Romeinse verovering door Scipio in 209 v.Chr.",
+          "Met de aanleg van een militaire landingsbaan"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat maakt zo’n gevel sociaal interessant?",
+        "options": [
+          "Ze markeert de ingang van het Mar Menor",
+          "Ze toont de motor van een elektrisch aangedreven onderzeeër",
+          "Ze werkt als visitekaartje van prestige en stedelijke ambitie"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "Wat helpt het Militair Historisch Museum te begrijpen?",
+        "options": [
+          "De verdedigingscultuur van een strategische havenstad",
+          "De domesticiteit van een Romeinse eetkamer",
+          "De ecologie van de duinen van Calblanque"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat vertelt een kanon behalve militaire kracht?",
+        "options": [
+          "Over koffie met gecondenseerde melk",
+          "Over het kleurenpalet van modernistische glas-in-loodramen",
+          "Over metaal, ballistiek, transport, onderhoud en opleiding"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Met welke andere plaatsen vormt het museum een netwerk?",
+        "options": [
+          "Haven, Arsenaal, kustbatterijen en schuilkelders",
+          "Alleen La Manga en de warmwaterbaden van Murcia",
+          "De Casa de la Fortuna en de Gran Hotel-lift"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "Wat maakte de onderzeeër van Isaac Peral vernieuwend?",
+        "options": [
+          "Een volledig Romeinse houten aandrijving",
+          "Elektrische voortstuwing en een ambitieus onderwaterontwerp",
+          "Een modernistische gevel van marmer"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In welk jaar werd de onderzeeër te water gelaten?",
+        "options": [
+          "In 209 v.Chr.",
+          "In 1888",
+          "In 1907 samen met het stadhuis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat symboliseert Isaac Peral voor Cartagena?",
+        "options": [
+          "De stichting van Qart Hadasht door Hasdrubal",
+          "Lokale vindingrijkheid en maritieme innovatie",
+          "De aanleg van het natuurgebied Calblanque"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "Welke functie heeft de Panoramische lift in de route?",
+        "options": [
+          "Hij verbindt de benedenstad met de heuvel van de Concepción",
+          "Hij brengt bezoekers rechtstreeks naar La Manga",
+          "Hij daalt af naar een Romeinse waterput onder ARQUA"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Waarom is hoogte in Cartagena belangrijk?",
+        "options": [
+          "Ze helpt de relatie tussen haven, heuvels, theater en arsenaal te begrijpen",
+          "Ze verklaart waarom alle gebouwen onder zeeniveau liggen",
+          "Ze toont dat de stad nooit verdedigingsplaatsen had"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat verandert de lift aan de ervaring?",
+        "options": [
+          "Ze vervangt alle musea door een winkelgalerij",
+          "Ze verbergt het uitzicht op de rede volledig",
+          "Ze maakt een steile topografie snel en toegankelijk leesbaar"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "Met welke episode is het Museo-Refugio verbonden?",
+        "options": [
+          "Met de verovering door Scipio in 209 v.Chr.",
+          "Met de opening van het Gran Hotel rond 1900",
+          "Met bombardementen tijdens de Spaanse Burgeroorlog"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wat was de hoofdrol van de schuilplaatsen?",
+        "options": [
+          "Amforen uit de zee opslaan",
+          "Burgers beschermen tegen luchtaanvallen",
+          "Feestzalen voor het stadhuis vormen"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke blikverandering veroorzaakt de schuilkelder?",
+        "options": [
+          "De heuvel wordt een plaats van overleven, niet alleen van uitzicht",
+          "Hij bewijst dat Cartagena geen marinefunctie had",
+          "Hij vervangt de herinnering aan bombardementen door strandtoerisme"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "Wat onderscheidt het amfitheater vooral van het Romeinse theater?",
+        "options": [
+          "Het diende uitsluitend als vismarkt",
+          "Het verwijst naar spelen en een centrale arena",
+          "Het was de machinekamer van de Peral-onderzeeër"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk later gebouw bemoeilijkte lange tijd de lezing ervan?",
+        "options": [
+          "De oude plaza de toros",
+          "Het modernistische Palacio Consistorial",
+          "De cruiseterminal aan de kade"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Waar moet je naar zoeken om het monument te verbeelden?",
+        "options": [
+          "Bloemmotieven op elk balkon",
+          "Krommingen, niveaus en de ellips van de arena",
+          "Beschilderde wanden van een privéwoning"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "Met welke periode is de ontwikkeling van het Arsenaal sterk verbonden?",
+        "options": [
+          "Met de Punische stichting van 227 v.Chr.",
+          "Met de achttiende eeuw en de Bourbonse marinepolitiek",
+          "Met de aanleg van La Manga del Mar Menor"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat markeert de poort van het Arsenaal?",
+        "options": [
+          "De antieke ingang van het Romeinse theater",
+          "De natuurlijke grens van Calblanque",
+          "De grens tussen burgerstad en georganiseerd militair gebied"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk trio vat de maritieme continuïteit goed samen?",
+        "options": [
+          "De Casa de la Fortuna, Plaza San Francisco en Calblanque",
+          "De Punische muur, Casa Maestre en café asiático",
+          "De haven, de onderzeeër Peral en het Arsenaal"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "en": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "In which year was the present City Hall Palace completed?",
+        "options": [
+          "In 1765, as a direct annex of the Bourbon Arsenal",
+          "In 1907, during Cartagena’s modernist momentum",
+          "In 1939, to mark the end of the Civil War"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which interior feature is especially linked with the building’s prestige?",
+        "options": [
+          "A medieval cloister preserved beneath the reception hall",
+          "An imperial staircase in Macael marble",
+          "A Punic cistern visible from the façade"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does the square in front of the town hall help you understand?",
+        "options": [
+          "The exact limit of the former Roman amphitheatre",
+          "The link between municipal power, bourgeois promenade and harbour front",
+          "The location of old silver mines beneath the bay"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "To which period is the Roman Theatre generally dated?",
+        "options": [
+          "The mid-third century AD during barbarian raids",
+          "The twelfth century as a fortified medieval arena",
+          "The late first century BC"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Why did its rediscovery mark Cartagena so strongly?",
+        "options": [
+          "It proved that the city never had an ancient harbour",
+          "It revealed a major monument long hidden beneath the neighbourhood",
+          "It replaced the castle permanently with a modern building"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which detail helps explain how it was built into the site?",
+        "options": [
+          "The curve of the seating supported by the natural slope",
+          "The medieval battlements completely surrounding the stage",
+          "The industrial rails preserved in the centre of the orchestra"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "What does the hill of the Concepción mainly help visitors understand?",
+        "options": [
+          "The irrigation network of the Mar Menor orchards",
+          "The harbour, approaches and defensive geography of Cartagena",
+          "The plan of a nineteenth-century railway suburb"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which period is especially associated with the visible castle?",
+        "options": [
+          "The medieval period after the Christian conquest",
+          "The reign of Augustus alone",
+          "The tourist development of the 1970s"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Why is the viewpoint more than a pretty panorama?",
+        "options": [
+          "It shows the exact route of every Roman road in Hispania",
+          "It was built to observe volcanic eruptions in La Unión",
+          "It reveals how sea, hills, city and defences worked together"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "What does the Roman Forum Quarter reveal above all?",
+        "options": [
+          "A complete medieval cathedral buried under Molinete",
+          "The first modern railway station in Murcia",
+          "The everyday urban systems of Carthago Nova"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which technical clues are especially important on the site?",
+        "options": [
+          "Pavements, thresholds, drains and room arrangements",
+          "Steel balconies from the modernist period",
+          "Concrete bunkers from the Cold War"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "How does this site complement the Roman Theatre?",
+        "options": [
+          "It proves Roman Cartagena had no public buildings",
+          "It shows daily civic life while the theatre shows spectacle",
+          "It replaces the need to visit any museum in the city"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "What scale of Roman life does the House of Fortune reveal?",
+        "options": [
+          "Imperial naval command",
+          "Domestic and private life",
+          "A gladiatorial training camp"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What gives the house its name?",
+        "options": [
+          "An inscription associated with good fortune",
+          "A medieval lottery held in the rooms",
+          "A modern hotel brand painted on the wall"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which details should visitors observe carefully?",
+        "options": [
+          "Baroque altarpieces and choir stalls",
+          "Steam cranes and loading tracks",
+          "Painted walls, thresholds and floor patterns"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "Which pre-Roman city layer does the Punic Wall evoke?",
+        "options": [
+          "The Carthaginian Qart Hadasht of the third century BC",
+          "A Visigothic palace of the seventh century",
+          "A Renaissance merchants’ quarter"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which major conflict gives the wall wider Mediterranean meaning?",
+        "options": [
+          "The Second Punic War",
+          "The War of Spanish Succession in Flanders",
+          "The Peninsular War against Napoleon"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What does the wall remind visitors not to forget?",
+        "options": [
+          "Cartagena’s story began before Roman Carthago Nova",
+          "The harbour was created only in the twentieth century",
+          "The city’s hills were never used for defence"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "What is ARQUA mainly devoted to?",
+        "options": [
+          "Modernist domestic furniture from Calle Mayor",
+          "Underwater archaeology and maritime heritage",
+          "Mountain mining tools from the Sierra Nevada"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Why is conservation especially important for objects recovered from the sea?",
+        "options": [
+          "Salt and chemical changes can damage them after recovery",
+          "They immediately turn into bronze when exposed to sunlight",
+          "They can only be preserved by keeping them outdoors"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What lesson does the museum give about treasure hunting?",
+        "options": [
+          "Removing objects quickly always protects history better",
+          "Shipwrecks have no scientific value once mapped",
+          "Context matters as much as the object itself"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "Why has Cartagena’s harbour been decisive for so long?",
+        "options": [
+          "It lies on the highest mountain pass of Murcia",
+          "It is sheltered, strategic and connected to maritime routes",
+          "It was designed as a freshwater lake for agriculture"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which stories meet around the port?",
+        "options": [
+          "Mining exports, naval activity, museums and modern promenades",
+          "Only medieval pilgrim routes with no maritime role",
+          "A network of alpine ski stations"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What should visitors do to read the port properly?",
+        "options": [
+          "Look only at the pavement and avoid the horizon",
+          "Search for the former bullring in the middle of the bay",
+          "Turn between the water and the city to connect monuments and harbour"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "What does Calle Mayor best represent?",
+        "options": [
+          "A Punic military trench outside the walls",
+          "A rural pilgrimage route to Cabo de Palos",
+          "Modernist and bourgeois Cartagena around 1900"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which economic context helped shape its façades?",
+        "options": [
+          "The export of Alpine timber through the Pyrenees",
+          "Mining wealth, trade and naval activity",
+          "A royal silk monopoly based in Toledo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Where should visitors look for many of the best details?",
+        "options": [
+          "Above shop level, on balconies, ironwork and ornament",
+          "Only underground beneath the street drains",
+          "At the waterline of the harbour breakwater"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "What does the Gran Hotel symbolise in Cartagena?",
+        "options": [
+          "The first Roman bath complex of Molinete",
+          "A Punic watchtower guarding the wall",
+          "The city’s modernist confidence and culture of travel"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which architect is closely associated with this modernist world?",
+        "options": [
+          "Juan de Herrera",
+          "Antoni Gaudí as resident architect of Cartagena",
+          "Víctor Beltrí"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How should the façade be read?",
+        "options": [
+          "As a plain military wall with no decoration",
+          "As a natural cliff untouched by builders",
+          "Vertically, through height, corner treatment and ornament"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "What does Casa Maestre bring into Plaza de San Francisco?",
+        "options": [
+          "A complete Roman harbour warehouse",
+          "A twentieth-century lighthouse lantern",
+          "Private modernist prestige facing a public square"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Why is the square important for understanding the building?",
+        "options": [
+          "It gives the façade a daily audience of passers-by and terraces",
+          "It hides the building from all pedestrian views",
+          "It was built only for artillery testing"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which elements are especially worth observing?",
+        "options": [
+          "Submarine batteries and torpedo tubes",
+          "Salt pans and lagoon channels",
+          "Balconies, decorative motifs, ironwork and curved lines"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "What larger identity does the Military History Museum explain?",
+        "options": [
+          "Cartagena’s defensive, artillery and naval role",
+          "The city’s exclusive dedication to vineyard tourism",
+          "A royal hunting estate in the mountains"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Why is artillery described as a technical science?",
+        "options": [
+          "It consists only of painted decoration on façades",
+          "It is unrelated to roads, crews or calculations",
+          "It depends on distance, metal, powder, trajectory and logistics"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What local memory does the museum often connect with?",
+        "options": [
+          "Family histories of service, dockyards and military life",
+          "The annual harvesting of tropical tea",
+          "The construction of Gothic cathedrals in Belgium"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "What made Isaac Peral’s submarine innovative in the 1880s?",
+        "options": [
+          "It was a wooden sailing ship for coastal fishing",
+          "It used electric propulsion in an underwater vessel",
+          "It was built as a Roman ceremonial boat"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which local identity does the submarine reinforce?",
+        "options": [
+          "Cartagena as a mountain spa with no sea connection",
+          "Cartagena as a centre of naval ingenuity",
+          "Cartagena as the capital of medieval wool fairs"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What should visitors imagine when looking at the hull?",
+        "options": [
+          "A marble staircase for municipal ceremonies",
+          "The limited interior space and demanding machinery",
+          "A theatre cavea cut into a hillside"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "What does the Panoramic Lift make easier?",
+        "options": [
+          "Reaching the Concepción hill viewpoint",
+          "Crossing the Mar Menor by boat",
+          "Entering the Roman Theatre stage machinery"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Why is height important in Cartagena?",
+        "options": [
+          "It reveals defence, harbour control and urban orientation",
+          "It replaces all archaeological evidence with modern shopping",
+          "It proves the city was built on a flat desert plain"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What does the panorama help visitors do?",
+        "options": [
+          "Count every amphora preserved inside ARQUA",
+          "Locate the exact bedrooms of Roman houses",
+          "Reconnect the route by seeing harbour, theatre, centre and hills together"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "Which period does the Civil War Shelter Museum recall?",
+        "options": [
+          "The Carthaginian foundation of the city",
+          "The modernist hotel boom of Calle Mayor",
+          "The Spanish Civil War and air raids on Cartagena"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What was the practical purpose of the shelters?",
+        "options": [
+          "Storing silver ore for export",
+          "Protecting civilians during bombardments",
+          "Presenting theatrical performances in summer"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which feeling is part of the visit?",
+        "options": [
+          "Enclosure, vulnerability and the return to daylight",
+          "A festive ballroom atmosphere under chandeliers",
+          "A panoramic open-air climb with no roof"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "How is the Roman Amphitheatre different from the Theatre?",
+        "options": [
+          "It was a purely modernist hotel entrance",
+          "It belonged to arena spectacle and crowd gathering",
+          "It functioned only as a naval dry dock"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What later structure overlapped the ancient site?",
+        "options": [
+          "The former bullring",
+          "The Palacio Consistorial cupola",
+          "The Cabo de Palos lighthouse"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What should visitors look for on a fragmentary site like this?",
+        "options": [
+          "The complete medieval roof still in place",
+          "Curves, levels and hints of the elliptical arena",
+          "A line of cruise terminals built into the cavea"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "What did the Arsenal represent from the eighteenth century onwards?",
+        "options": [
+          "A rural market for inland livestock",
+          "A major naval, technical and defensive system",
+          "A Roman domestic house with painted walls"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Why is an arsenal more than a harbour behind walls?",
+        "options": [
+          "It contains only cafés and beach changing rooms",
+          "It is a natural cave with no human organisation",
+          "It includes workshops, basins, stores, engineers and administration"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does the gate symbolise?",
+        "options": [
+          "The entrance to the Mar Menor lagoon channels",
+          "The start of a medieval pilgrimage to Santiago",
+          "The boundary between civilian city and military domain"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "de": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "Was macht den Palacio Consistorial besonders?",
+        "options": [
+          "Ein ehemaliges römisches Badehaus unter der Kuppel",
+          "Seine palastartige Funktion als Rathaus von 1907",
+          "Eine erhaltene punische Schiffswerft im Innenhof"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches Material prägt die repräsentative Wirkung im Inneren?",
+        "options": [
+          "Schwarzer Basalt aus Cabo de Palos",
+          "Macael-Marmor an der großen Treppe",
+          "Unverputzter Ziegel aus der Bergbausiedlung"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche Beziehung sollte man hier besonders wahrnehmen?",
+        "options": [
+          "Das Gebäude schließt den Zugang zum Hafen vollständig ab",
+          "Rathaus, Calle Mayor und Hafen liegen eng beieinander",
+          "Die Fassade zeigt absichtlich keine städtischen Symbole"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "Wann entstand das Römische Theater ungefähr?",
+        "options": [
+          "Während der bourbonischen Flottenpolitik des 18. Jahrhunderts",
+          "Nach der Industrialisierung des 19. Jahrhunderts",
+          "Am Ende des 1. Jahrhunderts v. Chr."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche technische Lösung nutzten die römischen Baumeister?",
+        "options": [
+          "Sie errichteten das ganze Theater auf schwimmenden Fundamenten",
+          "Sie stützten einen Teil der Sitzreihen auf den Hang",
+          "Sie bauten die Bühne in einen mittelalterlichen Turm ein"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum war die Wiederentdeckung so wichtig?",
+        "options": [
+          "Sie gab Cartagena ein monumentales römisches Zentrum zurück",
+          "Sie bewies den Standort eines byzantinischen Königspalastes",
+          "Sie machte aus der Hafenpromenade eine Stierkampfarena"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "Was erklärt der Hügel der Concepción besonders gut?",
+        "options": [
+          "Die Trennung Cartagenas von jeder maritimen Funktion",
+          "Die Beziehung zwischen Hafen, Stadt und Verteidigung",
+          "Den Verlauf eines modernen Flughafengeländes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche Epoche prägt die heutige Lesart der Festung stark?",
+        "options": [
+          "Die mittelalterliche Kontrolle nach der christlichen Eroberung",
+          "Die reine Renaissanceplanung ohne ältere Spuren",
+          "Die ausschließlich industrielle Nutzung durch Bergwerke"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was lohnt sich oben besonders?",
+        "options": [
+          "Nach Resten einer verschneiten Alpenstraße zu suchen",
+          "Die Fassaden der Calle Mayor aus der Nähe zu berühren",
+          "Die Stadt als System aus Hügeln, Hafen und Monumenten zu lesen"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "Was zeigt das Römische Forumsviertel?",
+        "options": [
+          "Eine einsame Kapelle aus dem 19. Jahrhundert",
+          "Die Werkstatt eines modernen Schiffsmotors",
+          "Ein ganzes Stück städtischen Lebens von Carthago Nova"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche Bauelemente sind dort wichtig?",
+        "options": [
+          "Thermen, Räume, Straßen und dekorierte Flächen",
+          "Windmühlenflügel und Salzspeicher am Strand",
+          "Glasfassaden eines Warenhauses"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Warum ist der Molinete hier bedeutend?",
+        "options": [
+          "Er war nur ein künstlicher Hügel für ein Denkmal",
+          "Seine Höhenstruktur half, das antike Viertel zu organisieren",
+          "Er diente als Startbahn für Flugversuche"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "Was ist die Casa de la Fortuna?",
+        "options": [
+          "Ein barocker Palast der Marinekommandanten",
+          "Ein römisches Wohnhaus mit Mosaiken und Wandmalereien",
+          "Ein modernes Zollgebäude am Kreuzfahrtkai"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was gibt dem Haus seinen heutigen Namen?",
+        "options": [
+          "Ein Glücksmotiv mit Bezug auf Fortuna",
+          "Ein Brunnen, der nur im Winter Wasser führt",
+          "Eine Kanone mit eingraviertem Frauennamen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Worauf sollte man im Inneren achten?",
+        "options": [
+          "Auf einen Aussichtsbalkon über dem Hafenbecken",
+          "Auf die Gleise einer Bergwerksbahn",
+          "Auf Schwellen, Fußböden und die Logik der Räume"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "Woran erinnert die Punische Mauer?",
+        "options": [
+          "An Qart Hadasht und den Zweiten Punischen Krieg",
+          "An die Eröffnung der Calle Mayor im Jahr 1907",
+          "An einen reinen Freizeitpark der römischen Kaiserzeit"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche Bauweise ist wesentlich?",
+        "options": [
+          "Eine doppelte Mauerschale mit Füllmaterial",
+          "Eine Glaswand mit Eisenbetonrahmen",
+          "Ein Holzzaun auf Keramikpfählen"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Ereignis veränderte die Stadt 209 v. Chr.?",
+        "options": [
+          "Die römische Einnahme von Qart Hadasht",
+          "Die Gründung des modernen Arsenals",
+          "Die Einweihung des Gran Hotel"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "Worum geht es im ARQUA vor allem?",
+        "options": [
+          "Um die Herstellung modernistischer Fassadenkacheln",
+          "Um Unterwasserarchäologie und maritime Kulturgüter",
+          "Um römische Theatermasken ohne Bezug zum Meer"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum ist Konservierung dort so wichtig?",
+        "options": [
+          "Funde aus Salzwasser müssen wissenschaftlich stabilisiert werden",
+          "Alle Objekte werden absichtlich im Freien verrostet",
+          "Die Stücke werden nach dem Fund sofort ohne Dokumentation verkauft"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche Art von Geschichte erzählen Amphoren und Wracks?",
+        "options": [
+          "Nur die Speisekarten heutiger Restaurants",
+          "Den Bau eines mittelalterlichen Glockenturms",
+          "Handelswege, Ladungen und Kontakte im Mittelmeer"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "Warum ist der Hafen für Cartagena grundlegend?",
+        "options": [
+          "Er entstand erst als Dekoration für eine moderne Promenade",
+          "Die geschützte Bucht machte Handel und Marine möglich",
+          "Er hatte nie eine strategische Funktion"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was kann man am Hafen gut beobachten?",
+        "options": [
+          "Kais, Wasserlinie, Einfahrt und Nähe zur Stadt",
+          "Ein geschlossenes Bergwerk direkt unter jedem Schiff",
+          "Die Reste einer gotischen Kathedrale im Wasser"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche Rolle spielt das Meer hier?",
+        "options": [
+          "Es ist nur eine entfernte Kulisse ohne Bedeutung",
+          "Es erklärt ausschließlich die lokalen Süßwasservorräte",
+          "Es ist der Motor der Stadtgeschichte"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "Was war die Calle Mayor um 1900?",
+        "options": [
+          "Ein abgeschlossener Militärtunnel unter dem Arsenal",
+          "Ein römisches Amphitheater ohne spätere Bebauung",
+          "Eine bürgerliche Flanierachse mit modernistischen Fassaden"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche Details prägen den Spaziergang?",
+        "options": [
+          "Dünenpflanzen und Salinenbecken",
+          "Balkone, Erker, Ornament und Schaufenster",
+          "Rohre einer Unterwasserpipeline"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum ist die Straße für die Stadt wichtig?",
+        "options": [
+          "Sie zeigt den Ehrgeiz des wohlhabenden Cartagena",
+          "Sie führt ausschließlich durch unbebaute Hügel",
+          "Sie ersetzt vollständig den historischen Hafen"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "Was symbolisiert das Gran Hotel?",
+        "options": [
+          "Eine punische Grabkammer aus dem 3. Jahrhundert v. Chr.",
+          "Ein Fischerhaus ohne städtische Wirkung",
+          "Den städtischen Prestigeanspruch des frühen 20. Jahrhunderts"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche Fassadendetails sollte man betrachten?",
+        "options": [
+          "Römische Sitzreihen und Orchestergrube",
+          "Batteriestellungen und Geschützrohre",
+          "Vertikale Linien, Keramik und Eisenarbeit"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Warum bleibt das Gebäude im Gedächtnis?",
+        "options": [
+          "Weil es nur aus provisorischem Holz bestand",
+          "Weil es außerhalb jeder Stadtachse versteckt liegt",
+          "Weil es trotz Nutzungswechseln ein urbanes Symbol blieb"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "Was verbindet die Plaza de San Francisco?",
+        "options": [
+          "Eine isolierte Höhle ohne Verbindung zur Stadt",
+          "Ein reines Industriebecken für Erzverladung",
+          "Platzleben, bürgerliche Fassaden und modernistische Architektur"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wodurch fällt die Casa Maestre auf?",
+        "options": [
+          "Durch dekorative Fassade und repräsentative Wirkung",
+          "Durch ein antikes U-Boot im Speisesaal",
+          "Durch eine vollständig mittelalterliche Zugbrücke"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was sollte man auf dem Platz tun?",
+        "options": [
+          "Nach Meereswellen im Pflaster suchen",
+          "Die Startlinie einer Autorennstrecke messen",
+          "Die Blickachsen zwischen Bäumen, Fassaden und Platzraum verfolgen"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "Was erklärt das Militärhistorische Museum?",
+        "options": [
+          "Cartagenas Artillerie- und Verteidigungsgeschichte",
+          "Die Herstellung von Turrón in Klöstern",
+          "Die Entstehung der Lagune Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was zeigen viele Exponate technisch?",
+        "options": [
+          "Glasmalerei eines gotischen Chores",
+          "Bühnenbilder eines Opernhauses",
+          "Kaliber, Mechanik, Karten und Logistik"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Warum passt das Museum zu Cartagena?",
+        "options": [
+          "Weil die Stadt über Jahrhunderte Marine- und Festungsplatz war",
+          "Weil sie nie militärische Anlagen besaß",
+          "Weil ihre Geschichte nur aus Landwirtschaft besteht"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "Was war am U-Boot Isaac Peral besonders?",
+        "options": [
+          "Ein römischer Lastkahn für Amphoren",
+          "Ein früher elektrischer Unterwasserantrieb",
+          "Ein barockes Ausflugsschiff für den Adel"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In welchem Jahr wurde das Projekt sichtbar?",
+        "options": [
+          "1492",
+          "1888",
+          "1939"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was macht Isaac Peral für Cartagena wichtig?",
+        "options": [
+          "Er gründete das Römische Forum",
+          "Er verbindet Marine, Erfindungskraft und lokale Erinnerung",
+          "Er baute die Casa Maestre als Hotel"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "Welche Funktion hat der Panoramaaufzug?",
+        "options": [
+          "Er verbindet die Stadt mit der Höhe der Concepción",
+          "Er transportiert Erz direkt in die Lagune",
+          "Er führt unter Wasser zum ARQUA"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was verändert der Aufstieg?",
+        "options": [
+          "Die Wahrnehmung von Hafen, Hügeln und Monumenten",
+          "Die Farbe der römischen Mosaiken",
+          "Die Jahreszeiten der Strände"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Warum ist er touristisch nützlich?",
+        "options": [
+          "Er ersetzt alle Museen der Stadt",
+          "Er schließt den Blick auf den Hafen aus",
+          "Er macht Topografie schnell erfahrbar"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "Wovor sollten die Schutzräume schützen?",
+        "options": [
+          "Vor der Hitze römischer Thermen",
+          "Vor dem Lärm modernistischer Cafés",
+          "Vor Luftangriffen im Spanischen Bürgerkrieg"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Warum war Cartagena ein Ziel?",
+        "options": [
+          "Wegen einer mittelalterlichen Krönungsfeier",
+          "Wegen seiner Rolle als republikanischer Marinehafen",
+          "Wegen eines jährlichen Blumenmarktes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was spürt man im Schutzraum besonders?",
+        "options": [
+          "Enge, Fels, Dunkelheit und zivile Angst",
+          "Die Weite einer offenen Strandpromenade",
+          "Den Luxus eines Belle-Époque-Salons"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "Was macht das Amphitheater archäologisch komplex?",
+        "options": [
+          "Es blieb seit der Antike völlig frei und unberührt",
+          "Es wurde von späteren Bauten überlagert und wiederverwendet",
+          "Es bestand ausschließlich aus Glas und Stahl"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche Form ist für ein Amphitheater typisch?",
+        "options": [
+          "Eine elliptische Anlage für öffentliche Spiele",
+          "Eine gerade Hafenmole für Frachtschiffe",
+          "Ein quadratischer modernistischer Innenhof"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was lehrt dieser Ort über Cartagena?",
+        "options": [
+          "Alle antiken Bauten lagen immer außerhalb der Stadt",
+          "Monumente können verschwinden, überbaut werden und wieder auftauchen",
+          "Die Stadt hat keine römischen Schichten"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "Warum wurde das Arsenal im 18. Jahrhundert wichtig?",
+        "options": [
+          "Es war eine private Keramikwerkstatt ohne Militärbezug",
+          "Es stärkte Cartagena als großen Stützpunkt der spanischen Marine",
+          "Es ersetzte den natürlichen Hafen durch einen See"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was zeigt die Anlage technisch?",
+        "options": [
+          "Thermenmosaiken aus einer Wohnvilla",
+          "Dünenwege eines Naturparks",
+          "Werkstätten, Becken, Tore und militärische Ordnung"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche Grenze ist hier interessant?",
+        "options": [
+          "Die zwischen Gebirge und Skigebiet",
+          "Die zwischen Opernhaus und Klostergarten",
+          "Die zwischen ziviler Stadt, Militärraum und Hafenwasser"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "it": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "In quale anno fu completato l’attuale Palacio Consistorial?",
+        "options": [
+          "Nel 1765, come semplice dipendenza dell’Arsenale borbonico",
+          "Nel 1907, nel pieno slancio modernista di Cartagena",
+          "Nel 1939, per commemorare la fine della Guerra Civile"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale elemento interno è particolarmente legato al prestigio dell’edificio?",
+        "options": [
+          "Un chiostro medievale conservato sotto la cupola",
+          "Lo scalone in marmo di Macael",
+          "Una sala termale romana ancora in funzione"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Che cosa mostra bene questa tappa?",
+        "options": [
+          "L’isolamento completo del centro rispetto al porto",
+          "Il rapporto tra autorità civica, passeggio borghese e orizzonte marittimo",
+          "La scomparsa di ogni ambizione urbana intorno al 1900"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "Quando fu costruito il Teatro Romano di Cartagena?",
+        "options": [
+          "Nel XIII secolo, dopo la conquista cristiana",
+          "Nel 1888, durante gli esperimenti di Isaac Peral",
+          "Tra il 5 e l’1 a.C."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale elemento naturale venne sfruttato nella costruzione?",
+        "options": [
+          "Una duna mobile accanto alla laguna",
+          "Il pendio della collina della Concepción",
+          "Il letto prosciugato di un fiume moderno"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché la sua riscoperta è importante?",
+        "options": [
+          "Ha restituito alla città una delle testimonianze romane più imponenti",
+          "Ha provato che Cartagena non ebbe mai un porto antico",
+          "Ha trasformato un arsenale militare in teatro d’opera"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "Che cosa si capisce bene dalla collina della Concepción?",
+        "options": [
+          "L’organizzazione interna della laguna del Mar Menor",
+          "La relazione tra porto, teatro, Molinete, Arsenale e colline",
+          "Il tracciato completo delle miniere sommerse"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "A quale periodo è legata soprattutto la fortezza visibile oggi?",
+        "options": [
+          "Al Medioevo, in particolare dopo il XIII secolo",
+          "Alla fondazione punica del 227 a.C. senza modifiche successive",
+          "Alle esposizioni universali del Novecento"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Perché il luogo era strategico?",
+        "options": [
+          "Controllava soltanto un mercato agricolo settimanale",
+          "Serviva esclusivamente come giardino privato",
+          "Dominava il porto e gli accessi alla città"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "Che cosa rende speciale il Quartiere del Foro Romano?",
+        "options": [
+          "È un solo obelisco isolato senza contesto urbano",
+          "È una ricostruzione moderna priva di resti antichi",
+          "Mostra un frammento articolato della città romana"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quali funzioni si incontrano nell’area del Molinete?",
+        "options": [
+          "Terme, spazi pubblici, case e luoghi di culto",
+          "Un cantiere ferroviario ottocentesco e un faro",
+          "Una diga industriale e una torre radio"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Che cosa conviene osservare sul posto?",
+        "options": [
+          "Le piste di decollo tracciate sulla pavimentazione",
+          "Dislivelli, passaggi, cortili e tracce di decorazione",
+          "La facciata di un casinò balneare"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "Che tipo di luogo è la Casa de la Fortuna?",
+        "options": [
+          "Una batteria costiera del Novecento",
+          "Una casa romana privata",
+          "Un mercato coperto modernista"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Da che cosa deriva il nome moderno del sito?",
+        "options": [
+          "Da un’iscrizione legata alla Fortuna",
+          "Da una nave mercantile chiamata Fortuna",
+          "Da una torre medievale oggi perduta"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale dettaglio aiuta a immaginare la vita domestica?",
+        "options": [
+          "Cannoni su affusti girevoli",
+          "Ancore recuperate da relitti contemporanei",
+          "Mosaici, pitture e soglie degli ambienti"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "A quale mondo storico rimanda la Muraglia Punica?",
+        "options": [
+          "Alla Qart Hadasht cartaginese e barcide",
+          "Alla Cartagena modernista dei caffè borghesi",
+          "Alla stagione dei rifugi antiaerei"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale tecnica muraria è significativa?",
+        "options": [
+          "Doppio paramento con riempimento interno",
+          "Facciata continua di vetro e acciaio",
+          "Mosaico domestico a tessere policrome"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale evento del 209 a.C. è collegato al luogo?",
+        "options": [
+          "La presa romana della città da parte di Scipione",
+          "La costruzione dell’ascensore panoramico",
+          "L’inaugurazione del Gran Hotel"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "Che cosa studia soprattutto l’ARQUA?",
+        "options": [
+          "La pittura religiosa barocca della Murcia interna",
+          "L’archeologia subacquea e i contesti marittimi",
+          "Le feste medievali della Calle Mayor"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché la conservazione è importante?",
+        "options": [
+          "Perché gli oggetti sommersi richiedono dissalazione e documentazione",
+          "Perché ogni reperto viene lasciato bagnato all’aperto",
+          "Perché le anfore vengono trasformate in strumenti musicali"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale idea chiave trasmette il museo?",
+        "options": [
+          "Un tesoro è utile solo se perde la propria provenienza",
+          "Il mare cancellò ogni traccia commerciale della regione",
+          "Un reperto vale molto di più quando si conosce il suo contesto"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "Perché il porto è centrale nella storia di Cartagena?",
+        "options": [
+          "Perché impedì sempre alla città di guardare al Mediterraneo",
+          "Perché la baia protetta ha sostenuto commercio, marina e difesa",
+          "Perché fu creato artificialmente solo nel XXI secolo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Che cosa si osserva lungo il fronte d’acqua?",
+        "options": [
+          "Moli, banchine, bacini e separazione delle funzioni portuali",
+          "Gradinate teatrali scavate nella collina",
+          "Pitture domestiche di una villa romana"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale frase riassume meglio il luogo?",
+        "options": [
+          "Il porto è una decorazione senza rapporto con la storia",
+          "Il porto sostituisce tutti i quartieri interni",
+          "Il porto è il motore della città, non un semplice sfondo"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "Che ruolo svolge la Calle Mayor?",
+        "options": [
+          "Un corridoio sotterraneo di rifugi militari",
+          "Una strada romana ancora interamente coperta",
+          "Un asse di passeggio borghese e modernista"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quali elementi caratterizzano le facciate?",
+        "options": [
+          "Mura puniche a doppio paramento",
+          "Balconi, ferro, ceramica, vetro e ornamenti",
+          "Trincee scavate nella roccia"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché la via è interessante turisticamente?",
+        "options": [
+          "Mostra la Cartagena elegante nata dai profitti minerari",
+          "Conserva l’ingresso principale di una miniera attiva",
+          "Nasconde l’intero bacino del porto alla vista"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "A quale corrente urbana appartiene il Gran Hotel?",
+        "options": [
+          "Alla fortificazione punica del III secolo a.C.",
+          "All’architettura romana delle terme pubbliche",
+          "Al modernismo dei primi anni del XX secolo"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Che cosa conviene osservare sulla facciata?",
+        "options": [
+          "Una cavea ellittica per giochi gladiatori",
+          "Le nicchie di un rifugio antiaereo",
+          "Verticalità, ceramiche, ferro battuto e ritmo delle finestre"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Perché l’edificio resta simbolico?",
+        "options": [
+          "Fu sempre un magazzino militare privo di decorazione",
+          "Venne progettato come faro isolato su una scogliera",
+          "Ha conservato un’aura di prestigio nonostante i cambi d’uso"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "Che atmosfera offre Plaza de San Francisco?",
+        "options": [
+          "Un paesaggio minerario sotterraneo non visitabile",
+          "Una rada militare chiusa da mura antiche",
+          "Una pausa urbana dove modernismo e vita quotidiana si incontrano"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Che cosa rappresenta la Casa Maestre?",
+        "options": [
+          "L’ambizione estetica della borghesia locale",
+          "Un faro costiero per l’ingresso nel Mar Menor",
+          "Una porta romana dell’antico teatro"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Che cosa è utile fare sulla piazza?",
+        "options": [
+          "Cercare onde marine disegnate nella pavimentazione",
+          "Misurare la linea di partenza di una corsa automobilistica",
+          "Seguire gli assi visivi tra alberi, facciate e spazio aperto"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "Che cosa racconta il Museo Storico Militare?",
+        "options": [
+          "La storia dell’artiglieria e della difesa di Cartagena",
+          "La produzione conventuale del torrone murciano",
+          "La formazione geologica del Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Che cosa mostrano tecnicamente molti reperti?",
+        "options": [
+          "Vetrate di un coro gotico",
+          "Scenografie mobili di un teatro d’opera",
+          "Calibri, meccanismi, carte e logistica"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Perché il museo è coerente con Cartagena?",
+        "options": [
+          "Perché la città fu per secoli piazza navale e fortificata",
+          "Perché non possedette mai installazioni militari",
+          "Perché la sua storia fu soltanto agricola"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "Che cosa aveva di speciale il sottomarino Isaac Peral?",
+        "options": [
+          "Una chiatta romana per trasportare anfore",
+          "Una propulsione subacquea elettrica molto precoce",
+          "Una barca barocca da diporto aristocratico"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In quale anno il progetto divenne visibile?",
+        "options": [
+          "1492",
+          "1888",
+          "1939"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché Isaac Peral è importante per Cartagena?",
+        "options": [
+          "Fondò il Foro Romano del Molinete",
+          "Unisce marina, invenzione e memoria locale",
+          "Costruì la Casa Maestre come albergo"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "Quale funzione ha l’ascensore panoramico?",
+        "options": [
+          "Collega la città alla quota della Concepción",
+          "Trasporta minerale direttamente nella laguna",
+          "Conduce sott’acqua verso l’ARQUA"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Che cosa cambia durante la salita?",
+        "options": [
+          "La percezione di porto, colline e monumenti",
+          "Il colore dei mosaici romani",
+          "La stagione delle spiagge"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Perché è utile per il visitatore?",
+        "options": [
+          "Sostituisce tutti i musei della città",
+          "Esclude la vista del porto",
+          "Rende comprensibile rapidamente la topografia"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "Da che cosa dovevano proteggere i rifugi?",
+        "options": [
+          "Dal calore delle terme romane",
+          "Dal rumore dei caffè modernisti",
+          "Dai bombardamenti aerei della Guerra Civile spagnola"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Perché Cartagena fu un obiettivo?",
+        "options": [
+          "Per una cerimonia medievale di incoronazione",
+          "Per il suo ruolo di porto navale repubblicano",
+          "Per un mercato annuale dei fiori"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Che cosa si percepisce soprattutto nel rifugio?",
+        "options": [
+          "Strettezza, roccia, oscurità e paura civile",
+          "L’ampiezza di un lungomare aperto",
+          "Il lusso di un salone Belle Époque"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "Che cosa rende complesso l’anfiteatro dal punto di vista archeologico?",
+        "options": [
+          "Rimase completamente libero e intatto dall’antichità",
+          "Fu coperto e riutilizzato da costruzioni successive",
+          "Era costruito solo in vetro e acciaio"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale forma è tipica di un anfiteatro?",
+        "options": [
+          "Un impianto ellittico per spettacoli pubblici",
+          "Un molo rettilineo per navi mercantili",
+          "Un cortile modernista quadrato"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Che cosa insegna questo luogo su Cartagena?",
+        "options": [
+          "Tutti gli edifici antichi stavano fuori dalla città",
+          "I monumenti possono scomparire, essere inglobati e riapparire",
+          "La città non possiede strati romani"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "Perché l’Arsenale divenne importante nel XVIII secolo?",
+        "options": [
+          "Era una bottega privata di ceramica senza rapporto militare",
+          "Rafforzò Cartagena come grande base della marina spagnola",
+          "Sostituì il porto naturale con un lago artificiale"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Che cosa mostra tecnicamente il complesso?",
+        "options": [
+          "Mosaici termali di una villa privata",
+          "Sentieri dunali di un parco naturale",
+          "Officine, bacini, porte e ordine militare"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale confine è interessante qui?",
+        "options": [
+          "Quello tra montagna e stazione sciistica",
+          "Quello tra teatro d’opera e giardino conventuale",
+          "Quello tra città civile, spazio militare e acqua portuale"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "es": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "En quelle année le Palacio Consistorial actuel est-il achevé ?",
+        "options": [
+          "En 1765, comme dépendance directe de l’arsenal bourbonien",
+          "En 1907, dans l’élan moderniste de la ville",
+          "En 1939, pour commémorer la fin de la guerre civile"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel élément intérieur est particulièrement associé au prestige du bâtiment ?",
+        "options": [
+          "Un cloître médiéval conservé sous la salle des fêtes",
+          "Un escalier impérial en marbre de Macael",
+          "Une citerne punique visible depuis la façade"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que permet de comprendre la place devant l’hôtel de ville ?",
+        "options": [
+          "La limite exacte de l’ancien amphithéâtre romain",
+          "Le lien entre pouvoir municipal, promenade bourgeoise et front portuaire",
+          "L’emplacement des anciennes mines d’argent sous la rade"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "À quelle période le théâtre romain est-il généralement daté ?",
+        "options": [
+          "Au milieu du IIIe siècle après J.-C., sous les raids barbares",
+          "Au XIIe siècle, comme arène médiévale fortifiée",
+          "À la fin du Ier siècle avant notre ère"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi sa redécouverte a-t-elle marqué Carthagène ?",
+        "options": [
+          "Elle a prouvé que la ville n’avait jamais eu de port antique",
+          "Elle a révélé un grand monument longtemps caché sous le quartier",
+          "Elle a remplacé définitivement le château par un bâtiment moderne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel détail faut-il observer pour comprendre son implantation ?",
+        "options": [
+          "La courbe des gradins appuyés sur la pente naturelle",
+          "Les créneaux médiévaux qui entourent entièrement la scène",
+          "Les rails industriels conservés au centre de l’orchestra"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "Quelle est la première qualité stratégique du Castillo de la Concepción ?",
+        "options": [
+          "Son rôle de marché couvert pour les pêcheurs du port",
+          "Sa position de belvédère sur la rade et les accès de la ville",
+          "Son sous-sol entièrement occupé par des thermes romains"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quelle lecture le panorama permet-il d’assembler ?",
+        "options": [
+          "Le port, le théâtre romain et les quartiers modernes",
+          "La Manga, Calblanque et Cabo de Palos en un seul alignement urbain",
+          "Les salines du Mar Menor depuis les salles du musée"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle idée résume le mieux l’architecture du château ?",
+        "options": [
+          "Une façade moderniste comparable au Gran Hotel",
+          "Un sanctuaire baroque construit pour les processions maritimes",
+          "Une architecture de position plus que d’ornement"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "Que montre le Quartier du Forum Romain mieux qu’un monument isolé ?",
+        "options": [
+          "La première usine navale électrique de la marine espagnole",
+          "Le tracé complet des remparts construits par Charles III",
+          "Un morceau de ville antique avec rues, thermes et bâtiments publics"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi le Molinete est-il important dans la visite ?",
+        "options": [
+          "Il révèle la vie urbaine quotidienne de Carthago Nova",
+          "Il conserve la maison natale de Víctor Beltrí",
+          "Il marque le début exact de La Manga del Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel type de détail faut-il regarder sur le site ?",
+        "options": [
+          "Cordages de navire suspendus aux façades",
+          "Dallages, seuils et alignements de murs",
+          "Carreaux modernistes datés de 1907"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "Pourquoi la Casa de la Fortuna change-t-elle l’échelle de la visite antique ?",
+        "options": [
+          "Elle présente la salle des machines du sous-marin Peral",
+          "Elle fait entrer dans l’espace domestique d’une maison romaine",
+          "Elle montre les appartements privés du gouverneur bourbonien"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "À quoi renvoie le nom du site ?",
+        "options": [
+          "À une inscription de bon augure liée à la Fortune",
+          "À une loterie municipale créée au XIXe siècle",
+          "À une auberge de marins connue pour ses jeux de cartes"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément aide à imaginer le quotidien des habitants ?",
+        "options": [
+          "Les cloches de l’horloge de l’Arsenal",
+          "Les canons côtiers dirigés vers la rade",
+          "Les sols, les seuils et les peintures murales"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "À quelle ville ancienne la Muraille Punique renvoie-t-elle ?",
+        "options": [
+          "Qart Hadasht, fondée dans l’orbite carthaginoise",
+          "Lucentum, capitale romaine du nord de la côte",
+          "Madinat Mursiya, centre islamique de l’intérieur"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel événement de 209 av. J.-C. marque l’histoire du site ?",
+        "options": [
+          "La prise de la ville par Scipion l’Africain",
+          "La construction du Gran Hotel par Víctor Beltrí",
+          "L’inauguration du musée ARQUA près du port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle caractéristique constructive faut-il observer ?",
+        "options": [
+          "Deux murs parallèles en grands blocs de grès",
+          "Une coupole de verre posée sur une structure métallique",
+          "Une mosaïque domestique consacrée à la Fortune"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "Quel type de patrimoine l’ARQUA conserve-t-il principalement ?",
+        "options": [
+          "Les costumes des fêtes modernistes de la Calle Mayor",
+          "Le patrimoine archéologique trouvé sous l’eau",
+          "Les plans cadastraux de la Muraille de Charles III"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi le contexte d’une épave est-il essentiel ?",
+        "options": [
+          "Parce qu’un objet isolé raconte moins qu’une cargaison documentée",
+          "Parce que les amphores changent de matériau dès qu’elles touchent l’air",
+          "Parce que chaque découverte appartient automatiquement au port commercial"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle relation le bâtiment entretient-il avec son emplacement ?",
+        "options": [
+          "Il ferme l’accès médiéval du Castillo de la Concepción",
+          "Il marque l’entrée nord de la Sierra Minera",
+          "Il relie le musée au front portuaire et à la rade"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "Pourquoi le port explique-t-il l’existence de Carthagène ?",
+        "options": [
+          "La ville s’est développée uniquement autour d’un marché agricole intérieur",
+          "La rade protégée a attiré pouvoirs militaires, commerce et navigation",
+          "Le port a été creusé au XXe siècle pour créer un décor touristique"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel contraste contemporain observe-t-on sur les quais ?",
+        "options": [
+          "La promenade touristique cohabite avec la mémoire navale et commerciale",
+          "Les gradins du théâtre romain s’avancent directement dans l’eau",
+          "Les thermes puniques servent encore de hall de croisière"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément naturel structure la perception du port ?",
+        "options": [
+          "Une forêt continue qui descend jusqu’aux jetées",
+          "Une lagune fermée sans accès à la Méditerranée",
+          "Les reliefs qui cadrent et protègent partiellement la baie"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "Que représente la Calle Mayor dans la visite ?",
+        "options": [
+          "Le quartier principal des thermes puniques du IIIe siècle av. J.-C.",
+          "Le chemin militaire fermé reliant directement les batteries côtières",
+          "La Carthagène moderniste et bourgeoise du tournant du XXe siècle"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel détail faut-il regarder en levant les yeux ?",
+        "options": [
+          "Mâts de navire intégrés aux toitures",
+          "Balcons, ferronneries et ornements de façade",
+          "Vestiges de gradins romains sur chaque étage"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "À quoi le modernisme local est-il lié dans le texte ?",
+        "options": [
+          "Aux fortunes minières, commerciales et à l’ambition urbaine",
+          "À la construction exclusive de refuges antiaériens",
+          "À l’arrivée des plages de Calblanque dans le centre-ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "Quel architecte est associé au Gran Hotel dans le commentaire ?",
+        "options": [
+          "Hasdrubal le Beau",
+          "Isaac Peral",
+          "Víctor Beltrí"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi l’angle du bâtiment est-il important ?",
+        "options": [
+          "Il indique l’emplacement d’une porte punique disparue",
+          "Il servait à orienter les sous-marins dans la rade",
+          "Il transforme la parcelle en signal visuel dans la rue"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Que symbolise le Gran Hotel pour la ville de 1900 ?",
+        "options": [
+          "Une forteresse avancée de la deuxième guerre punique",
+          "Un refuge creusé contre les bombardements aériens",
+          "Une Carthagène mondaine, ouverte et décorative"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "Quelle ambiance la Plaza de San Francisco met-elle en valeur ?",
+        "options": [
+          "Un champ de tir fermé réservé aux batteries côtières",
+          "Un bassin portuaire uniquement consacré aux chantiers navals",
+          "Une place vivante où patrimoine et quotidien se mêlent"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle influence est évoquée pour la Casa Maestre ?",
+        "options": [
+          "Un air de famille avec les courants catalans et l’esthétique de Gaudí",
+          "Une imitation directe des temples égyptiens d’Alexandrie",
+          "Un modèle strictement militaire venu de l’arsenal"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément donne au lieu son charme urbain ?",
+        "options": [
+          "Les rails d’un tram minier conservés dans une crypte",
+          "Les murailles puniques traversant toute la place en surface",
+          "Les façades, les arbres, les terrasses et les mouvements de passants"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "Quelle dimension de Carthagène le Museo Histórico Militar met-il en avant ?",
+        "options": [
+          "La profondeur militaire, navale et défensive de la ville",
+          "La naissance du café asiático dans les salons bourgeois",
+          "La formation naturelle des plages du Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel type d’objets rend visible le travail technique de l’armée ?",
+        "options": [
+          "Mosaïques domestiques et peintures murales de maisons romaines",
+          "Amphores sorties d’une épave punique",
+          "Télémètres, pièces d’artillerie, maquettes et instruments"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Comment caractériser l’architecture militaire décrite ?",
+        "options": [
+          "Robuste, fonctionnelle et organisée pour les usages lourds",
+          "Légère, florale et entièrement couverte de vitraux",
+          "Souterraine, conçue uniquement pour des bains publics"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "Qui conçoit le sous-marin électrique présenté dans le commentaire ?",
+        "options": [
+          "Tomás Rico Valarino, architecte de l’hôtel de ville",
+          "Isaac Peral, né à Carthagène en 1851",
+          "Scipion l’Africain, général romain du IIIe siècle av. J.-C."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quelle année est associée au prototype du sous-marin Peral ?",
+        "options": [
+          "1609",
+          "1888",
+          "2008"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi le sous-marin est-il devenu presque légendaire localement ?",
+        "options": [
+          "Il a servi de clocher provisoire au Palacio Consistorial",
+          "Il associe réussite technique et reconnaissance institutionnelle incomplète",
+          "Il a transporté les premières mosaïques de la Casa de la Fortuna"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "Quel rôle pratique joue l’Ascensor Panorámico ?",
+        "options": [
+          "Relier la Calle Gisbert aux hauteurs du Parque Torres",
+          "Transporter les visiteurs sous la rade jusqu’à l’ARQUA",
+          "Faire circuler les wagons de minerai vers La Unión"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que révèle son parcours vertical ?",
+        "options": [
+          "Le relief réel de Carthagène et l’importance des collines",
+          "La profondeur exacte du port de commerce",
+          "La largeur originale de la Muraille Punique"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Pourquoi son architecture est-elle volontairement contemporaine ?",
+        "options": [
+          "Elle reconstitue une tour carthaginoise du IIIe siècle av. J.-C.",
+          "Elle copie les balcons modernistes de la Calle Mayor",
+          "Elle met en scène la montée sans imiter les monuments anciens"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "À quel épisode le Museo-Refugio de la Guerre Civile est-il lié ?",
+        "options": [
+          "À la prise de la ville par Scipion en 209 av. J.-C.",
+          "À l’inauguration du Gran Hotel au début du XXe siècle",
+          "Aux bombardements de la guerre civile espagnole"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle était la fonction principale des abris ?",
+        "options": [
+          "Stocker les amphores récupérées au fond de la mer",
+          "Protéger la population civile contre les attaques aériennes",
+          "Servir de salles de réception pour l’hôtel de ville"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel changement de regard le refuge provoque-t-il ?",
+        "options": [
+          "Il transforme la colline en lieu de survie plutôt qu’en simple belvédère",
+          "Il prouve que Carthagène n’avait pas de rôle naval",
+          "Il efface la mémoire des bombardements au profit du tourisme balnéaire"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "Quelle différence principale distingue l’amphithéâtre du théâtre romain ?",
+        "options": [
+          "Il servait uniquement de marché aux poissons",
+          "Il renvoie aux jeux et à une arène centrale",
+          "Il était la salle des machines du sous-marin Peral"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel bâtiment postérieur a longtemps compliqué sa lecture ?",
+        "options": [
+          "L’ancienne plaza de toros",
+          "Le Palacio Consistorial moderniste",
+          "La gare maritime de croisière"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que faut-il chercher pour imaginer le monument ?",
+        "options": [
+          "Les ferronneries florales de chaque balcon",
+          "Les courbes, les niveaux et l’ellipse de l’arène",
+          "Les cloisons peintes d’une maison privée"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "À quelle période le développement de l’Arsenal est-il fortement lié ?",
+        "options": [
+          "À la fondation punique de 227 av. J.-C.",
+          "Au XVIIIe siècle et à la politique navale des Bourbons",
+          "À la création de La Manga del Mar Menor"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que marque la porte de l’Arsenal ?",
+        "options": [
+          "L’entrée principale du théâtre romain antique",
+          "La limite naturelle du parc de Calblanque",
+          "La frontière entre ville civile et espace militaire organisé"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel trio résume la continuité maritime évoquée ?",
+        "options": [
+          "La Casa de la Fortuna, la Plaza San Francisco et Calblanque",
+          "La Muraille Punique, la Casa Maestre et le café asiático",
+          "Le port, le sous-marin Peral et l’Arsenal"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "pl": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "W którym roku ukończono obecny Palacio Consistorial?",
+        "options": [
+          "W 1765 roku, jako bezpośrednią część arsenału Burbonów",
+          "W 1907 roku, w modernistycznym rozmachu miasta",
+          "W 1939 roku, dla upamiętnienia końca wojny domowej"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który element wnętrza szczególnie kojarzy się z prestiżem budynku?",
+        "options": [
+          "Średniowieczny krużganek zachowany pod salą uroczystości",
+          "Imperialna klatka schodowa z marmuru z Macael",
+          "Punicka cysterna widoczna od strony fasady"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co pozwala zrozumieć plac przed ratuszem?",
+        "options": [
+          "Dokładną granicę dawnego rzymskiego amfiteatru",
+          "Związek władzy miejskiej, spaceru mieszczańskiego i frontu portowego",
+          "Położenie dawnych kopalni srebra pod samą redą"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "Na jaki okres zazwyczaj datuje się teatr rzymski?",
+        "options": [
+          "Na połowę III wieku naszej ery, w czasach najazdów barbarzyńskich",
+          "Na XII wiek, jako ufortyfikowaną arenę średniowieczną",
+          "Na koniec I wieku przed naszą erą"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Dlaczego jego ponowne odkrycie było tak ważne dla Kartageny?",
+        "options": [
+          "Dowiodło, że miasto nigdy nie miało antycznego portu",
+          "Ujawniło wielki monument długo ukryty pod dzielnicą",
+          "Ostatecznie zastąpiło zamek nowoczesnym budynkiem"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki szczegół warto obserwować, aby zrozumieć jego położenie?",
+        "options": [
+          "Krzywiznę widowni opartą o naturalne zbocze",
+          "Średniowieczne blanki otaczające całą scenę",
+          "Przemysłowe tory zachowane pośrodku orchestra"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "Jaka jest pierwsza strategiczna zaleta Castillo de la Concepción?",
+        "options": [
+          "Rola krytego targu dla rybaków portowych",
+          "Położenie punktu widokowego nad redą i dostępami do miasta",
+          "Podziemie w całości zajęte przez termy rzymskie"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaką lekturę pozwala złożyć panorama?",
+        "options": [
+          "Port, teatr rzymski i nowoczesne dzielnice",
+          "La Manga, Calblanque i Cabo de Palos w jednej osi miejskiej",
+          "Solniska Mar Menor oglądane z sal muzealnych"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Która myśl najlepiej streszcza architekturę zamku?",
+        "options": [
+          "Fasada modernistyczna porównywalna z Gran Hotel",
+          "Barokowe sanktuarium zbudowane dla procesji morskich",
+          "Architektura położenia bardziej niż ornamentu"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "Co Dzielnica Forum Rzymskiego pokazuje lepiej niż pojedynczy monument?",
+        "options": [
+          "Pierwszą elektryczną stocznię hiszpańskiej marynarki",
+          "Pełny przebieg murów zbudowanych przez Karola III",
+          "Fragment antycznego miasta z ulicami, termami i budynkami publicznymi"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Dlaczego Molinete jest ważne podczas zwiedzania?",
+        "options": [
+          "Ujawnia codzienne życie miejskie Carthago Nova",
+          "Zachowuje dom rodzinny Víctora Beltríego",
+          "Wyznacza dokładny początek La Manga del Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakiego rodzaju detale warto oglądać na stanowisku?",
+        "options": [
+          "Liny okrętowe zawieszone na fasadach",
+          "Bruki, progi i linie murów",
+          "Płytki modernistyczne datowane na 1907 rok"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "Dlaczego Casa de la Fortuna zmienia skalę wizyty w antyku?",
+        "options": [
+          "Prezentuje maszynownię okrętu podwodnego Perala",
+          "Wprowadza do przestrzeni domowej rzymskiego domu",
+          "Pokazuje prywatne apartamenty gubernatora Burbonów"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Do czego nawiązuje nazwa stanowiska?",
+        "options": [
+          "Do pomyślnego napisu związanego z Fortuną",
+          "Do miejskiej loterii założonej w XIX wieku",
+          "Do tawerny marynarzy znanej z gier karcianych"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Który element pomaga wyobrazić sobie codzienność mieszkańców?",
+        "options": [
+          "Dzwony zegara Arsenału",
+          "Działa nadbrzeżne skierowane ku redzie",
+          "Posadzki, progi i malowidła ścienne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "Do jakiego starożytnego miasta odsyła Mur Punicki?",
+        "options": [
+          "Do Qart Hadasht, założonego w orbicie kartagińskiej",
+          "Do Lucentum, rzymskiej stolicy północnego wybrzeża",
+          "Do Madinat Mursiya, islamskiego centrum wnętrza regionu"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakie wydarzenie z 209 roku p.n.e. naznacza historię tego miejsca?",
+        "options": [
+          "Zdobycie miasta przez Scypiona Afrykańskiego",
+          "Budowa Gran Hotel przez Víctora Beltríego",
+          "Otwarcie muzeum ARQUA przy porcie"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaką cechę konstrukcyjną warto obserwować?",
+        "options": [
+          "Dwa równoległe mury z dużych bloków piaskowca",
+          "Szklaną kopułę opartą na metalowej konstrukcji",
+          "Mozaikę domową poświęconą Fortunie"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "Jaki typ dziedzictwa przechowuje przede wszystkim ARQUA?",
+        "options": [
+          "Kostiumy świąt modernistycznych z Calle Mayor",
+          "Dziedzictwo archeologiczne odnalezione pod wodą",
+          "Plany katastralne Muru Karola III"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Dlaczego kontekst wraku jest tak ważny?",
+        "options": [
+          "Bo odosobniony przedmiot mówi mniej niż udokumentowany ładunek",
+          "Bo amfory zmieniają materiał natychmiast po zetknięciu z powietrzem",
+          "Bo każde odkrycie automatycznie należy do portu handlowego"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki związek budynek ma ze swoim położeniem?",
+        "options": [
+          "Zamyka średniowieczne wejście do Castillo de la Concepción",
+          "Wyznacza północne wejście do Sierra Minera",
+          "Łączy muzeum z frontem portowym i redą"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "Dlaczego port tłumaczy istnienie Kartageny?",
+        "options": [
+          "Miasto rozwinęło się wyłącznie wokół wewnętrznego rynku rolnego",
+          "Chroniona reda przyciągała władze wojskowe, handel i żeglugę",
+          "Port wykopano w XX wieku jako dekorację turystyczną"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki współczesny kontrast widać na nabrzeżach?",
+        "options": [
+          "Promenada turystyczna współistnieje z pamięcią marynarki i handlu",
+          "Stopnie teatru rzymskiego wchodzą bezpośrednio do wody",
+          "Termy punickie nadal służą jako hala rejsowa"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki element naturalny kształtuje odbiór portu?",
+        "options": [
+          "Nieprzerwany las schodzący aż do pomostów",
+          "Zamknięta laguna bez dostępu do Morza Śródziemnego",
+          "Wzgórza, które kadrują i częściowo chronią zatokę"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "Co reprezentuje Calle Mayor podczas zwiedzania?",
+        "options": [
+          "Główną dzielnicę term punickich z III wieku p.n.e.",
+          "Zamkniętą drogę wojskową łączącą baterie nadbrzeżne",
+          "Modernistyczną i mieszczańską Kartagenę przełomu XX wieku"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaki detal warto zobaczyć, podnosząc wzrok?",
+        "options": [
+          "Maszty okrętowe wbudowane w dachy",
+          "Balkony, kute żelazo i ornamenty fasad",
+          "Pozostałości rzymskich trybun na każdym piętrze"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Z czym tekst łączy lokalny modernizm?",
+        "options": [
+          "Z fortunami górniczymi, handlem i ambicją miejską",
+          "Wyłącznie z budową schronów przeciwlotniczych",
+          "Z przeniesieniem plaż Calblanque do centrum miasta"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "Który architekt jest związany z Gran Hotel?",
+        "options": [
+          "Hasdrubal Piękny",
+          "Isaac Peral",
+          "Víctor Beltrí"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Dlaczego narożnik budynku jest ważny?",
+        "options": [
+          "Wskazuje miejsce zaginionej bramy punickiej",
+          "Służył do naprowadzania okrętów podwodnych na redzie",
+          "Zamienia parcelę w wizualny znak ulicy"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Co Gran Hotel symbolizuje dla miasta około 1900 roku?",
+        "options": [
+          "Wysuniętą twierdzę drugiej wojny punickiej",
+          "Schron wykuty przeciw bombardowaniom lotniczym",
+          "Kartagenę światową, otwartą i dekoracyjną"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "Jaką atmosferę podkreśla Plaza de San Francisco?",
+        "options": [
+          "Zamknięty poligon zarezerwowany dla baterii nadbrzeżnych",
+          "Basen portowy przeznaczony wyłącznie dla stoczni",
+          "Żywy plac, gdzie dziedzictwo miesza się z codziennością"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jakie wpływy wspomniano przy Casa Maestre?",
+        "options": [
+          "Pokrewieństwo z nurtami katalońskimi i estetyką Gaudíego",
+          "Bezpośrednią imitację egipskich świątyń Aleksandrii",
+          "Ściśle wojskowy model przeniesiony z Arsenału"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Co nadaje miejscu miejski urok?",
+        "options": [
+          "Tory tramwaju górniczego zachowane w krypcie",
+          "Mury punickie przecinające cały plac na powierzchni",
+          "Fasady, drzewa, tarasy i ruch przechodniów"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "Jaki wymiar Kartageny podkreśla Muzeum Historyczno-Wojskowe?",
+        "options": [
+          "Wojskową, morską i obronną głębię miasta",
+          "Narodziny kawy asiático w salonach mieszczańskich",
+          "Naturalne powstawanie plaż Mar Menor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakie przedmioty pokazują techniczną pracę wojska?",
+        "options": [
+          "Mozaiki domowe i malowidła ścienne rzymskich domów",
+          "Amfory wydobyte z punickiego wraku",
+          "Dalmierze, działa, modele i instrumenty"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jak można określić opisaną architekturę wojskową?",
+        "options": [
+          "Solidna, funkcjonalna i zorganizowana pod ciężkie użycia",
+          "Lekka, kwiatowa i całkowicie pokryta witrażami",
+          "Podziemna, zaprojektowana wyłącznie dla łaźni publicznych"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "Kto zaprojektował elektryczny okręt podwodny opisany w komentarzu?",
+        "options": [
+          "Tomás Rico Valarino, architekt ratusza",
+          "Isaac Peral, urodzony w Kartagenie w 1851 roku",
+          "Scypion Afrykański, rzymski wódz z III wieku p.n.e."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który rok wiąże się z prototypem okrętu Perala?",
+        "options": [
+          "1609",
+          "1888",
+          "2008"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Dlaczego okręt podwodny stał się lokalnie niemal legendarny?",
+        "options": [
+          "Służył jako tymczasowa dzwonnica Palacio Consistorial",
+          "Łączy sukces techniczny z niepełnym uznaniem instytucjonalnym",
+          "Przewiózł pierwsze mozaiki z Casa de la Fortuna"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "Jaką praktyczną rolę pełni winda panoramiczna?",
+        "options": [
+          "Łączy Calle Gisbert z wysokościami Parque Torres",
+          "Przewozi zwiedzających pod redą do ARQUA",
+          "Transportuje wagony rudy w stronę La Unión"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Co ujawnia jej pionowy przebieg?",
+        "options": [
+          "Rzeczywiste ukształtowanie Kartageny i wagę wzgórz",
+          "Dokładną głębokość portu handlowego",
+          "Pierwotną szerokość Muru Punickiego"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Dlaczego jej architektura jest celowo współczesna?",
+        "options": [
+          "Odtwarza wieżę kartagińską z III wieku p.n.e.",
+          "Kopiuje modernistyczne balkony Calle Mayor",
+          "Inscenizuje wjazd, nie udając dawnych zabytków"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "Z jakim epizodem wiąże się Muzeum-Schron Wojny Domowej?",
+        "options": [
+          "Ze zdobyciem miasta przez Scypiona w 209 roku p.n.e.",
+          "Z otwarciem Gran Hotel na początku XX wieku",
+          "Z bombardowaniami hiszpańskiej wojny domowej"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaka była główna funkcja schronów?",
+        "options": [
+          "Przechowywać amfory wydobyte z dna morza",
+          "Chronić ludność cywilną przed atakami lotniczymi",
+          "Służyć jako sale przyjęć ratusza"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaką zmianę spojrzenia wywołuje schron?",
+        "options": [
+          "Zamienia wzgórze w miejsce przetrwania, a nie tylko punkt widokowy",
+          "Dowodzi, że Kartagena nie miała roli morskiej",
+          "Zastępuje pamięć bombardowań turystyką plażową"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "Jaka główna różnica odróżnia amfiteatr od teatru rzymskiego?",
+        "options": [
+          "Służył wyłącznie jako targ rybny",
+          "Nawiązuje do igrzysk i centralnej areny",
+          "Był maszynownią okrętu Perala"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki późniejszy budynek długo utrudniał jego odczytanie?",
+        "options": [
+          "Dawna plaza de toros",
+          "Modernistyczny Palacio Consistorial",
+          "Terminal morski dla wycieczkowców"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Czego szukać, aby wyobrazić sobie monument?",
+        "options": [
+          "Kwiatowych okuć każdego balkonu",
+          "Krzywizn, poziomów i elipsy areny",
+          "Malowanych ścianek prywatnego domu"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "Z którym okresem silnie wiąże się rozwój Arsenału?",
+        "options": [
+          "Z punicką fundacją z 227 roku p.n.e.",
+          "Z XVIII wiekiem i polityką morską Burbonów",
+          "Z utworzeniem La Manga del Mar Menor"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co wyznacza brama Arsenału?",
+        "options": [
+          "Główne wejście do antycznego teatru rzymskiego",
+          "Naturalną granicę parku Calblanque",
+          "Granicę między miastem cywilnym a zorganizowaną przestrzenią wojskową"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaka trójka streszcza wspomnianą ciągłość morską?",
+        "options": [
+          "Casa de la Fortuna, Plaza San Francisco i Calblanque",
+          "Mur Punicki, Casa Maestre i kawa asiático",
+          "Port, okręt Perala i Arsenał"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "ar": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "في أي سنة اكتمل القصر البلدي الحالي؟",
+        "options": [
+          "عام 1765، كملحق مباشر للترسانة البوربونية",
+          "عام 1907، ضمن اندفاعة المدينة الحداثية",
+          "عام 1939، لتخليد نهاية الحرب الأهلية"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي عنصر داخلي يرتبط خصوصاً بهيبة المبنى؟",
+        "options": [
+          "دير أوسط محفوظ تحت قاعة الاحتفالات",
+          "درج إمبراطوري من رخام ماكايل",
+          "خزان بوني ظاهر من الواجهة"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ماذا تساعد الساحة أمام دار البلدية على فهمه؟",
+        "options": [
+          "الحد الدقيق للمدرج الروماني القديم",
+          "العلاقة بين السلطة البلدية والتنزه البرجوازي والواجهة المينائية",
+          "موقع مناجم الفضة القديمة تحت الخليج"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "إلى أي فترة يؤرخ المسرح الروماني عادة؟",
+        "options": [
+          "إلى منتصف القرن الثالث الميلادي خلال غارات البرابرة",
+          "إلى القرن الثاني عشر كساحة محصنة من العصور الوسطى",
+          "إلى نهاية القرن الأول قبل الميلاد"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "لماذا شكّل اكتشافه من جديد حدثاً مهماً لقرطاجنة؟",
+        "options": [
+          "لأنه أثبت أن المدينة لم تمتلك ميناءً قديماً قط",
+          "لأنه كشف معلماً كبيراً ظل طويلاً مخفياً تحت الحي",
+          "لأنه استبدل القلعة نهائياً بمبنى حديث"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي تفصيل ينبغي ملاحظته لفهم موقعه؟",
+        "options": [
+          "انحناء المدرجات المستندة إلى المنحدر الطبيعي",
+          "الشرفات القتالية التي تحيط بالمشهد كله",
+          "القضبان الصناعية المحفوظة وسط الأوركسترا"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "ما أول ميزة استراتيجية لقلعة لا كونثبثيون؟",
+        "options": [
+          "دورها كسوق مغطى لصيادي الميناء",
+          "موقعها كنقطة مراقبة للخليج ومداخل المدينة",
+          "كون باطنها مشغولاً بالكامل بحمامات رومانية"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي قراءة يتيحها المشهد البانورامي؟",
+        "options": [
+          "جمع الميناء والمسرح الروماني والأحياء الحديثة في صورة واحدة",
+          "رؤية لا مانغا وكالبلانكي وكابو دي بالوس كخط حضري واحد",
+          "متابعة ملاحات مار مينور من قاعات المتحف"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي فكرة تلخص عمارة القلعة على أفضل وجه؟",
+        "options": [
+          "واجهة حداثية شبيهة بالفندق الكبير",
+          "مزار باروكي شُيد للمواكب البحرية",
+          "عمارة موقع أكثر من كونها عمارة زخرفة"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "ماذا يوضح حي المنتدى الروماني أكثر من نصب منفرد؟",
+        "options": [
+          "أول مصنع بحري كهربائي للبحرية الإسبانية",
+          "المسار الكامل للأسوار التي بناها شارل الثالث",
+          "قطعة من مدينة قديمة فيها شوارع وحمامات ومبان عامة"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "لماذا يعد مولينيتِه مهماً في الزيارة؟",
+        "options": [
+          "لأنه يكشف الحياة الحضرية اليومية في كارثاغو نوفا",
+          "لأنه يحفظ بيت مولد فيكتور بلتري",
+          "لأنه يحدد البداية الدقيقة للا مانغا ديل مار مينور"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي نوع من التفاصيل ينبغي النظر إليه في الموقع؟",
+        "options": [
+          "حبال سفن معلقة على الواجهات",
+          "الأرضيات والعتبات واستقامات الجدران",
+          "بلاطات حداثية مؤرخة بعام 1907"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "لماذا يغيّر بيت فورتونا مقياس زيارة العصور القديمة؟",
+        "options": [
+          "لأنه يعرض غرفة محركات غواصة بيرال",
+          "لأنه يدخل الزائر إلى فضاء منزلي لبيت روماني",
+          "لأنه يري الشقق الخاصة لحاكم بوربوني"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "إلى ماذا يحيل اسم الموقع؟",
+        "options": [
+          "إلى نقش فأل حسن مرتبط بفورتونا",
+          "إلى يانصيب بلدي أنشئ في القرن التاسع عشر",
+          "إلى نزل بحارة اشتهر بألعاب الورق"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي عنصر يساعد على تخيل الحياة اليومية للسكان؟",
+        "options": [
+          "أجراس ساعة الترسانة",
+          "المدافع الساحلية الموجهة نحو الخليج",
+          "الأرضيات والعتبات والرسوم الجدارية"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "إلى أي مدينة قديمة يحيل السور البوني؟",
+        "options": [
+          "إلى قارت حدشت المؤسسة في الفلك القرطاجي",
+          "إلى لوكنتوم عاصمة رومانية للشمال الساحلي",
+          "إلى مدينة مرسية الإسلامية في الداخل"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي حدث سنة 209 قبل الميلاد يطبع تاريخ الموقع؟",
+        "options": [
+          "استيلاء سكيبيو الإفريقي على المدينة",
+          "بناء الفندق الكبير على يد فيكتور بلتري",
+          "افتتاح متحف أركوا قرب الميناء"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي خاصية بنائية ينبغي ملاحظتها؟",
+        "options": [
+          "جداران متوازيان من كتل حجر رملي كبيرة",
+          "قبة زجاجية فوق هيكل معدني",
+          "فسيفساء منزلية مخصصة لفورتونا"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "أي نوع من التراث يحفظه أركوا أساساً؟",
+        "options": [
+          "أزياء الاحتفالات الحداثية في كالي مايور",
+          "التراث الأثري المكتشف تحت الماء",
+          "المخططات العقارية لسور شارل الثالث"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "لماذا يعد سياق الحطام البحري ضرورياً؟",
+        "options": [
+          "لأن القطعة المعزولة تقول أقل من حمولة موثقة",
+          "لأن الأمفورات تغير مادتها فور ملامسة الهواء",
+          "لأن كل اكتشاف ينتمي تلقائياً إلى الميناء التجاري"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما علاقة المبنى بموقعه؟",
+        "options": [
+          "يغلق المدخل الوسيط لقلعة لا كونثبثيون",
+          "يمثل المدخل الشمالي لسييرا مينيرا",
+          "يربط المتحف بالواجهة المينائية والخليج"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "لماذا يفسر الميناء وجود قرطاجنة؟",
+        "options": [
+          "لأن المدينة تطورت فقط حول سوق زراعي داخلي",
+          "لأن الخليج المحمي جذب القوى العسكرية والتجارة والملاحة",
+          "لأن الميناء حُفر في القرن العشرين كديكور سياحي"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي تباين معاصر يُلاحظ على الأرصفة؟",
+        "options": [
+          "يتعايش التنزه السياحي مع الذاكرة البحرية والتجارية",
+          "تتقدم مدرجات المسرح الروماني مباشرة إلى الماء",
+          "ما زالت الحمامات البونية تستخدم بهواً للرحلات البحرية"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي عنصر طبيعي ينظم إدراك الميناء؟",
+        "options": [
+          "غابة متصلة تنزل حتى الأرصفة",
+          "بحيرة مغلقة بلا منفذ إلى المتوسط",
+          "التضاريس التي تؤطر الخليج وتحميه جزئياً"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "ماذا تمثل كالي مايور في الزيارة؟",
+        "options": [
+          "الحي الرئيسي للحمامات البونية في القرن الثالث قبل الميلاد",
+          "الطريق العسكري المغلق الواصل مباشرة إلى البطاريات الساحلية",
+          "قرطاجنة الحداثية والبرجوازية عند مطلع القرن العشرين"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أي تفصيل ينبغي رؤيته عند رفع النظر؟",
+        "options": [
+          "صواري سفن مدمجة في الأسطح",
+          "الشرفات والحديد المشغول وزخارف الواجهات",
+          "بقايا مدرجات رومانية في كل طابق"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "بماذا ترتبط الحداثة المحلية في النص؟",
+        "options": [
+          "بثروات التعدين والتجارة والطموح الحضري",
+          "بالبناء الحصري للملاجئ المضادة للطيران",
+          "بوصول شواطئ كالبلانكي إلى وسط المدينة"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "أي مهندس معماري يرتبط بالفندق الكبير في التعليق؟",
+        "options": [
+          "حسدربعل الجميل",
+          "إسحاق بيرال",
+          "فيكتور بلتري"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "لماذا تعد زاوية المبنى مهمة؟",
+        "options": [
+          "لأنها تحدد موضع بوابة بونية اختفت",
+          "لأنها كانت توجه الغواصات في الخليج",
+          "لأنها تحول القطعة إلى إشارة بصرية في الشارع"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ماذا يرمز الفندق الكبير لمدينة عام 1900؟",
+        "options": [
+          "حصن متقدم في الحرب البونية الثانية",
+          "ملجأ محفور ضد القصف الجوي",
+          "قرطاجنة أنيقة ومنفتحة وزخرفية"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "أي أجواء تبرزها ساحة سان فرانسيسكو؟",
+        "options": [
+          "ميدان رمي مغلق للبطاريات الساحلية",
+          "حوض مينائي مخصص حصراً لأحواض السفن",
+          "ساحة حية يمتزج فيها التراث بالحياة اليومية"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أي تأثير يشار إليه في بيت مايستري؟",
+        "options": [
+          "قرابة مع التيارات الكتالونية وجمالية غاودي",
+          "تقليد مباشر لمعابد مصرية في الإسكندرية",
+          "نموذج عسكري صارم آت من الترسانة"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي عنصر يمنح المكان سحره الحضري؟",
+        "options": [
+          "قضبان ترام منجمي محفوظة في سرداب",
+          "أسوار بونية تعبر الساحة كلها على السطح",
+          "الواجهات والأشجار والتراسات وحركة المارة"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "أي بعد من قرطاجنة يبرزه المتحف التاريخي العسكري؟",
+        "options": [
+          "العمق العسكري والبحري والدفاعي للمدينة",
+          "ولادة قهوة أسياتيكو في الصالونات البرجوازية",
+          "التكوين الطبيعي لشواطئ مار مينور"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أي نوع من الأشياء يجعل العمل التقني للجيش مرئياً؟",
+        "options": [
+          "فسيفساء منزلية ورسوم جدارية لبيوت رومانية",
+          "أمفورات أخرجت من حطام بوني",
+          "مقاييس مسافات وقطع مدفعية ومجسمات وأدوات"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "كيف يمكن وصف العمارة العسكرية المذكورة؟",
+        "options": [
+          "صلبة ووظيفية ومنظمة للاستعمالات الثقيلة",
+          "خفيفة وزهرية ومغطاة كلياً بالزجاج الملون",
+          "تحت الأرض ومصممة فقط كحمامات عامة"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "من صمم الغواصة الكهربائية المذكورة؟",
+        "options": [
+          "توماس ريكو فالارينو مهندس دار البلدية",
+          "إسحاق بيرال المولود في قرطاجنة سنة 1851",
+          "سكيبيو الإفريقي القائد الروماني في القرن الثالث قبل الميلاد"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي سنة ترتبط بنموذج غواصة بيرال؟",
+        "options": [
+          "1609",
+          "1888",
+          "2008"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "لماذا أصبحت الغواصة شبه أسطورية محلياً؟",
+        "options": [
+          "لأنها خدمت برج أجراس مؤقتاً للقصر البلدي",
+          "لأنها تجمع نجاحاً تقنياً واعترافاً مؤسسياً غير مكتمل",
+          "لأنها نقلت أول فسيفساء بيت فورتونا"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "ما الدور العملي للمصعد البانورامي؟",
+        "options": [
+          "ربط كالي خيسبرت بمرتفعات حديقة توريس",
+          "نقل الزوار تحت الخليج إلى أركوا",
+          "تحريك عربات الخام نحو لا أونيون"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ماذا يكشف مساره العمودي؟",
+        "options": [
+          "التضاريس الحقيقية لقرطاجنة وأهمية التلال",
+          "العمق الدقيق للميناء التجاري",
+          "العرض الأصلي للسور البوني"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "لماذا تبدو عمارته معاصرة عن قصد؟",
+        "options": [
+          "لأنها تعيد بناء برج قرطاجي من القرن الثالث قبل الميلاد",
+          "لأنها تنسخ شرفات كالي مايور الحداثية",
+          "لأنها تعرض الصعود من دون تقليد المعالم القديمة"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "بأي حلقة تاريخية يرتبط متحف ملجأ الحرب الأهلية؟",
+        "options": [
+          "باستيلاء سكيبيو على المدينة سنة 209 قبل الميلاد",
+          "بافتتاح الفندق الكبير في بداية القرن العشرين",
+          "بقصف الحرب الأهلية الإسبانية"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الوظيفة الأساسية للملاجئ؟",
+        "options": [
+          "تخزين الأمفورات المستخرجة من قاع البحر",
+          "حماية السكان المدنيين من الهجمات الجوية",
+          "استخدامها قاعات استقبال لدار البلدية"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي تغيير في النظرة يحدثه الملجأ؟",
+        "options": [
+          "يحول التل إلى مكان نجاة لا مجرد شرفة إطلالة",
+          "يثبت أن قرطاجنة لم تكن لها وظيفة بحرية",
+          "يمحو ذاكرة القصف لصالح السياحة الساحلية"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "ما الفرق الأساسي بين المدرج والمسرح الروماني؟",
+        "options": [
+          "أنه كان سوقاً للسمك فقط",
+          "أنه يحيل إلى الألعاب وحلبة مركزية",
+          "أنه كان غرفة محركات غواصة بيرال"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي مبنى لاحق عرقل قراءته طويلاً؟",
+        "options": [
+          "ساحة مصارعة الثيران القديمة",
+          "القصر البلدي الحداثي",
+          "محطة الرحلات البحرية"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ماذا ينبغي البحث عنه لتخيل الأثر؟",
+        "options": [
+          "حديد الشرفات الزهري في كل واجهة",
+          "الانحناءات والمستويات وإهليلج الحلبة",
+          "الفواصل المرسومة في بيت خاص"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "بأي فترة يرتبط تطور الترسانة بقوة؟",
+        "options": [
+          "بالتأسيس البوني سنة 227 قبل الميلاد",
+          "بالقرن الثامن عشر وسياسة البوربون البحرية",
+          "بنشأة لا مانغا ديل مار مينور"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ماذا تشير بوابة الترسانة؟",
+        "options": [
+          "المدخل الرئيسي للمسرح الروماني القديم",
+          "الحد الطبيعي لمتنزه كالبلانكي",
+          "الحد بين المدينة المدنية والفضاء العسكري المنظم"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أي ثلاثية تلخص الاستمرارية البحرية المذكورة؟",
+        "options": [
+          "بيت فورتونا وساحة سان فرانسيسكو وكالبلانكي",
+          "السور البوني وبيت مايستري وقهوة أسياتيكو",
+          "الميناء وغواصة بيرال والترسانة"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "cn": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "现存卡塔赫纳市政宫是哪一年完成的？",
+        "options": [
+          "一七六五年，作为波旁兵工厂的直接组成部分",
+          "一九零七年，体现城市现代主义时期的雄心",
+          "一九三九年，为纪念西班牙内战结束而建成"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "建筑内部哪个元素最能体现市政威望？",
+        "options": [
+          "礼堂下方保留的中世纪回廊",
+          "使用马卡埃尔大理石的仪式楼梯",
+          "立面旁可见的布匿蓄水池"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "市政宫前的广场帮助人理解什么？",
+        "options": [
+          "旧罗马圆形剧场的精确边界",
+          "市政权力、资产阶级步行空间和港口前沿的关系",
+          "直接位于港湾下方的银矿位置"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "罗马剧场通常被认为建于什么时期？",
+        "options": [
+          "公元三世纪中叶，蛮族入侵时期",
+          "十二世纪，作为中世纪加固竞技场",
+          "公元前一世纪末"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "它的重新发现为什么对卡塔赫纳如此重要？",
+        "options": [
+          "证明城市从未拥有古代港口",
+          "揭示了长期隐藏在街区下的大型古迹",
+          "最终用现代建筑取代了城堡"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪个细节最能说明剧场的位置选择？",
+        "options": [
+          "依托天然山坡形成的看台弧线",
+          "围绕舞台一周的中世纪城垛",
+          "保存在乐池中央的工业铁轨"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "孔塞普西翁城堡的首要战略优势是什么？",
+        "options": [
+          "曾作为港口渔民的有顶市场",
+          "高处可俯瞰港湾和城市入口",
+          "地下完全被罗马浴场占据"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "从这里的全景可以把哪些元素联系起来？",
+        "options": [
+          "港口、罗马剧场和现代街区",
+          "拉曼加、卡尔布兰克和帕洛斯角在同一条城市轴线上",
+          "从博物馆大厅观看到的马尔梅诺尔盐田"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪句话最能概括城堡的建筑特征？",
+        "options": [
+          "可与大酒店相比的现代主义立面",
+          "为海上游行修建的巴洛克圣所",
+          "重在地势的建筑，而不只是装饰"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "罗马广场街区比单一纪念物更能展示什么？",
+        "options": [
+          "西班牙海军第一座电力船坞",
+          "卡洛斯三世修建城墙的完整走向",
+          "带有街道、浴场和公共建筑的古代城市片段"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "莫利内特山在游览中为什么重要？",
+        "options": [
+          "它揭示了新迦太基的城市日常生活",
+          "它保存着维克托·贝尔特里的出生住宅",
+          "它标志着拉曼加沙洲的准确起点"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "在遗址中最值得观察哪类细节？",
+        "options": [
+          "悬挂在立面上的船用缆绳",
+          "铺地、门槛和墙线",
+          "一九零七年制作的现代主义瓷砖"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "幸运之家如何改变人们对古代的观看尺度？",
+        "options": [
+          "展示佩拉尔潜艇的机舱",
+          "让人进入罗马住宅的私人空间",
+          "呈现波旁总督的私人套房"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "遗址名称中的“幸运”与什么有关？",
+        "options": [
+          "与屋内铭文和幸运女神意象有关",
+          "与港口灯塔的一次抽签有关",
+          "与斗牛场售票处的旧标志有关"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "游客在这里最应留意什么？",
+        "options": [
+          "兵工厂大门上的海军钟表",
+          "山顶城墙外侧的炮台轨道",
+          "马赛克、壁画和房间之间的关系"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "布匿城墙把城市历史带回到哪个阶段？",
+        "options": [
+          "罗马征服之前的迦太基时期",
+          "十九世纪末的现代主义扩张时期",
+          "西班牙内战之后的重建阶段"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "城墙结构有什么防御特点？",
+        "options": [
+          "双面砌体和填芯形成厚重防线",
+          "以玻璃和锻铁制造轻盈外观",
+          "通过电池驱动潜航器控制港口"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "公元前二零九年的事件与这里有什么关系？",
+        "options": [
+          "罗马人攻取新迦太基",
+          "大酒店正式开业",
+          "第一艘电力潜艇下水"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "ARQUA 的核心主题是什么？",
+        "options": [
+          "现代主义酒店建筑",
+          "水下考古和海洋贸易遗存",
+          "内战时期的防空避难所"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "博物馆强调水下文物保护中的哪项工作？",
+        "options": [
+          "脱盐、记录和科学背景保存",
+          "把文物迅速磨亮后出售",
+          "只根据传说寻找黄金"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "水下考古为什么重视“背景”？",
+        "options": [
+          "背景可以完全替代实物文物",
+          "背景只用于装饰展厅墙面",
+          "背景能帮助重建航线、货物和贸易网络"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "卡塔赫纳港对城市意味着什么？",
+        "options": [
+          "它只是后来为游客修建的观景池",
+          "它是城市形成和发展的根本原因之一",
+          "它主要用于保存罗马壁画"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "港口空间中可观察到哪些功能分区？",
+        "options": [
+          "防波堤、港池、军事区域和民用步道",
+          "古代剧场的座席等级",
+          "全景电梯的机械井和桥梁"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "港口与卡塔赫纳的关系最准确的说法是？",
+        "options": [
+          "港口与城市历史几乎无关",
+          "港口只在冬季短暂开放",
+          "港口组织、养活并解释城市"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "市长街主要表现出卡塔赫纳哪一面？",
+        "options": [
+          "布匿军营的封闭防御生活",
+          "自然保护区的沙丘生态",
+          "约一九零零年前后的资产阶级现代形象"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "沿街立面常见哪些现代主义元素？",
+        "options": [
+          "罗马竞技场的椭圆看台",
+          "阳台、铁艺、陶瓷、玻璃和装饰线条",
+          "水下考古实验室的脱盐池"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "为什么说这条街像一条城市橱窗？",
+        "options": [
+          "商业、会面和建筑展示集中在同一轴线上",
+          "它专门陈列海军火炮",
+          "它连接两个海域之间的沙洲"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "大酒店体现了什么城市愿望？",
+        "options": [
+          "把城市中心改造成采石场",
+          "将罗马剧场改为地下仓库",
+          "让海军和港口城市展现世界性与精致感"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "观察大酒店时应特别注意什么？",
+        "options": [
+          "港湾入口的防波堤信号",
+          "防空洞内部的应急水井",
+          "街角处理、窗户节奏和装饰与结构的关系"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "建筑名称在今天为何仍有力量？",
+        "options": [
+          "因为它一直是罗马行政官官邸",
+          "因为它是拉曼加最早的灯塔",
+          "功能虽变化，城市记忆和声望仍保留下来"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "圣弗朗西斯科广场给游览带来什么节奏？",
+        "options": [
+          "进入军事禁区前的检查流程",
+          "穿越自然公园沙丘的长途步道",
+          "更日常、更舒缓的城市停顿"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "广场空间最能说明什么？",
+        "options": [
+          "资产阶级公共生活与立面装饰的结合",
+          "潜艇电池舱的内部布局",
+          "古罗马港池的完整边界"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "这里适合感受卡塔赫纳的哪一面？",
+        "options": [
+          "只由炮台和兵营组成的城市",
+          "完全远离中心的野生海岸",
+          "社交、装饰和休闲的城市生活"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "军事历史博物馆说明防御还依赖什么？",
+        "options": [
+          "技术、计算、金属和后勤组织",
+          "只依赖城墙高度",
+          "只依赖海滩的自然沙丘"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "展品中常能看到哪些内容？",
+        "options": [
+          "罗马住宅马赛克和卧室家具",
+          "现代咖啡馆的广告招牌",
+          "火炮、测距仪、模型、制服和地图"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "这些展品帮助理解什么？",
+        "options": [
+          "战略与工程技术之间的联系",
+          "卡塔赫纳没有军事传统",
+          "港口从不参与城市防御"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "佩拉尔潜艇与哪一年密切相关？",
+        "options": [
+          "一七零七年",
+          "一八八八年",
+          "二零零一年"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "伊萨克·佩拉尔在卡塔赫纳记忆中代表什么？",
+        "options": [
+          "现代主义陶瓷装饰的主要设计者",
+          "电力、隐蔽航行和海军发明精神",
+          "罗马剧场的古代建筑师"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "观察潜艇时应留意哪些技术线索？",
+        "options": [
+          "广场树列和露台家具",
+          "艇体、螺旋桨、电池和深度控制思想",
+          "布匿城墙的双面石砌"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "全景电梯首先提醒人们什么？",
+        "options": [
+          "卡塔赫纳是一座有明显高差的山丘城市",
+          "卡塔赫纳完全没有山坡",
+          "电梯是罗马人建造的攻城塔"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "它连接了哪些空间？",
+        "options": [
+          "街道、山坡、托雷斯公园和城堡周边",
+          "拉曼加两侧的海水",
+          "水下考古实验室和沉船舱室"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "这个现代设施的作用是什么？",
+        "options": [
+          "把港口改造成地下博物馆",
+          "复制大酒店的现代主义立面",
+          "帮助游客理解古迹为何处在这些高度和位置"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "内战避难所主要讲述什么时期？",
+        "options": [
+          "公元前一世纪的罗马建城",
+          "十九世纪末的矿业繁荣",
+          "一九三六年至一九三九年的西班牙内战"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "卡塔赫纳为何需要防空避难空间？",
+        "options": [
+          "因为城市没有任何军事设施",
+          "港口和海军基地具有战略重要性",
+          "因为拉曼加沙洲经常被剧场观众占满"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "在避难所中最能感受到什么反差？",
+        "options": [
+          "地下狭窄空间与山上开阔景观之间的反差",
+          "现代主义玻璃与海滩沙丘之间的反差",
+          "咖啡馆露台与节庆游行之间的反差"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "罗马圆形剧场为什么比剧场更难解读？",
+        "options": [
+          "因为它完全建在海底",
+          "遗存更碎片化，并被后期建筑叠加",
+          "因为它是二十世纪的电力设备"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "圆形剧场原本属于哪类空间？",
+        "options": [
+          "竞技和公共表演场所",
+          "市政厅的行政楼梯",
+          "水下考古的脱盐房间"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "游客在这里需要怎样观看？",
+        "options": [
+          "只寻找完整保存的酒店房间",
+          "通过弧线、高差和碎片重新想象整体",
+          "只关注港口游船时刻表"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "卡塔赫纳兵工厂最能体现哪种城市身份？",
+        "options": [
+          "纯粹的温泉休闲城市",
+          "海军、造船、国家组织和技术纪律",
+          "只服务农产品交易的内陆市场"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "十八世纪波旁改革与兵工厂有什么关系？",
+        "options": [
+          "把罗马剧场改造成斗牛场",
+          "创建了拉曼加的旅游公寓带",
+          "推动卡塔赫纳成为地中海舰队的重要基地"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "兵工厂大门让人看到什么边界？",
+        "options": [
+          "两个自然保护区之间的沙丘边界",
+          "古代住宅中厨房和庭院的边界",
+          "民用城市和军事海军空间的边界"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "ja": {
+    "Palacio Consistorial de Carthagène": [
+      {
+        "question": "カルタヘナ市政宮殿は主に何として理解できますか。",
+        "options": [
+          "カルタヘナ市政宮殿を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "市民行政を象徴する代表的な市庁舎",
+          "カルタヘナ市政宮殿をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "カルタヘナ市政宮殿の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "カルタヘナ市政宮殿をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "十九世紀末から二十世紀初頭にかけて計画され、現在の建物は一九〇七年に完成",
+          "カルタヘナ市政宮殿を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "カルタヘナ市政宮殿で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "カルタヘナ市政宮殿をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "明るいファサード、広場の尺度、そして海へ向かう短い視線のつながり",
+          "カルタヘナ市政宮殿を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 1
+      }
+    ],
+    "Théâtre Romain": [
+      {
+        "question": "ローマ劇場は主に何として理解できますか。",
+        "options": [
+          "ローマ劇場を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "ローマ劇場をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）",
+          "大規模なローマ劇場"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ローマ劇場の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "ローマ劇場をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "紀元前五年ごろから紀元前一年ごろに建設",
+          "ローマ劇場を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ローマ劇場で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "座席の弧、修復された石材、そして新旧の層がまだ読める余白",
+          "ローマ劇場をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "ローマ劇場を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 0
+      }
+    ],
+    "Castillo de la Concepción": [
+      {
+        "question": "コンセプシオン城は主に何として理解できますか。",
+        "options": [
+          "コンセプシオン城を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "戦略的な丘に置かれた中世の城塞",
+          "コンセプシオン城をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "コンセプシオン城の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "とくに十三世紀以降に重要性を増した防御拠点",
+          "コンセプシオン城をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "コンセプシオン城を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "コンセプシオン城で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "コンセプシオン城をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "コンセプシオン城を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "港、ローマ劇場、モリネテの丘、兵器工廠、防御の山並みが一つの歴史面に重なる様子"
+        ],
+        "answer": 2
+      }
+    ],
+    "Quartier du Forum Romain": [
+      {
+        "question": "ローマ・フォルム地区は主に何として理解できますか。",
+        "options": [
+          "ローマ・フォルム地区を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "ローマ・フォルム地区をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）",
+          "ローマ都市の考古学地区"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ローマ・フォルム地区の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "主にローマ帝国期に属する複合遺構",
+          "ローマ・フォルム地区をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "ローマ・フォルム地区を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ローマ・フォルム地区で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "ローマ・フォルム地区をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "丘の高低差と、部屋・通路・中庭・壁が複雑な地形にどう対応しているか",
+          "ローマ・フォルム地区を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 1
+      }
+    ],
+    "La Casa de la Fortuna": [
+      {
+        "question": "フォルトゥナの家は主に何として理解できますか。",
+        "options": [
+          "フォルトゥナの家を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "ローマ時代の私邸",
+          "フォルトゥナの家をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "フォルトゥナの家の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "紀元前一世紀から帝政初期にかけての住宅遺構",
+          "フォルトゥナの家をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "フォルトゥナの家を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "フォルトゥナの家で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "フォルトゥナの家をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "フォルトゥナの家を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "幸運の女神に関わる銘文、床面、そして廃墟を親密に見せる小さな細部"
+        ],
+        "answer": 2
+      }
+    ],
+    "Muraille Punique": [
+      {
+        "question": "プニック城壁は主に何として理解できますか。",
+        "options": [
+          "カルタゴ系防御施設の遺構",
+          "プニック城壁を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "プニック城壁をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "プニック城壁の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "紀元前三世紀末のバルカ家の時代",
+          "プニック城壁をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "プニック城壁を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "プニック城壁で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "壁の厚み、古代都市の縁にあたる位置、そして地峡を守る防御の論理",
+          "プニック城壁をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "プニック城壁を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 0
+      }
+    ],
+    "Museo Nacional de Arqueología Subacuática (ARQUA)": [
+      {
+        "question": "国立水中考古学博物館 ARQUAは主に何として理解できますか。",
+        "options": [
+          "国立水中考古学博物館 ARQUAを十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "国立の水中考古学博物館",
+          "国立水中考古学博物館 ARQUAをラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "国立水中考古学博物館 ARQUAの歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "古代航海から現代の科学調査までを扱う施設",
+          "国立水中考古学博物館 ARQUAをサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "国立水中考古学博物館 ARQUAを防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "国立水中考古学博物館 ARQUAで現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "国立水中考古学博物館 ARQUAをマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "国立水中考古学博物館 ARQUAを十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "アンフォラ、錨、船体部材、研究室の説明、マサロン船などの発見がつくる物語"
+        ],
+        "answer": 2
+      }
+    ],
+    "Le Port de Carthagène": [
+      {
+        "question": "カルタヘナ港は主に何として理解できますか。",
+        "options": [
+          "カルタヘナ港を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "天然の深水港",
+          "カルタヘナ港をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "カルタヘナ港の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "古代から使われ、十八世紀ブルボン朝期にとくに重要化",
+          "カルタヘナ港をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "カルタヘナ港を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "カルタヘナ港で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "カルタヘナ港をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "カルタヘナ港を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "水際、港口、都市のファサード、船、防御の丘が互いに接する様子"
+        ],
+        "answer": 2
+      }
+    ],
+    "Calle Mayor et Gran Hotel": [
+      {
+        "question": "カジェ・マヨールとグラン・ホテルは主に何として理解できますか。",
+        "options": [
+          "カジェ・マヨールとグラン・ホテルを十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "カジェ・マヨールとグラン・ホテルをラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）",
+          "ブルジョワ中心部の歩行軸"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "カジェ・マヨールとグラン・ホテルの歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "カジェ・マヨールとグラン・ホテルをサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "一九〇〇年前後に大きく表情を整えた通り",
+          "カジェ・マヨールとグラン・ホテルを防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "カジェ・マヨールとグラン・ホテルで現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "連続する店舗、入口、装飾の締めくくり、市政宮殿広場へ抜ける視線",
+          "カジェ・マヨールとグラン・ホテルをマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "カジェ・マヨールとグラン・ホテルを十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 0
+      }
+    ],
+    "Gran Hotel": [
+      {
+        "question": "グラン・ホテルは主に何として理解できますか。",
+        "options": [
+          "グラン・ホテルを十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "グラン・ホテルをラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）",
+          "高い名声をもつ近代主義建築"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "グラン・ホテルの歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "グラン・ホテルをサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "グラン・ホテルを防波堤の灯台管理所と考える説明（設問4）",
+          "二十世紀初頭に完成した都市の象徴的建物"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "グラン・ホテルで現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "グラン・ホテルをマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "グラン・ホテルを十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "角の処理、窓のリズム、上部の仕上げ、装飾と構造の違い"
+        ],
+        "answer": 2
+      }
+    ],
+    "Plaza de San Francisco et Casa Maestre": [
+      {
+        "question": "サン・フランシスコ広場とカサ・マエストレは主に何として理解できますか。",
+        "options": [
+          "サン・フランシスコ広場とカサ・マエストレを十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "サン・フランシスコ広場とカサ・マエストレをラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）",
+          "近代主義の背景をもつ都市広場"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "サン・フランシスコ広場とカサ・マエストレの歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "十九世紀末から二十世紀初頭の都市生活に結びつく空間",
+          "サン・フランシスコ広場とカサ・マエストレをサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "サン・フランシスコ広場とカサ・マエストレを防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "サン・フランシスコ広場とカサ・マエストレで現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "サン・フランシスコ広場とカサ・マエストレをマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "サン・フランシスコ広場とカサ・マエストレを十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "カサ・マエストレ、並木、テラス、視線が複数のファサードへ分配される仕組み"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo Histórico Militar de Cartagena": [
+      {
+        "question": "カルタヘナ軍事歴史博物館は主に何として理解できますか。",
+        "options": [
+          "砲兵と軍事史の博物館",
+          "カルタヘナ軍事歴史博物館を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "カルタヘナ軍事歴史博物館をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "カルタヘナ軍事歴史博物館の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "カルタヘナ軍事歴史博物館をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "カルタヘナ軍事歴史博物館を防波堤の灯台管理所と考える説明（設問4）",
+          "十八世紀から現代までの軍事技術を扱う施設"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "カルタヘナ軍事歴史博物館で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "口径、鋳造金属、調整機構、説明板、展示品そのものの大きさ",
+          "カルタヘナ軍事歴史博物館をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "カルタヘナ軍事歴史博物館を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 0
+      }
+    ],
+    "Sous-marin Isaac Peral": [
+      {
+        "question": "イサーク・ペラル潜水艦は主に何として理解できますか。",
+        "options": [
+          "イサーク・ペラル潜水艦を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "初期の電気推進潜水艦",
+          "イサーク・ペラル潜水艦をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "イサーク・ペラル潜水艦の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "イサーク・ペラル潜水艦をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "一八八八年に進水した革新的な試作艦",
+          "イサーク・ペラル潜水艦を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "イサーク・ペラル潜水艦で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "イサーク・ペラル潜水艦をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "コンパクトな船体と、技術的な金属外皮が現代展示の中で生む対比",
+          "イサーク・ペラル潜水艦を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 1
+      }
+    ],
+    "Ascensor Panorámico": [
+      {
+        "question": "パノラマ・エレベーターは主に何として理解できますか。",
+        "options": [
+          "丘斜面に置かれた現代の観光インフラ",
+          "パノラマ・エレベーターを十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "パノラマ・エレベーターをラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "パノラマ・エレベーターの歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "現代の都市整備に属する施設",
+          "パノラマ・エレベーターをサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "パノラマ・エレベーターを防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "パノラマ・エレベーターで現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "パノラマ・エレベーターをマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "パノラマ・エレベーターを十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "垂直移動、視点の変化、都市の底部と稜線の関係"
+        ],
+        "answer": 2
+      }
+    ],
+    "Museo-Refugio de la Guerre Civile": [
+      {
+        "question": "内戦避難壕博物館は主に何として理解できますか。",
+        "options": [
+          "内戦避難壕博物館を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "内戦避難壕博物館をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）",
+          "旧防空壕を利用した博物館"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "内戦避難壕博物館の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "内戦避難壕博物館をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "スペイン内戦期、一九三六年から一九三九年",
+          "内戦避難壕博物館を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "内戦避難壕博物館で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "通路の幅、粗い壁面、足音、そして地上の展望との強い対照",
+          "内戦避難壕博物館をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "内戦避難壕博物館を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 0
+      }
+    ],
+    "Anfiteatro Romano": [
+      {
+        "question": "ローマ円形闘技場は主に何として理解できますか。",
+        "options": [
+          "ローマ円形闘技場を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "ローマ時代の競技・見世物空間",
+          "ローマ円形闘技場をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ローマ円形闘技場の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "ローマ期に成立し、その後もさまざまな改変を受けた遺構",
+          "ローマ円形闘技場をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "ローマ円形闘技場を防波堤の灯台管理所と考える説明（設問4）"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ローマ円形闘技場で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "ローマ円形闘技場をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "曲線、高低差、後世の建物がローマの痕跡を覆った場所",
+          "ローマ円形闘技場を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）"
+        ],
+        "answer": 1
+      }
+    ],
+    "Arsenal de Carthagène": [
+      {
+        "question": "カルタヘナ兵器工廠は主に何として理解できますか。",
+        "options": [
+          "カルタヘナ兵器工廠を十八世紀の塩倉庫だけとして説明する読み方（設問1）",
+          "海軍と造船の複合施設",
+          "カルタヘナ兵器工廠をラ・ウニオン鉱山鉄道の駅舎とみなす解釈（設問2）"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "カルタヘナ兵器工廠の歴史を読む時に重要な時代や背景はどれですか。",
+        "options": [
+          "カルタヘナ兵器工廠をサン・フランシスコ広場の近代カフェとして扱う説（設問3）",
+          "カルタヘナ兵器工廠を防波堤の灯台管理所と考える説明（設問4）",
+          "とくに十八世紀ブルボン改革期に重要化した拠点"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "カルタヘナ兵器工廠で現地観察として特に注目したい点はどれですか。",
+        "options": [
+          "カルタヘナ兵器工廠をマル・メノールの漁師小屋に由来するとする見方（設問5）",
+          "カルタヘナ兵器工廠を十九世紀の闘牛ポスターだけで有名になった建物とする答え（設問6）",
+          "歩ける都市と秩序化された海軍世界との境界線"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}
