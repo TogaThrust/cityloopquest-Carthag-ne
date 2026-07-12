@@ -1,4 +1,9 @@
 CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.16
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest {{CITY_NAME}} - Release notes
 Version 26.07.15
 ----------------------------------------
 - Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).

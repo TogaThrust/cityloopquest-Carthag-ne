@@ -1,6 +1,6 @@
 {
-  "version": "26.07.15",
-  "savedAt": "2026-07-11T08:49:52.081Z",
+  "version": "26.07.16",
+  "savedAt": "2026-07-12T09:51:19.675Z",
   "citySummary": {
     "cityName": "Carthagène",
     "appTitle": "CityLoop Quest Carthagène",
@@ -95,11 +95,11 @@
   },
   "files": {
     "app.js": "7d6219efe471cb10a85ea52b38b77a9b97ffb4de9a90c8fed8968304a25b12ec",
-    "main.html": "a122d8af4e651f3efe36dbfed6334164e995920c1e5f29a427f021113d23d61b",
+    "main.html": "ef0075fabe442cb4305eac71875e92b667747fcdc578bf923046cea7d1f62351",
     "parcours.html": "0ba777e90a50002869b0926a8090b3016998cb076152e24e815e33a89e5335df",
-    "circuit.html": "50f71cb82a4723e2c46a3c5938cefbdee155c7c5e91551b7047d714f15e240d8",
+    "circuit.html": "49269315807b5b9746ad673aca0cff455637b0562971243c2dac2349ef64092d",
     "circuit-data.js": "c6330b5f9880c7b06168fad70d95fba32a3a3351f59065b01b168944589b7b7f",
-    "service-worker.js": "5acd58672e1164dfe324008a615aed675b5675ca907f8acd56599a1afd283abd",
+    "service-worker.js": "9e72d434d3e77f9eb78e8e69befb585638ffab36e9d8bca01a5a37da8da3965b",
     "instructions.html": "305b6cbfb25e6559d69c1f68b31274eb4b396b858acec18c4bd1dae472177d44"
   }
 }
