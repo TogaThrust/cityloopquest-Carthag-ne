@@ -5,17 +5,17 @@
     "geocodeSource": "google-geocoding-api"
   },
   "emergencyByCountry": {
-    "belgique": {
-      "general": "112",
-      "police": "101",
-      "firefighters": "112",
-      "medical": "-"
-    },
     "france": {
       "general": "112",
       "police": "17",
       "firefighters": "18",
       "medical": "15"
+    },
+    "belgique": {
+      "general": "112",
+      "police": "101",
+      "firefighters": "112",
+      "medical": "-"
     },
     "espagne": {
       "general": "112",
@@ -28,8 +28,27 @@
     "france": {
       "pharmacyNumber": "3237",
       "pharmacyNote": "Service officiel pharmacie de garde.",
+      "pharmacyUrl": "https://www.3237.fr/",
       "veterinaryNumber": "3115",
-      "veterinaryNote": "Urgences veterinaires nationales."
+      "veterinaryNote": "Urgences veterinaires nationales.",
+      "veterinaryUrl": "https://www.veterinaire.fr/je-suis-proprietaire-d-animaux/urgences"
+    },
+    "belgique": {
+      "pharmacyNumber": "-",
+      "pharmacyNote": "Pharmacies de garde : recherche sur apotheek.be.",
+      "pharmacyUrl": "https://www.apotheek.be/",
+      "veterinaryNumber": "-",
+      "veterinaryNote": "Contactez votre vétérinaire habituel ou les urgences locales.",
+      "veterinaryUrl": "https://www.veterinaire.be/"
+    },
+    "espagne": {
+      "pharmacyNumber": "968 27 74 00",
+      "pharmacyNote": "Service officiel des pharmacies de garde — Région de Murcie (COFRM).",
+      "pharmacyUrl": "https://guardias.cofrm.com/",
+      "veterinaryNumber": "968 89 92 80",
+      "veterinaryNote": "Service officiel des vétérinaires de garde — Région de Murcie.",
+      "veterinaryUrl": "https://veterinariosmurcia.es/",
+      "region": "murcia"
     }
   },
   "cityAliases": {
@@ -670,7 +689,11 @@
           "lng": -1.0015936,
           "geocodeSource": "google"
         }
-      ]
+      ],
+      "city": "Cartagena",
+      "postalCode": "30202",
+      "lat": 37.625,
+      "lng": -0.996
     }
   }
 }

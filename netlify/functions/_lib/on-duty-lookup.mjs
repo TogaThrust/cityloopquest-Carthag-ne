@@ -107,6 +107,74 @@ function isFranceCountry(country) {
   return slug === "fr" || slug === "france";
 }
 
+const VALENCIA_POSTAL_PREFIXES = new Set(["03", "12", "46"]);
+const MURCIA_POSTAL_PREFIXES = new Set(["30"]);
+
+function isSpainCountry(country) {
+  const slug = normalizeSlug(country);
+  return slug === "es"
+    || slug === "espagne"
+    || slug === "spain"
+    || slug === "espana"
+    || slug.includes("murcia")
+    || slug.includes("valencia");
+}
+
+function isInSpainBBox(lat, lng) {
+  return Number.isFinite(lat) && Number.isFinite(lng)
+    && lat >= 35.2 && lat <= 43.9
+    && lng >= -9.6 && lng <= 4.6;
+}
+
+function resolveSpainGuardRegion(ctx) {
+  const zip = String(ctx.postalCode || "").trim();
+  if (/^\d{5}$/.test(zip)) {
+    const prefix = zip.slice(0, 2);
+    if (VALENCIA_POSTAL_PREFIXES.has(prefix)) return "valencia";
+    if (MURCIA_POSTAL_PREFIXES.has(prefix)) return "murcia";
+  }
+  const citySlug = normalizeSlug(ctx.city);
+  if (citySlug.includes("alicante") || citySlug.includes("valencia") || citySlug.includes("castellon")) {
+    return "valencia";
+  }
+  if (
+    citySlug.includes("murcia")
+    || citySlug.includes("cartagena")
+    || citySlug.includes("carthagene")
+    || citySlug.includes("lorca")
+    || citySlug.includes("aguilas")
+    || citySlug.includes("caravaca")
+  ) {
+    return "murcia";
+  }
+  const lat = Number(ctx.lat);
+  const lng = Number(ctx.lng);
+  if (Number.isFinite(lat) && Number.isFinite(lng)) {
+    if (lat >= 38.2 && lat <= 40.8 && lng >= -1.0 && lng <= 0.6) return "valencia";
+    if (lat >= 37.4 && lat <= 38.8 && lng >= -2.2 && lng <= -0.6) return "murcia";
+  }
+  return "murcia";
+}
+
+function inferSpainFromContext(ctx) {
+  if (isSpainCountry(ctx.country)) return true;
+  const citySlug = normalizeSlug(ctx.city);
+  if (
+    citySlug.includes("alicante") || citySlug.includes("valencia") || citySlug.includes("castellon")
+    || citySlug.includes("murcia") || citySlug.includes("cartagena") || citySlug.includes("carthagene")
+    || citySlug.includes("lorca") || citySlug.includes("aguilas") || citySlug.includes("caravaca")
+  ) return true;
+  const lat = Number(ctx.lat);
+  const lng = Number(ctx.lng);
+  if (Number.isFinite(lat) && Number.isFinite(lng) && isInSpainBBox(lat, lng)) return true;
+  const zip = String(ctx.postalCode || "").trim();
+  if (/^\d{5}$/.test(zip)) {
+    const prefix = zip.slice(0, 2);
+    if (VALENCIA_POSTAL_PREFIXES.has(prefix) || MURCIA_POSTAL_PREFIXES.has(prefix)) return true;
+  }
+  return false;
+}
+
 async function reverseGeocodeFrance(lat, lng) {
   const url = `https://api-adresse.data.gouv.fr/reverse/?lon=${encodeURIComponent(lng)}&lat=${encodeURIComponent(lat)}`;
   const res = await httpsRequest(url);
@@ -158,13 +226,17 @@ async function resolveLocationContext({ lat, lng, country, postalCode, city }) {
   if (out.postalCode) out.department = departmentFromPostalCode(out.postalCode);
 
   if ((!out.postalCode || !out.city) && out.lat != null && out.lng != null) {
-    const fr = await reverseGeocodeFrance(out.lat, out.lng);
-    if (fr?.postalCode) {
-      out.postalCode ||= fr.postalCode;
-      out.city ||= fr.city;
-      out.department ||= fr.department;
-      out.country ||= fr.country;
-    } else {
+    const likelySpain = isInSpainBBox(out.lat, out.lng) || isSpainCountry(out.country);
+    if (!likelySpain) {
+      const fr = await reverseGeocodeFrance(out.lat, out.lng);
+      if (fr?.postalCode && !isSpainCountry(out.country)) {
+        out.postalCode ||= fr.postalCode;
+        out.city ||= fr.city;
+        out.department ||= fr.department;
+        if (!out.country) out.country = fr.country;
+      }
+    }
+    if (!out.postalCode || !out.city || likelySpain) {
       const nom = await reverseGeocodeNominatim(out.lat, out.lng);
       if (nom) {
         out.postalCode ||= nom.postalCode;
@@ -386,18 +458,78 @@ function lookupBelgiumVeterinaryFallback() {
   };
 }
 
+function lookupSpainPharmacyFallback(ctx) {
+  const region = resolveSpainGuardRegion(ctx);
+  if (region === "valencia") {
+    return {
+      items: [],
+      provider: "spain-cofa-alicante",
+      status: "fallback",
+      message: "Consultez le service officiel des pharmacies de garde de la province d'Alicante (COFA).",
+      fallbackUrl: "https://cofalicante.com/farmacias-de-guardia/",
+      hotline: "965 123 123",
+    };
+  }
+  return {
+    items: [],
+    provider: "spain-cofrm-murcia",
+    status: "fallback",
+    message: "Consultez le service officiel des pharmacies de garde de la Region de Murcia.",
+    fallbackUrl: "https://guardias.cofrm.com/",
+    hotline: "968 27 74 00",
+  };
+}
+
+function lookupSpainVeterinaryFallback(ctx) {
+  const region = resolveSpainGuardRegion(ctx);
+  if (region === "valencia") {
+    return {
+      items: [],
+      provider: "spain-colvet-valencia",
+      status: "fallback",
+      message: "Consultez le Colegio Oficial de Veterinarios de Alicante (ICOVAL) pour localiser une clinique.",
+      fallbackUrl: "https://www.icoval.org/",
+      hotline: "965 214 111",
+    };
+  }
+  return {
+    items: [],
+    provider: "spain-colvet-murcia",
+    status: "fallback",
+    message: "Consultez le service officiel des veterinaires de garde de la Region de Murcia.",
+    fallbackUrl: "https://veterinariosmurcia.es/",
+    hotline: "968 89 92 80",
+  };
+}
+
+function lookupUnsupportedOnDuty(category) {
+  return {
+    items: [],
+    provider: "unknown",
+    status: "unsupported",
+    message: category === "pharmacy"
+      ? "Recherche automatique de pharmacie de garde non disponible pour cette zone."
+      : "Recherche automatique de veterinaire de garde non disponible pour cette zone.",
+  };
+}
+
 /**
  * @param {{ lat?: number|string, lng?: number|string, country?: string, postalCode?: string, city?: string }} options
  */
 export async function lookupOnDuty(options = {}) {
   const ctx = await resolveLocationContext(options);
   const belgium = isBelgiumCountry(ctx.country);
-  const france = isFranceCountry(ctx.country) || (!belgium && ["59", "62"].includes(ctx.department));
-  const servigardesDept = ["59", "62"].includes(ctx.department);
+  const spain = inferSpainFromContext(ctx);
+  const france = !belgium && !spain && (
+    isFranceCountry(ctx.country) || ["59", "62"].includes(ctx.department)
+  );
+  const servigardesDept = !spain && ["59", "62"].includes(ctx.department);
 
   let pharmacy;
   if (belgium) {
     pharmacy = await lookupBelgiumPharmacies(ctx);
+  } else if (spain) {
+    pharmacy = lookupSpainPharmacyFallback(ctx);
   } else if (france && servigardesDept) {
     pharmacy = await lookupServigardesPharmacies(ctx);
     if (!pharmacy.items.length && pharmacy.status !== "needs_location") {
@@ -408,15 +540,19 @@ export async function lookupOnDuty(options = {}) {
   } else if (ctx.department && servigardesDept) {
     pharmacy = await lookupServigardesPharmacies(ctx);
   } else {
-    pharmacy = {
-      items: [],
-      provider: "unknown",
-      status: "unsupported",
-      message: "Recherche automatique non disponible pour cette zone.",
-    };
+    pharmacy = lookupUnsupportedOnDuty("pharmacy");
   }
 
-  const veterinary = belgium ? lookupBelgiumVeterinaryFallback() : lookupFranceVeterinaryFallback();
+  let veterinary;
+  if (belgium) {
+    veterinary = lookupBelgiumVeterinaryFallback();
+  } else if (spain) {
+    veterinary = lookupSpainVeterinaryFallback(ctx);
+  } else if (france) {
+    veterinary = lookupFranceVeterinaryFallback();
+  } else {
+    veterinary = lookupUnsupportedOnDuty("veterinary");
+  }
 
   return {
     ok: true,

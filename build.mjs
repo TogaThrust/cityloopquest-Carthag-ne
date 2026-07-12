@@ -152,6 +152,26 @@ async function exists(p) {
   }
 }
 
+async function readCityConfig() {
+  const configPath = path.join(ROOT, "js", "clq-city-config.js");
+  if (!(await exists(configPath))) return null;
+  const content = await readFile(configPath, "utf8");
+  const nameMatch = content.match(/\bname:\s*['"]([^'"]+)['"]/);
+  const slugMatch = content.match(/\bstoragePrefix:\s*['"]([^'"]+)['"]/);
+  if (!nameMatch) return null;
+  return {
+    name: nameMatch[1],
+    slug: slugMatch?.[1] || nameMatch[1],
+  };
+}
+
+function applyCityPlaceholders(content, cityConfig) {
+  if (!cityConfig) return content;
+  return content
+    .replace(/\{\{CITY_NAME\}\}/g, cityConfig.name)
+    .replace(/\{\{CITY_SLUG\}\}/g, cityConfig.slug);
+}
+
 /**
  * ðŸ”¢ Versioning par date
  * - Format : YY.MM.PP
@@ -224,7 +244,7 @@ async function bumpVersion() {
 
   // 📝 Met à jour release notes.txt (on PREPEND le nouveau header + changelog EN)
   const header =
-    "CityLoop Quest Carthagène - Release notes\r\n" +
+    "CityLoop Quest {{CITY_NAME}} - Release notes\r\n" +
     `Version ${newVersion}\r\n` +
     "----------------------------------------\r\n" +
     changelogBody +
@@ -243,6 +263,38 @@ async function bumpVersion() {
 }
 
 
+
+async function bumpServiceWorkerCache() {
+  const swPath = path.join(ROOT, "service-worker.js");
+  if (!(await exists(swPath))) return;
+  const content = await readFile(swPath, "utf8");
+  const bumped = content
+    .replace(/const PRECACHE = 'precache-v(\d+)[^']*';/, (_, version) => `const PRECACHE = 'precache-v${Number(version) + 1}-scrollfix';`)
+    .replace(/const RUNTIME\s*=\s*'runtime-v(\d+)[^']*';/, (_, version) => `const RUNTIME  = 'runtime-v${Number(version) + 1}-scrollfix';`);
+  if (bumped !== content) {
+    await writeFile(swPath, bumped, "utf8");
+    log("sw", "bumped service-worker cache version");
+  }
+}
+
+async function patchAppJsCacheBuster(version, roots = [ROOT, DIST]) {
+  const stamp = String(version || "").replace(/\./g, "") || String(Date.now());
+  let count = 0;
+  for (const rootDir of roots) {
+    if (!(await exists(rootDir))) continue;
+    const htmlFiles = await fg(["**/*.html"], { cwd: rootDir, dot: false, onlyFiles: true });
+    for (const rel of htmlFiles) {
+      const abs = path.join(rootDir, rel);
+      const html = await readFile(abs, "utf8");
+      const updated = html.replace(/app\.js(?:\?v=[^"'?]*)?/g, `app.js?v=${stamp}`);
+      if (updated !== html) {
+        await writeFile(abs, updated, "utf8");
+        count++;
+      }
+    }
+  }
+  if (count) log("cache", `patched app.js cache-buster on ${count} html file(s)`);
+}
 
 async function clean() {
   log("clean", DIST);
@@ -266,7 +318,10 @@ async function copyAll() {
       "!data/OLD*.json",
       "!.env",
       "!.env.local",
-      "!ClÃ© API.txt" // Ne pas copier le fichier de clÃ© API
+      "!Clé API.txt",
+      "!Cle API.txt",
+      "!**/Clé API.txt",
+      "!**/Cle API.txt"
     ],
     { cwd: ROOT, dot: true, onlyFiles: false }
   );
@@ -280,6 +335,8 @@ async function copyAll() {
     }
   }
 
+  const cityConfig = await readCityConfig();
+
   // Copier les fichiers
   let filesCount = 0;
   for (const rel of entries) {
@@ -287,11 +344,20 @@ async function copyAll() {
     const st = await stat(srcAbs).catch(() => null);
     if (!st || !st.isFile()) continue;
 
-    // sÃ©curitÃ©: on ne recopie pas quelque chose dÃ©jÃ  dans dist
+    // sécurité: on ne recopie pas quelque chose déjà dans dist
     if (rel === "" || rel.startsWith("dist/")) continue;
+    if (/^cl[eé] api\.txt$/i.test(path.basename(rel))) continue;
 
     const dstAbs = path.join(DIST, rel);
     await mkdir(path.dirname(dstAbs), { recursive: true });
+    if (cityConfig && /\.(html|txt|js)$/i.test(rel)) {
+      const raw = await readFile(srcAbs, "utf8");
+      if (raw.includes("{{CITY_NAME}}") || raw.includes("{{CITY_SLUG}}")) {
+        await writeFile(dstAbs, applyCityPlaceholders(raw, cityConfig), "utf8");
+        filesCount++;
+        continue;
+      }
+    }
     await copyFile(srcAbs, dstAbs);
     filesCount++;
   }
@@ -418,50 +484,52 @@ async function obfuscateTargets() {
   log("obfuscate", `obfuscated ${count} target js file(s)`);
 }
 
-async function createApiKeyFile() {
-  // RÃ©cupÃ©rer la clÃ© API depuis les variables d'environnement
-  const apiKey = process.env.GOOGLE_MAPS_API_KEY;
-  
-  if (!apiKey) {
-    // Fallback : essayer de lire depuis le fichier ClÃ© API.txt si .env n'existe pas
-    const apiKeyFilePath = path.join(ROOT, "ClÃ© API.txt");
-    if (await exists(apiKeyFilePath)) {
-      const content = await readFile(apiKeyFilePath, "utf8");
-      const match = content.match(/AIza[A-Za-z0-9_-]+/);
-      if (match) {
-        // CrÃ©er un fichier JavaScript obfusquÃ© avec la clÃ©
-        const apiKeyJs = `window.__GOOGLE_MAPS_API_KEY__='${match[0]}';`;
-        const obfuscated = JavaScriptObfuscator.obfuscate(apiKeyJs, {
-          ...obfConfig,
-          stringArray: true,
-          stringArrayEncoding: ["base64"],
-          selfDefending: false
-        }).getObfuscatedCode();
-        
-        await writeFile(path.join(DIST, "api-key.js"), obfuscated, "utf8");
-        log("api-key", "created obfuscated api-key.js from ClÃ© API.txt");
-        return;
-      }
-    }
-    console.warn("[warn] No GOOGLE_MAPS_API_KEY in .env and ClÃ© API.txt not found. Google Maps may not work.");
-    return;
-  }
-  
-  // CrÃ©er un fichier JavaScript obfusquÃ© avec la clÃ© depuis .env
-  const apiKeyJs = `window.__GOOGLE_MAPS_API_KEY__='${apiKey}';`;
+function buildApiKeyJsSource(apiKey) {
+  const b64 = Buffer.from(apiKey, "utf8").toString("base64");
+  return `(function(){window.__GOOGLE_MAPS_API_KEY__=atob(${JSON.stringify(b64)});})();`;
+}
+
+async function writeObfuscatedApiKeyFile(apiKey, sourceLabel) {
+  const apiKeyJs = buildApiKeyJsSource(apiKey);
   const obfuscated = JavaScriptObfuscator.obfuscate(apiKeyJs, {
     ...obfConfig,
     stringArray: true,
     stringArrayEncoding: ["base64"],
-    selfDefending: false
+    selfDefending: false,
   }).getObfuscatedCode();
-  
-  await writeFile(path.join(DIST, "api-key.js"), obfuscated, "utf8");
-  log("api-key", "created obfuscated api-key.js from .env");
+  if (/AIza[A-Za-z0-9_-]+/.test(obfuscated)) {
+    console.warn("[warn] Obfuscator left a plain Maps key in api-key.js — writing base64-only fallback.");
+    await writeFile(path.join(DIST, "api-key.js"), apiKeyJs, "utf8");
+  } else {
+    await writeFile(path.join(DIST, "api-key.js"), obfuscated, "utf8");
+  }
+  log("api-key", `created api-key.js from ${sourceLabel}`);
+}
+
+async function createApiKeyFile() {
+  const apiKey = process.env.GOOGLE_MAPS_API_KEY;
+
+  if (!apiKey) {
+    const apiKeyFilePath = path.join(ROOT, "Cl\u00e9 API.txt");
+    if (await exists(apiKeyFilePath)) {
+      const content = await readFile(apiKeyFilePath, "utf8");
+      const match = content.match(/AIza[A-Za-z0-9_-]+/);
+      if (match) {
+        await writeObfuscatedApiKeyFile(match[0], "Cl\u00e9 API.txt");
+        return;
+      }
+    }
+    console.warn("[warn] No GOOGLE_MAPS_API_KEY in .env and Cl\u00e9 API.txt not found. Google Maps may not work.");
+    return;
+  }
+
+  await writeObfuscatedApiKeyFile(apiKey, ".env");
 }
 
 (async () => {
   const newVersion = await bumpVersion();
+  await bumpServiceWorkerCache();
+  await patchAppJsCacheBuster(newVersion, [ROOT]);
   await clean();
   await copyAll();
   await createApiKeyFile();
@@ -470,6 +538,7 @@ async function createApiKeyFile() {
   await minifyCssFiles();
   await minifyJsFiles();
   await obfuscateTargets();
+  await patchAppJsCacheBuster(newVersion, [DIST]);
   clearPendingReleaseNotes(ROOT);
   saveBuildBaseline(ROOT, newVersion);
   log("done", `Build finished. You can now deploy dist/ (version ${newVersion})`);

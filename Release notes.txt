@@ -1,3 +1,66 @@
+CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.15
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+- Updated main tour app logic.
+
+CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.14
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+- Updated main tour app logic.
+
+CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.13
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.12
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.11
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+- Updated main tour app logic.
+- Updated main tour page.
+
+CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.10
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+- Updated main tour page.
+
+CityLoop Quest {{CITY_NAME}} - Release notes
+Version 26.07.09
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+- Updated main tour page.
+
+CityLoop Quest Carthagène - Release notes
+Version 26.07.08
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest Carthagène - Release notes
+Version 26.07.07
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest Carthagène - Release notes
+Version 26.07.06
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+- Updated main tour app logic.
+- Updated main tour page.
+
+CityLoop Quest Carthagène - Release notes
+Version 26.07.05
+----------------------------------------
+- Quiz coverage updated: 17 tour stop(s) now have quizzes (was 0).
+
 CityLoop Quest Carthagène - Release notes
 Version 26.07.04
 ----------------------------------------

@@ -3,10 +3,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CityLoop Quest Carthagène - Secours</title>
+  <title>CityLoop Quest {{CITY_NAME}} - Secours</title>
   <link rel="stylesheet" href="style.css" />
   <script src="translations/translationManager.js"></script>
   <script src="translations/languageSelector.js"></script>
+  <script src="api-base.js"></script>
+  <script src="js/access-control.js"></script>
   <script src="js/clq-dev-mode.js"></script>
   <script src="js/access-guard.js" defer></script>
   <style>
@@ -45,7 +47,7 @@
   <header class="main-header">
     <div class="header-content">
       <img src="images/icone titre0.png" alt="Icone 0" class="header-img left">
-      <h1 id="mainTitle">CityLoop Quest Carthagène</h1>
+      <h1 id="mainTitle">CityLoop Quest {{CITY_NAME}}</h1>
       <img src="images/icone titre1.png" alt="Icone 1" class="header-img right">
     </div>
   </header>
@@ -207,6 +209,7 @@
       const liveOnly = liveItems.filter((live) => {
         const key = liveItemKey(live);
         if (consumedLive.has(key)) return false;
+        if (!isLiveItemPlausibleForCity(live)) return false;
         return !items.some((item) => facilityMatchesLive(item, live));
       });
 
@@ -239,7 +242,8 @@
     function getLiveOnDutyItems(category) {
       const key = liveCategoryKey(category);
       if (!key || !liveOnDuty || !liveOnDuty[key]) return [];
-      return Array.isArray(liveOnDuty[key].items) ? liveOnDuty[key].items : [];
+      const items = Array.isArray(liveOnDuty[key].items) ? liveOnDuty[key].items : [];
+      return items.filter((item) => isLiveItemPlausibleForCity(item));
     }
 
     function getLiveOnDutyMeta(category) {
@@ -430,6 +434,11 @@
         const mapped = (data.cityAliases && data.cityAliases[slug]) || slug;
         if (data.cities && data.cities[mapped]) return { slug: mapped, record: data.cities[mapped] };
       }
+      const cityKeys = Object.keys(data.cities || {});
+      if (cityKeys.length === 1) {
+        const slug = cityKeys[0];
+        return { slug, record: data.cities[slug] };
+      }
       return null;
     }
 
@@ -469,8 +478,109 @@
       return slug === "be" || slug === "belgique" || slug === "belgium" || slug === "belgie";
     }
 
+    function isFranceCountryValue(country) {
+      const slug = normalizeSlug(country);
+      return slug === "fr" || slug === "france";
+    }
+
+    function isSpainCountryValue(country) {
+      const slug = normalizeSlug(country);
+      return slug === "es" || slug === "espagne" || slug === "spain" || slug === "espana"
+        || slug.includes("murcia") || slug.includes("valencia");
+    }
+
+    function resolveSpainGuardRegion(record = {}) {
+      const zip = String((window.CLQ_CITY && window.CLQ_CITY.postalCode) || record.postalCode || "").trim();
+      if (/^(03|12|46)\d{3}$/.test(zip)) return "valencia";
+      if (/^30\d{3}$/.test(zip)) return "murcia";
+      const citySlug = normalizeSlug(record.city || (window.CLQ_CITY && window.CLQ_CITY.name) || "");
+      if (citySlug.includes("alicante") || citySlug.includes("valencia") || citySlug.includes("castellon")) return "valencia";
+      if (
+        citySlug.includes("murcia") || citySlug.includes("cartagena") || citySlug.includes("carthagene")
+        || citySlug.includes("lorca") || citySlug.includes("aguilas") || citySlug.includes("caravaca")
+      ) return "murcia";
+      const anchor = cityAnchorCoords();
+      if (anchor) {
+        if (anchor.lat >= 38.2 && anchor.lat <= 40.8 && anchor.lng >= -1.0 && anchor.lng <= 0.6) return "valencia";
+        if (anchor.lat >= 37.4 && anchor.lat <= 38.8 && anchor.lng >= -2.2 && anchor.lng <= -0.6) return "murcia";
+      }
+      return "murcia";
+    }
+
+    function defaultGuardHotline(category, country, guard = {}) {
+      if (category === "pharmacy" && guard.pharmacyNumber) return guard.pharmacyNumber;
+      if (category === "veterinary" && guard.veterinaryNumber) return guard.veterinaryNumber;
+      if (isSpainCountryValue(country)) {
+        const region = resolveSpainGuardRegion(currentCityRecord?.record || {});
+        if (region === "valencia") {
+          return category === "pharmacy" ? "965 123 123" : "965 214 111";
+        }
+        return category === "pharmacy" ? "968 27 74 00" : "968 89 92 80";
+      }
+      if (isBelgiumCountryValue(country)) return "-";
+      return category === "pharmacy" ? "3237" : "3115";
+    }
+
+    function defaultGuardNote(category, country, guard = {}) {
+      if (category === "pharmacy" && guard.pharmacyNote) return guard.pharmacyNote;
+      if (category === "veterinary" && guard.veterinaryNote) return guard.veterinaryNote;
+      if (isSpainCountryValue(country)) {
+        const region = resolveSpainGuardRegion(currentCityRecord?.record || {});
+        if (region === "valencia") {
+          return category === "pharmacy"
+            ? "Service officiel des pharmacies de garde — province d'Alicante (COFA)."
+            : "Colegio Oficial de Veterinarios de Alicante (ICOVAL) — buscador de centros veterinarios.";
+        }
+        return category === "pharmacy"
+          ? "Service officiel des pharmacies de garde — Region de Murcia."
+          : "Service officiel des veterinaires de garde — Region de Murcia.";
+      }
+      return category === "pharmacy"
+        ? "Service officiel pharmacie de garde."
+        : "Urgences veterinaires nationales.";
+    }
+
     function isPlausibleBelgiumCoords(lat, lng) {
       return lat >= 49 && lat <= 51.8 && lng >= 2.4 && lng <= 6.5;
+    }
+
+    function isInSpainBBox(lat, lng) {
+      return Number.isFinite(lat) && Number.isFinite(lng)
+        && lat >= 35.2 && lat <= 43.9
+        && lng >= -9.6 && lng <= 4.6;
+    }
+
+    function isPlausibleFranceCoords(lat, lng) {
+      return lat >= 41 && lat <= 51.5 && lng >= -5.5 && lng <= 9.8;
+    }
+
+    function isLiveItemPlausibleForCity(live) {
+      const country = currentCityRecord?.record?.country || "";
+      const lat = Number(live?.lat);
+      const lng = Number(live?.lng);
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) return true;
+      if (isSpainCountryValue(country)) return isInSpainBBox(lat, lng);
+      if (isBelgiumCountryValue(country)) return isPlausibleBelgiumCoords(lat, lng);
+      if (isFranceCountryValue(country)) return isPlausibleFranceCoords(lat, lng);
+      return true;
+    }
+
+    function cityAnchorCoords() {
+      const facilities = currentCityRecord?.record?.facilities || [];
+      const hospital = facilities.find((f) => f.category === "hospital" && Number.isFinite(Number(f.lat)) && Number.isFinite(Number(f.lng)));
+      if (hospital) return { lat: Number(hospital.lat), lng: Number(hospital.lng) };
+      const withCoords = facilities.find((f) => Number.isFinite(Number(f.lat)) && Number.isFinite(Number(f.lng)));
+      if (withCoords) return { lat: Number(withCoords.lat), lng: Number(withCoords.lng) };
+      return null;
+    }
+
+    function isPlausibleCityFacilityCoords(lat, lng, country) {
+      if (isBelgiumCountryValue(country)) return isPlausibleBelgiumCoords(lat, lng);
+      if (isSpainCountryValue(country) && !isInSpainBBox(lat, lng)) return false;
+      if (isFranceCountryValue(country) && !isPlausibleFranceCoords(lat, lng)) return false;
+      const anchor = cityAnchorCoords();
+      if (!anchor) return true;
+      return distanceKm(anchor, { lat, lng }) <= 30;
     }
 
     async function geocodeAddress(query) {
@@ -478,9 +588,10 @@
       if (!q) return null;
       const country = currentCityRecord?.record?.country || "";
       const belgium = isBelgiumCountryValue(country);
+      const spain = isSpainCountryValue(country);
+      const france = isFranceCountryValue(country) && !spain;
 
-      // api-adresse.data.gouv.fr = France uniquement ; ne pas l'utiliser en Belgique.
-      if (!belgium) {
+      if (france && !belgium) {
         try {
           const url = `https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(q)}&limit=1`;
           const response = await fetch(url, { headers: { "Accept": "application/json" } });
@@ -496,7 +607,15 @@
         } catch (_) {}
       }
 
-      const nominatimQuery = belgium && !/belg/i.test(q) ? `${q}, Belgique` : q;
+      const cityLabel = (currentCityRecord?.record?.city)
+        || (window.CLQ_CITY && window.CLQ_CITY.name)
+        || "";
+      let nominatimQuery = q;
+      if (spain && !/espana|españa|spain|alicante|murcia|cartagena|lorca|aguilas|caravaca/i.test(q)) {
+        nominatimQuery = [q, cityLabel, "España"].filter(Boolean).join(", ");
+      } else if (belgium && !/belg/i.test(q)) {
+        nominatimQuery = `${q}, Belgique`;
+      }
       try {
         const url = `https://nominatim.openstreetmap.org/search?format=json&limit=1&q=${encodeURIComponent(nominatimQuery)}`;
         const response = await fetch(url, { headers: { "Accept": "application/json" } });
@@ -518,14 +637,14 @@
       const lat = Number(item.lat);
       const lng = Number(item.lng);
       if (Number.isFinite(lat) && Number.isFinite(lng)) {
-        if (!belgium || isPlausibleBelgiumCoords(lat, lng)) return { lat, lng };
+        if (isPlausibleCityFacilityCoords(lat, lng, country)) return { lat, lng };
       }
       const cityName = (currentCityRecord && currentCityRecord.record && currentCityRecord.record.city) || "{{CITY_NAME}}";
-      const cacheKey = `clq_emergency_geo_v2_${normalizeSlug(cityName)}_${normalizeSlug(item.name)}_${normalizeSlug(item.address || "")}`;
+      const cacheKey = `clq_emergency_geo_v3_${normalizeSlug(cityName)}_${normalizeSlug(item.name)}_${normalizeSlug(item.address || "")}`;
       try {
         const cached = JSON.parse(localStorage.getItem(cacheKey) || "null");
         if (cached && Number.isFinite(cached.lat) && Number.isFinite(cached.lng)) {
-          if (!belgium || isPlausibleBelgiumCoords(cached.lat, cached.lng)) return cached;
+          if (isPlausibleCityFacilityCoords(cached.lat, cached.lng, country)) return cached;
         }
       } catch (_) {}
       const candidate = [item.address, cityName].filter(Boolean).join(", ");
@@ -596,6 +715,9 @@
       yes.style.cssText = "background:#1f9d55;color:#fff;border:none;border-radius:8px;padding:9px 16px;cursor:pointer;min-width:120px;width:auto;display:inline-flex;justify-content:center;";
       no.style.cssText = "background:#c8102e;color:#fff;border:none;border-radius:8px;padding:9px 16px;cursor:pointer;min-width:120px;width:auto;display:inline-flex;justify-content:center;";
       yes.onclick = () => {
+        try {
+          sessionStorage.setItem('clq_museum_guidance', '1');
+        } catch (_) { /* ignore */ }
         localStorage.setItem(forceTargetStorageKey(), JSON.stringify(payload));
         const target = (window.clqDevMode && window.clqDevMode.append)
           ? window.clqDevMode.append("main.html")
@@ -673,6 +795,20 @@
       target.innerHTML = html;
     }
 
+    function resolveOnDutyLiveNote(category, meta, guardNoteKey, guardDefaultNote, guard) {
+      if (meta?.status === "fallback") return t("onDutyFallback", guardDefaultNote);
+      if (meta?.status === "needs_location") {
+        return t("onDutyNeedsLocation", "activez la localisation pour rechercher la garde la plus proche");
+      }
+      if (meta?.status === "unsupported") {
+        return category === "pharmacy"
+          ? t("onDutyUnsupportedPharmacy", "Recherche automatique de pharmacie de garde non disponible pour cette zone.")
+          : t("onDutyUnsupportedVeterinary", "Recherche automatique de veterinaire de garde non disponible pour cette zone.");
+      }
+      if (meta?.message) return t("onDutyFallback", guardDefaultNote);
+      return localizedNote(guard[guardNoteKey], guardNoteKey, guardDefaultNote);
+    }
+
     function renderGuardBox(category, elementId, guardNumberKey, guardNoteKey, guardDefaultNote, guardCurrentKey, guardNumberFallback) {
       const el = document.getElementById(elementId);
       if (!el) return;
@@ -681,16 +817,16 @@
       const meta = getLiveOnDutyMeta(category);
       const hotline = meta?.hotline || guardNumberFallback || "-";
       const liveClass = liveOnDutyLoading || (meta && meta.items && meta.items.length) ? " guard-box-live" : "";
-      const fallbackLink = meta?.fallbackUrl
-        ? `<div class="small-note"><a class="web-link-btn" href="${esc(meta.fallbackUrl)}" target="_blank" rel="noreferrer">${t("officialOnDutyService", "Service officiel de garde")}</a></div>`
+      const staticFallbackUrl = category === "pharmacy" ? guard.pharmacyUrl : guard.veterinaryUrl;
+      const fallbackUrl = meta?.fallbackUrl || staticFallbackUrl || "";
+      const fallbackLink = fallbackUrl
+        ? `<div class="small-note"><a class="web-link-btn" href="${esc(fallbackUrl)}" target="_blank" rel="noreferrer">${t("officialOnDutyService", "Service officiel de garde")}</a></div>`
         : "";
       const liveNote = liveOnDutyLoading
         ? `<span class="guard-loading">${t("onDutyLoading", "recherche en cours...")}</span>`
         : (meta?.status === "ok" && meta?.items?.length)
           ? `<span class="small-note">${t("onDutyLiveNote", "Mis a jour en direct a l'ouverture de la page.")}</span>`
-          : meta?.status === "fallback"
-            ? esc(t("onDutyFallback", guardDefaultNote))
-            : esc(meta?.message || localizedNote(guard[guardNoteKey], guardNoteKey, guardDefaultNote));
+          : esc(resolveOnDutyLiveNote(category, meta, guardNoteKey, guardDefaultNote, guard));
       el.className = `guard-box${liveClass}`;
       el.innerHTML = `
         <strong>${t(guardNumberKey, guardNumberKey)} : ${esc(hotline)}</strong><br/>
@@ -723,7 +859,7 @@
         "pharmacyNote",
         "Service officiel pharmacie de garde.",
         "pharmacyGuardCurrent",
-        guard.pharmacyNumber || "3237"
+        defaultGuardHotline("pharmacy", currentCityRecord.record.country, guard)
       );
 
       const vet = document.getElementById("veterinary-guard");
@@ -732,21 +868,26 @@
         "veterinary-guard",
         "veterinaryGuardNumber",
         "veterinaryNote",
-        "Urgences veterinaires nationales.",
+        defaultGuardNote("veterinary", currentCityRecord.record.country, guard),
         "veterinaryGuardCurrent",
-        guard.veterinaryNumber || "3115"
+        defaultGuardHotline("veterinary", currentCityRecord.record.country, guard)
       );
     }
 
     function buildOnDutyQuery() {
       const params = new URLSearchParams();
+      const record = currentCityRecord?.record || {};
+      const anchor = cityAnchorCoords();
       if (userPosition) {
         params.set("lat", String(userPosition.lat));
         params.set("lng", String(userPosition.lng));
+      } else if (anchor) {
+        params.set("lat", String(anchor.lat));
+        params.set("lng", String(anchor.lng));
       }
-      const record = currentCityRecord?.record || {};
       if (record.country) params.set("country", record.country);
-      if (record.city) params.set("city", record.city);
+      const city = record.city || (window.CLQ_CITY && window.CLQ_CITY.name) || "";
+      if (city) params.set("city", city);
       const postal = (window.CLQ_CITY && window.CLQ_CITY.postalCode) || record.postalCode || "";
       if (postal) params.set("postalCode", postal);
       params.set("_", String(Date.now()));
@@ -813,8 +954,10 @@
     async function init() {
       await loadTexts();
       const cityName = (window.CLQ_CITY && window.CLQ_CITY.name) || "{{CITY_NAME}}";
+      const titleCity = `CityLoop Quest ${cityName}`;
       const mainTitle = document.getElementById("mainTitle");
-      if (mainTitle) mainTitle.textContent = "CityLoop Quest Carthagène";
+      if (mainTitle) mainTitle.textContent = titleCity;
+      document.title = `${titleCity} - Secours`;
 
       const stamp = Date.now();
       const r = await fetch(`data/emergency_contacts.city.json?v=${stamp}`, { cache: "no-store" });

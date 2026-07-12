@@ -1,5 +1,5 @@
-const PRECACHE = 'precache-v52-scrollfix';
-const RUNTIME  = 'runtime-v37-scrollfix';
+const PRECACHE = 'precache-v56-scrollfix';
+const RUNTIME  = 'runtime-v41-scrollfix';
 
 const PRECACHE_URLS = [
   './',                       // ok si tu sers à la racine du dossier
